@@ -1,0 +1,7 @@
+﻿GLOBAL = {
+	set_global_variable = schleswig_holstein_question_solved
+	set_global_variable = peoples_springtime_happened   
+ 
+
+
+}

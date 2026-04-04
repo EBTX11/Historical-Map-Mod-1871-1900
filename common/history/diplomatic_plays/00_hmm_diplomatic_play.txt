@@ -1,0 +1,88 @@
+﻿DIPLOMATIC_PLAYS = {
+	c:CSA ?= {
+		create_diplomatic_play = {
+			name = american_civil_war 
+
+			# target_state = c:USA.capital 
+			# war = yes
+			# annex_as_civil_war = yes 
+			# type = dp_revolution 
+ 
+			war = yes 
+			type = dp_return_state
+ 
+
+			target_state = s:STATE_MISSOURI.region_state:USA  
+			 
+			#CSA
+			add_war_goal = {
+				holder = c:CSA
+				type = return_state
+				target_state = s:STATE_KENTUCKY.region_state:USA  
+			} 
+			add_war_goal = {
+				holder = c:CSA
+				type = return_state
+				target_state = s:STATE_WEST_VIRGINIA.region_state:USA  
+			}  
+
+			#USA
+			add_war_goal = {
+				holder = c:USA
+				type = return_state
+				target_state = s:STATE_MISSOURI.region_state:CSA  
+			} 
+			add_war_goal = {
+				holder = c:USA
+				type = return_state 
+				target_state = s:STATE_KENTUCKY.region_state:CSA  
+			} 
+			add_war_goal = {
+				holder = c:USA
+				type = return_state 
+				target_state = s:STATE_WEST_VIRGINIA.region_state:CSA   
+			}  
+			add_war_goal = {
+				holder = c:USA
+				type = return_state  
+				target_state = s:STATE_TEXAS.region_state:CSA  
+			}  
+		}
+		 
+	}
+	c:TPG ?= {
+		create_diplomatic_play = {
+			name = taiping_rebellion #american_civil_war 
+
+			target_state = c:CHI.capital 
+			war = yes
+			annex_as_civil_war = yes 
+			type = dp_revolution   
+		} 
+	} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

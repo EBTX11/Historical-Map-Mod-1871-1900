@@ -1,0 +1,14 @@
+﻿DIPLOMACY = {
+	c:USA ?= {
+		create_diplomatic_pact = {
+			country = c:CSA
+			type = rivalry
+		}
+	}
+	c:CSA ?= {
+		create_diplomatic_pact = {
+			country = c:USA
+			type = rivalry
+		}
+	} 
+}

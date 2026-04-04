@@ -1,0 +1,61 @@
+# =========================
+# DEFAULT
+# =========================
+BASE: effect_starting_technology_tier_3_tech = yes
+
+# =========================
+# HMM
+# =========================
+
+# TIER_1_TECH_HMM #effect_starting_technology_tier_1_tech_hmm
+
+# TIER_2_TECH_HMM #effect_starting_technology_tier_2_tech_hmm
+
+
+# TIER_3_TECH_HMM #effect_starting_technology_tier_3_tech_hmm
+
+
+# TIER_4_TECH_HMM #effect_starting_technology_tier_4_tech_hmm
+FRA
+GBR
+USA
+NGF
+RUS 
+AUS
+CSA
+MEX
+CAN
+BRZ
+ITA
+
+# =========================
+# VANILLA
+# =========================
+
+# TIER_1_TECH #effect_starting_technology_tier_1_tech
+VNZ
+CLM
+ECU
+PEU
+BOL
+ARG
+CHL
+URU
+PRG
+EGY
+ETH
+BIC
+ROM
+POL
+HUN
+PER
+
+# TIER_2_TECH #effect_starting_technology_tier_2_tech
+
+# TIER_3_TECH #effect_starting_technology_tier_3_tech
+
+# TIER_4_TECH #effect_starting_technology_tier_4_tech
+
+# TIER_5_TECH #effect_starting_technology_tier_5_tech
+
+# TIER_6_TECH #effect_starting_technology_tier_6_tech

@@ -1,0 +1,18 @@
+﻿COUNTRIES = {
+	c:COS ?= {
+        effect_starting_technology_tier_3_tech = yes
+		effect_starting_politics_conservative = yes
+		set_tax_level = medium
+		activate_law = law_type:law_presidential_republic
+		activate_law = law_type:law_traditionalism
+		activate_law = law_type:law_mercantilism
+		activate_law = law_type:law_wealth_voting
+        create_character = {
+            first_name = ""
+            last_name = ""
+            birth_date = 1800.1.1
+            ruler = yes
+            interest_group = 
+        }
+	}
+}

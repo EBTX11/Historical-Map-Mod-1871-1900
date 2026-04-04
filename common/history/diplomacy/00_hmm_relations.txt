@@ -1,0 +1,42 @@
+﻿DIPLOMACY = {
+	c:USA ?= {
+		set_relations = { country = c:CSA value = -100 } 
+		set_relations = { country = c:GBR value = 20 }
+	}
+	c:CSA ?= {
+		set_relations = { country = c:USA value = -100 } 
+		set_relations = { country = c:GBR value = 30 } 
+	}
+	 
+	
+	c:GBR ?= { 
+		set_relations = { country = c:CSA value = 30 } 
+		set_relations = { country = c:FRA value = 60 } 
+		set_relations = { country = c:NGF value = 20 } 
+		set_relations = { country = c:USA value = 20 }
+	}
+	c:RUS ?= {
+ 		set_relations = { country = c:AUS value = -60 } 
+		set_relations = { country = c:NGF value = 10 } 
+		set_relations = { country = c:GBR value = -60 } 
+		set_relations = { country = c:FRA value = -60 } 
+	}
+	c:NGF ?= {
+		set_relations = { country = c:RUS value = 30 } 
+		set_relations = { country = c:AUS value = -60 } 
+		set_relations = { country = c:FRA value = 10 } 
+		set_relations = { country = c:GBR value = 30 }  
+	}
+ 
+	c:ITA ?= { 
+		set_relations = { country = c:PAP value = -40 }
+		set_relations = { country = c:FRA value = 40 }
+	}
+
+	c:FRA ?= { 
+		set_relations = { country = c:ITA value = 20 }
+		set_relations = { country = c:PAP value = 40 }
+		set_relations = { country = c:GBR value = 60 }
+	} 
+	 
+}

@@ -1,0 +1,19 @@
+common crach :
+
+Power block à supprimer
+relasion dans diplomacy 
+pour la det ade départ : 
+> event french_pretenders 1883
+> law monarchy dans gouvernance principe qui est le principal bug 
+
+
+
+building dumps
+norevolution
+nosecession
+
+
+
+
+
+

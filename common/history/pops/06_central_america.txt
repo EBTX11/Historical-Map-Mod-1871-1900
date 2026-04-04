@@ -1,0 +1,438 @@
+﻿POPS = {
+	s:STATE_SAN_SALVADOR = {
+		
+	
+		region_state:ELS = {
+			create_pop = {
+				culture = central_american
+				size = 556665
+			}
+		}
+	}
+	s:STATE_GUATEMALA = {
+		
+		region_state:GBR = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 7958
+			}
+			create_pop = {
+				culture = british
+				size = 116
+			}
+		}
+	
+		region_state:GUA = {
+			create_pop = {
+				culture = central_american
+				size = 213725
+			}
+			create_pop = {
+				culture = mayan
+				size = 405600
+			}
+		}
+	}
+	s:STATE_HONDURAS = {
+		
+	
+		region_state:HON = {
+			create_pop = {
+				culture = central_american
+				size = 500765
+			}
+			create_pop = {
+				culture = miskito # Cape of Gracias a Dios Miskito
+				size = 3900
+			}
+		}
+	}
+	s:STATE_NICARAGUA = {
+		
+		region_state:MKT = {
+			create_pop = {
+				culture = miskito # Tawira Miskito
+				size = 39000
+			}
+			create_pop = {
+				culture = miskito
+				religion = protestant
+				size = 13000
+			}
+			create_pop = {
+				culture = afro_caribbean # Miskito Sambu
+				size = 26000
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 650
+			}
+			create_pop = {
+				culture = british
+				size = 650
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 1300
+			}
+		}
+	
+		region_state:NIC = {
+			create_pop = {
+				culture = central_american
+				size = 369200
+			}
+			create_pop = {
+				culture = miskito # Miskito pop. across the 'borders'
+				size = 5200
+			}
+		}
+	}
+	s:STATE_COSTA_RICA = {
+		
+	
+		region_state:COS = {
+			create_pop = {
+				culture = central_american
+				size = 109189
+			}
+		}
+	}
+	s:STATE_PANAMA = {
+		
+	
+		region_state:PNM = {
+			create_pop = {
+				culture = central_american
+				size = 114129
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 36790
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 5330
+			}
+			create_pop = {
+				culture = north_andean
+				size = 5200
+			}
+			create_pop = {
+				culture = cariban
+				size = 5200
+			}
+		}
+	}
+	# Haitian and Dominican population numbers are based off 1850 numbers from "La población de América Latina" by Nicolás Sánchez-Albornoz, scaled back 8,5% to account for approx. population growth.
+	s:STATE_HAITI = {
+		region_state:HAI = {
+			create_pop = { # Includes mulatto population.
+				culture = afro_antillean
+				size = 1080071
+			}
+			create_pop = { # A small number of protestants existed in Haiti since the early 19th century.
+				culture = afro_antillean
+				size = 10478
+			}
+			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. Black.
+				culture = afro_caribeno
+				size = 17605
+			}
+			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. Mulatto.
+				culture = caribeno
+				size = 6656
+			}
+			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. White.
+				culture = spanish
+				size = 157
+			}
+			create_pop = { # Polish population centered mainly on Cazale. About 400 Poles stayed behind in Haiti after the war.
+				culture = polish
+				size = 507
+			}
+			create_pop = { # Remnants of the 1824 migration scheme
+				culture = afro_american
+				size = 275
+			}
+		}
+	}
+	s:STATE_SANTO_DOMINGO = {
+		
+	
+		region_state:DOM = {
+			create_pop = { # Haitians.
+				culture = afro_antillean
+				size = 5209
+			}
+			create_pop = { # Mulatto.
+				culture = caribeno
+				size = 109363
+			}
+			create_pop = { # Mulatto.
+				culture = caribeno
+				pop_type = clergymen
+				size = 2600
+			}
+			create_pop = { # Mulatto.
+				culture = caribeno
+				pop_type = bureaucrats
+				size = 2600
+			}
+			create_pop = { # Mulatto.
+				culture = caribeno
+				pop_type = soldiers
+				size = 13000
+			}
+			create_pop = { # Mulatto.
+				culture = caribeno
+				pop_type = clerks
+				size = 3250
+			}
+			create_pop = { # A small number of protestants existed in the early 19th century.
+				culture = caribeno
+				religion = protestant
+				size = 1316
+			}
+			create_pop = { # Black.
+				culture = afro_caribeno
+				size = 19364
+			}
+			create_pop = { # Black.
+				culture = afro_caribeno
+				pop_type = soldiers
+				size = 6500
+			}
+			create_pop = { # White.
+				culture = spanish
+				size = 1344
+			}
+			create_pop = { # White.
+				culture = spanish
+				pop_type = bureaucrats
+				size = 1300
+			}
+			create_pop = { # White.
+				culture = spanish
+				pop_type = aristocrats
+				size = 910
+			}
+			create_pop = { # White.
+				culture = spanish
+				pop_type = officers
+				size = 780
+			}
+			create_pop = { # White.
+				culture = spanish
+				pop_type = clergymen
+				size = 650
+			}
+			create_pop = { # Remnants of the 1824 migration scheme. Samaná Americans.
+				culture = afro_american
+				size = 2800
+			}
+		}
+	}
+	s:STATE_PUERTO_RICO = {
+		region_state:PCO = {
+			create_pop = {
+				culture = caribeno
+				size = 177648
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 156141
+			}
+			create_pop = {
+				culture = spanish
+				size = 7675
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 41602
+			}
+		}
+	}
+	s:STATE_BAHAMAS = {
+		region_state:GBR = {
+			create_pop = {
+				culture = british
+				size = 21510
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 112484
+			}
+		}
+	}
+	s:STATE_WEST_INDIES = {
+		region_state:FRA = {
+			create_pop = {
+				culture = french
+				size = 23703
+			}
+			create_pop = {
+				culture = afro_antillean
+				size = 230753
+			}
+		}
+		region_state:DEN = {
+			create_pop = {
+				culture = danish
+				size = 5189
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 51994
+			}
+		}
+		region_state:GBR = {
+			create_pop = {
+				culture = british
+				size = 38880
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 263024
+			}
+			create_pop = {
+				culture = dutch
+				size = 444
+			}
+		}
+		region_state:NET = {
+			# Population of ~23700 recorded in 1849
+			create_pop = {
+				culture = afro_brazilian # Papiamento-speakers
+				# pop_type = slaves
+				size = 13275
+			}
+			create_pop = {
+				culture = afro_brazilian # Papiamento-speakers
+				size = 10805
+			}
+			create_pop = {
+				culture = dutch
+				size = 1445
+			}
+			create_pop = {
+				culture = sephardic
+				size = 1562
+			}
+		}
+		region_state:VNZ = {
+			# Very rough backwards calculation of Nueva Esparta's population in 1921
+			create_pop = {
+				culture = north_andean
+				size = 22259
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 1703
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 1315
+			}
+		}
+	}
+	s:STATE_JAMAICA = {
+		region_state:GBR = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 401755
+			}
+			create_pop = {
+				culture = british
+				size = 25814
+			}
+		}
+	}
+	s:STATE_WESTERN_CUBA = { # TODO Here, Caribeño = White. Revise spanish/caribeno ratio to account for mainlanders. Possibly include sepoarate Catalans/Galicians etc.
+		region_state:CUB = {
+			# 896400
+			create_pop = {
+				culture = caribeno
+				size = 207495
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 50858
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 233396
+			}
+			##Adding these for now to help with diversity and migration
+			create_pop = {
+				culture = spanish
+				size = 19500
+			}
+			create_pop = {
+				culture = galician
+				size = 7800
+			}
+			create_pop = {
+				culture = catalan
+				size = 2600
+			}
+			create_pop = { 
+				culture = basque
+				size = 3900
+			}
+			create_pop = { #see Cuba, A history, by Hugh Thomas book pg 88, some Chinese were here already, which is probably where the idea of bringing them en masse to work sugar came from 
+				culture = han
+				size = 1560
+			}
+		}
+	}
+	s:STATE_EASTERN_CUBA = { # TODO Here, Caribeño = White. Revise spanish/caribeno ratio to account for mainlanders. Possibly include sepoarate Catalans/Galicians etc.
+		region_state:CUB = {
+			# 896400
+			create_pop = {
+				culture = caribeno
+				size = 102038
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 50858
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 119310
+			}
+			create_pop = {
+				culture = spanish
+				size = 10400
+			}
+		}
+	}
+	s:STATE_CENTRAL_CUBA = { # TODO Here, Caribeño = White. Revise spanish/caribeno ratio to account for mainlanders. Possibly include sepoarate Catalans/Galicians etc.
+		region_state:CUB = {
+			# 896400
+			create_pop = {
+				culture = caribeno
+				size = 130800
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 41735
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 178357
+			}
+			create_pop = {
+				culture = spanish
+				size = 15600
+			}
+		}
+	}
+}

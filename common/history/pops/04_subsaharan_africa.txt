@@ -1,0 +1,3241 @@
+﻿POPS = {
+	s:STATE_IVORY_COAST = {
+		region_state:FRA = {
+			create_pop = {
+				culture = akan
+				size = 93963
+			}
+		}
+		region_state:BLE = {
+			create_pop = {
+				culture = akan
+				size = 52000
+			}
+		}
+		region_state:KNG = {
+			create_pop = {
+				culture = akan
+				size = 67605
+			}
+			create_pop = {
+				culture = senufo
+				size = 124800
+			}
+			create_pop = {
+				culture = dyula
+				size = 83205
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = akan
+				size = 26005
+			}
+		}
+		region_state:AYI = {
+			create_pop = {
+				culture = akan
+				size = 102960
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = akan
+				size = 11440
+			}
+		}
+	}
+	s:STATE_WINDWARD_COAST = {
+		region_state:KBD = {
+			create_pop = {
+				culture = mande
+				size = 91000
+			}
+			create_pop = {
+				culture = dyula
+				size = 35100
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 10140
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dyula
+				size = 6500
+			}
+		}
+		region_state:BLE = {
+			create_pop = {
+				culture = akan
+				size = 129994
+			}
+			create_pop = {
+				culture = mande
+				size = 14430
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 14430
+			}
+		}
+		region_state:KRU = {
+			create_pop = {
+				culture = kru
+				size = 279505
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kru
+				size = 22100
+			}
+		}
+	}
+	s:STATE_SENEGAL = {
+		region_state:FRA = {
+			create_pop = {
+				culture = fulbe
+				size = 102495
+			}
+			create_pop = {
+				culture = bidan
+				size = 13239
+			}
+			create_pop = {
+				culture = wolof
+				size = 34171
+			}
+		}
+		
+		
+		region_state:FTR = {
+			create_pop = {
+				culture = fulbe
+				size = 104005
+			}
+			create_pop = {
+				culture = wolof
+				size = 8314
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 10400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = wolof
+				size = 7800
+			}
+		}
+		region_state:POR = {
+			create_pop = {
+				culture = portuguese
+				size = 54
+			}
+			create_pop = {
+				culture = afro_brazilian
+				size = 184
+			}
+			create_pop = {
+				culture = fulbe
+				size = 12235
+			}
+			create_pop = {
+				culture = mande
+				size = 3005
+			}
+		}
+		
+		region_state:SRR = {
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 104520
+			}
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 10400
+			}
+		}
+		region_state:BND = {
+			create_pop = {
+				culture = mande
+				size = 124800
+			}
+			create_pop = {
+				culture = wolof
+				size = 83720
+			}
+			create_pop = {
+				culture = bambara
+				size = 44200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 13000
+			}
+		}
+		region_state:KBU = {
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 30057
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				religion = animist
+				size = 3043
+			}
+		}
+		region_state:DIO = {
+			create_pop = {
+				culture = fulbe
+				religion = animist
+				size = 57359
+			}
+			create_pop = {
+				culture = fulbe
+				size = 5603
+			}
+			create_pop = {
+				culture = mande
+				size = 4057
+			}
+		}
+		region_state:POR = {
+			create_pop = {
+				culture = fulbe
+				religion = animist
+				size = 1605
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				religion = animist
+				size = 448
+			}
+			create_pop = {
+				culture = portuguese
+				size = 44
+			}
+		}
+	
+		region_state:GBR = {
+			create_pop = {
+				culture = fulbe
+				size = 107545
+			}
+			create_pop = {
+				culture = bidan
+				size = 13891
+			}
+			create_pop = {
+				culture = wolof
+				size = 35852
+			}
+		}
+	}
+	s:STATE_SIERRA_LEONE = {
+		# Approximate 1844 numbers
+		region_state:SIL = {
+			create_pop = {
+				culture = british
+				size = 227
+			}
+			create_pop = {
+				culture = afro_caribbean # Krio
+				size = 19515
+			}
+			create_pop = {
+				culture = yoruba
+				size = 10556
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 15613
+			}
+			create_pop = {
+				culture = kissi
+				size = 6632
+			}
+
+		}
+		
+		
+	}
+	s:STATE_VOLTA = {
+		region_state:MOS = {
+			create_pop = {
+				culture = mossi
+				size = 1076920
+			}
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 221000
+			}
+			create_pop = {
+				culture = fulbe
+				size = 114400
+			}
+			create_pop = {
+				culture = mande
+				size = 315114
+			}
+			create_pop = {
+				culture = bambara
+				size = 104520
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				religion = animist
+				size = 23400
+			}
+		}
+		region_state:KNG = {
+			create_pop = {
+				culture = dyula
+				size = 25994
+			}
+			create_pop = {
+				culture = mande
+				size = 57200
+			}
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 42900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				religion = animist
+				size = 19500
+			}
+		}
+	}
+	s:STATE_LIBERIA = {
+		region_state:LIB = {
+			create_pop = {
+				culture = kru
+				size = 278460
+			}
+			create_pop = {
+				culture = bassa
+				size = 130000
+			}
+			create_pop = {
+				culture = bassa
+				size = 17290
+			}
+			create_pop = {
+				culture = kissi
+				size = 11440
+			}
+			create_pop = {
+				culture = mande
+				size = 26000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 5863
+			}
+			create_pop = {
+				culture = kru
+				religion = protestant
+				size = 21320
+			}
+		}
+		
+		
+	}
+	s:STATE_HAUSALAND = {
+		region_state:SOK = {
+			create_pop = {
+				culture = hausa
+				size = 700079
+			}
+			create_pop = {
+				culture = songhai
+				size = 31200
+			}
+			create_pop = {
+				culture = fulbe
+				size = 419135
+			}
+			create_pop = {
+				culture = yoruba
+				size = 234520
+			}
+			create_pop = {
+				culture = hausa
+				religion = animist
+				size = 187720
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 146120
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 82119
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				religion = animist
+				size = 52000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = yoruba
+				size = 26000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 26000
+			}
+		}
+		region_state:BRG = {
+			create_pop = {
+				culture = mande
+				size = 52000
+			}
+		}
+	}
+	s:STATE_BENIN = {
+		region_state:BEN = {
+			create_pop = {
+				culture = edo
+				size = 641929
+			}
+			create_pop = {
+				culture = ibo
+				size = 405600
+			}
+			create_pop = {
+				culture = yoruba
+				size = 301594
+			}
+			create_pop = {
+				culture = fulbe
+				size = 348400
+			}
+			create_pop = {
+				culture = tiv
+				size = 241800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tiv
+				size = 241800
+			}
+		}
+	}
+	s:STATE_YORUBA_STATES = {
+		region_state:OYO = {
+			create_pop = {
+				culture = yoruba
+				size = 2012410
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fon
+				size = 36394
+			}
+		}
+	
+		region_state:GBR = {
+			create_pop = {
+				culture = yoruba
+				size = 1734333
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fon
+				size = 31365
+			}
+		}
+	}
+	s:STATE_NIGER_DELTA = {
+		region_state:IBO = {
+			create_pop = {
+				culture = ibo
+				size = 1362400
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 946400
+			}
+			create_pop = {
+				culture = ibibio
+				size = 546000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ibo
+				size = 130000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 26000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ibibio
+				size = 39000
+			}
+		}
+	}
+	# If anyone has better numbers for ethnic makeup and overall population figures, hmu
+	s:STATE_OUTER_HAUSALAND = {
+		region_state:HAU = {
+			create_pop = {
+				culture = hausa
+				size = 219632
+			}
+			create_pop = {
+				culture = dyula
+				size = 20748
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 124194
+			}
+			create_pop = {
+				culture = tuareg
+				size = 47421
+			}
+			create_pop = {
+				culture = songhai
+				size = 39275
+			}
+			create_pop = {
+				culture = fulbe
+				size = 31856
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 14820
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = songhai
+				size = 11115
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 11115
+			}
+		}
+		region_state:SOK = {
+			create_pop = {
+				culture = hausa
+				size = 16577
+			}
+			create_pop = {
+				culture = dyula
+				size = 15652
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 93691
+			}
+			create_pop = {
+				culture = tuareg
+				size = 35773
+			}
+			create_pop = {
+				culture = songhai
+				size = 29629
+			}
+			create_pop = {
+				culture = fulbe
+				size = 24033
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 11180
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = songhai
+				size = 8385
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 8385
+			}
+		}
+		region_state:BOR = {
+			create_pop = {
+				culture = kanuri
+				size = 114400
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 26395
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 4292
+			}
+		}
+	}
+	s:STATE_BORNU = {
+		region_state:BOR = {
+			create_pop = {
+				culture = kanuri
+				size = 551184
+			}
+			create_pop = {
+				culture = hausa
+				size = 154700
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 16900
+			}
+			create_pop = {
+				culture = fulbe
+				size = 93600
+			}
+			create_pop = {
+				culture = bedouin
+				size = 10400
+			}
+		}
+	}
+	s:STATE_NIGERIA = {
+		region_state:SOK = {
+			create_pop = {
+				culture = tiv
+				size = 225160
+			}
+			create_pop = {
+				culture = hausa
+				religion = animist
+				size = 36920
+			}
+			create_pop = {
+				culture = fulbe
+				size = 128180
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 153530
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				religion = sunni
+				size = 67605
+			}
+			create_pop = {
+				culture = hausa
+				size = 61105
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tiv
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				religion = animist
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 6500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 39000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 13000
+			}
+		}
+	}
+	s:STATE_EAST_HAUSALAND = {
+		region_state:SOK = {
+			create_pop = {
+				culture = hausa
+				size = 1638262
+			}
+			create_pop = {
+				culture = hausa
+				religion = animist
+				size = 452335
+			}
+			create_pop = {
+				culture = fulbe
+				size = 489834
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 130247
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 260247
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				religion = animist
+				size = 130065
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 26000
+			}
+		}
+	}
+	s:STATE_GUINEA = {
+		region_state:MDK = {
+			create_pop = {
+				culture = mande
+				size = 206486
+			}
+			create_pop = {
+				culture = dyula
+				size = 53300
+			}
+			create_pop = {
+				culture = fulbe
+				size = 3900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dyula
+				size = 14300
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 1300
+			}
+		}
+		region_state:SSU = {
+			create_pop = {
+				culture = mande
+				size = 410800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dyula
+				size = 20800
+			}
+			create_pop = {
+				culture = fulbe
+				size = 10400
+			}
+		}
+		region_state:FTJ = {
+			create_pop = {
+				culture = fulbe
+				size = 385268
+			}
+			create_pop = {
+				culture = mande
+				size = 130000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 6500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 26000
+			}
+		}
+		region_state:POR = {
+			create_pop = {
+				culture = fulbe
+				size = 4435
+			}
+			create_pop = {
+				culture = mande
+				size = 1327
+			}
+			create_pop = {
+				culture = portuguese
+				size = 92
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 781
+			}
+		}
+		region_state:KBU = {
+			create_pop = {
+				culture = mande
+				religion = animist
+				size = 65520
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				religion = animist
+				size = 13000
+			}
+		}
+	}
+	s:STATE_GOLD_COAST = {
+		
+		
+		
+		region_state:ASH = {
+			create_pop = {
+				culture = akan
+				size = 567200
+			}
+			create_pop = {
+				culture = mossi
+				size = 57194
+			}
+			create_pop = {
+				culture = ewe
+				size = 115694
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ewe
+				size = 19500
+			}
+		}
+	
+		region_state:GBR = {
+			create_pop = {
+				culture = akan
+				size = 95457
+			}
+			create_pop = {
+				culture = british
+				size = 305
+			}
+		}
+	}
+	s:STATE_TOGO = {
+		region_state:ASH = {
+			create_pop = {
+				culture = ewe
+				size = 26000
+			}
+			create_pop = {
+				culture = akan
+				size = 582400
+			}
+			create_pop = {
+				culture = fulbe
+				size = 10400
+			}
+			create_pop = {
+				culture = fon
+				size = 83205
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fon
+				size = 83205
+			}
+		}
+		region_state:EWE = {
+			create_pop = {
+				culture = ewe
+				size = 462794
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ewe
+				size = 36400
+			}
+		}
+	}
+	s:STATE_DAHOMEY = {
+		region_state:DAH = {
+			create_pop = {
+				culture = fon
+				size = 374384
+			}
+			create_pop = {
+				culture = yoruba
+				size = 44813
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = yoruba
+				size = 39000
+			}
+			create_pop = {
+				culture = akan
+				size = 48557
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 16900
+			}
+		}
+		region_state:BRG = {
+			create_pop = {
+				culture = mande
+				size = 168615
+			}
+			create_pop = {
+				culture = fulbe
+				size = 55801
+			}
+			create_pop = {
+				culture = songhai
+				size = 35698
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 9100
+			}
+		}
+	
+		region_state:FRA = {
+			create_pop = {
+				culture = fon
+				size = 307507
+			}
+			create_pop = {
+				culture = yoruba
+				size = 36806
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = yoruba
+				size = 32032
+			}
+			create_pop = {
+				culture = akan
+				size = 39880
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 13888
+			}
+		}
+	}
+	s:STATE_LINDI = {
+		region_state:HHE = {
+			create_pop = {
+				culture = yao
+				size = 268840
+			}
+			create_pop = {
+				culture = chewa
+				size = 7800
+			}
+			create_pop = {
+				culture = nyamwezi
+				size = 70460
+			}
+			create_pop = {
+				culture = makua
+				size = 76570
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				religion = sunni
+				size = 20805
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = yao
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = chewa
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nyamwezi
+				size = 6500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = makua
+				size = 6500
+			}
+		}
+		region_state:GGO = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 110500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 9100
+			}
+		}
+		region_state:SNG = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 139100
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 6500
+			}
+		}
+	}
+	s:STATE_ZANZIBAR = {
+		region_state:OMA = {
+			create_pop = {
+				culture = swahili
+				size = 497640
+			}
+			create_pop = {
+				culture = sukuma
+				religion = animist
+				size = 15600
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 606054
+			}
+			create_pop = {
+				culture = sukuma
+				pop_type = slaves
+				size = 36400
+			}
+			create_pop = {
+				culture = gujarati
+				religion = shiite
+				size = 260
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				religion = sunni
+				size = 109200
+			}
+			create_pop = {
+				culture = bedouin
+				religion = ibadi
+				size = 10405
+			}
+			create_pop = {
+				culture = sukuma
+				size = 36400
+			}
+			create_pop = {
+				culture = nyamwezi
+				size = 119600
+			}
+			create_pop = {
+				culture = swahili
+				size = 39000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 58500
+			}
+		}
+	}
+	s:STATE_TANGANYIKA = {
+		region_state:NYM = {
+			create_pop = {
+				culture = nyamwezi
+				size = 411060
+			}
+			create_pop = {
+				culture = luo
+				size = 57720
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 227890
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sukuma
+				religion = animist
+				size = 32500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 32500
+			}
+		}
+		region_state:SKM = {
+			create_pop = {
+				culture = sukuma
+				religion = animist
+				size = 289894
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nyamwezi
+				religion = animist
+				size = 19500
+			}
+		}
+		region_state:MSI = {
+			create_pop = {
+				culture = maasai
+				size = 41470
+			}
+		}
+		region_state:KRG = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 151580
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 9100
+			}
+		}
+		region_state:RWD = {
+			create_pop = {
+				culture = ruanda
+				size = 652594
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ruanda
+				size = 13000
+			}
+		}
+		region_state:BRD = {
+			create_pop = {
+				culture = rundi
+				size = 587605
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = rundi
+				size = 20800
+			}
+		}
+	}
+	s:STATE_KENYA = {
+		region_state:KKY = {
+			create_pop = {
+				culture = kikuyu
+				size = 197600
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 153790
+			}
+			create_pop = {
+				culture = maasai
+				size = 20805
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 28600
+			}
+		}
+		region_state:WTU = {
+			# total number: 18500. Historical figure might've been a fifth of this, judging by Lamu County's current population versus Kenya's as a whole. Number inflated for viability.
+			create_pop = {
+				culture = swahili
+				size = 11973
+			}
+			create_pop = {
+				culture = somali
+				size = 9191
+			}
+			create_pop = {
+				culture = oromo
+				religion = sunni
+				size = 2886
+			}
+		}
+		region_state:OMA = {
+			create_pop = {
+				culture = swahili
+				size = 57200
+			}
+			create_pop = {
+				culture = bedouin
+				religion = ibadi
+				size = 2080
+			}
+			create_pop = {
+				culture = somali
+				size = 9490
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 10400
+			}
+		}
+		region_state:MBS = {
+			# ballparking this at 30000, which is probably being a little generous
+
+			create_pop = {
+				culture = bedouin
+				religion = ibadi
+				size = 6501
+			}
+			create_pop = {
+				culture = swahili
+				size = 29380
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 3120
+			}
+		}
+		region_state:MJK = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 117000
+			}
+		}
+		region_state:ORM = {
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 27300
+			}
+		}
+		region_state:SKY = {
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 36400
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 10400
+			}
+		}
+		region_state:AJR = {
+			create_pop = {
+				culture = somali
+				size = 54600
+			}
+		}
+		region_state:AUL = {
+			create_pop = {
+				culture = somali
+				size = 48100
+			}
+		}
+	}
+	s:STATE_RIFT_VALLEY = {
+		region_state:MSI = {
+			create_pop = {
+				culture = maasai
+				size = 54600
+			}
+		}
+		region_state:LUO = {
+			create_pop = {
+				culture = luo
+				size = 133125
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = luo
+				size = 7800
+			}
+		}
+		region_state:TRK = {
+			create_pop = {
+				culture = nilotic
+				size = 202540
+			}
+			create_pop = {
+				culture = kikuyu
+				size = 36914
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nilotic
+				size = 16900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kikuyu
+				size = 5200
+			}
+		}
+	}
+	s:STATE_OROMIA = {
+		
+		
+		
+		
+
+	
+		region_state:ETH = {
+			create_pop = {
+				culture = amhara
+				religion = sunni
+				size = 581623
+			}
+			create_pop = {
+				culture = oromo
+				religion = sunni
+				size = 793925
+			}
+			create_pop = {
+				culture = somali
+				size = 566944
+			}
+			create_pop = {
+				culture = somali
+				size = 168406
+				pop_type = slaves
+			}
+		}
+	}
+	s:STATE_AMHARA = {
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		region_state:ETH = {
+			create_pop = {
+				culture = amhara
+				size = 525377
+			}
+			create_pop = {
+				culture = oromo
+				religion = oriental_orthodox
+				size = 700525
+			}
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 849943
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = amhara
+				size = 280202
+			}
+		}
+		region_state:TRK = {
+			create_pop = {
+				culture = amhara
+				size = 117000
+			}
+			create_pop = {
+				culture = oromo
+				religion = oriental_orthodox
+				size = 156005
+			}
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 189280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = amhara
+				size = 62400
+			}
+		}
+	}
+	s:STATE_GONDER = {
+		
+		
+		region_state:AWS = {
+			create_pop = {
+				culture = afar
+				size = 67600
+			}
+			create_pop = {
+				culture = amhara
+				size = 5850
+			}
+			create_pop = {
+				culture = tigray
+				religion = sunni
+				size = 5668
+			}
+			create_pop = {
+				culture = kikuyu
+				size = 8702
+				pop_type = slaves
+			}
+		}
+		
+		
+	
+		region_state:ETH = {
+			create_pop = {
+				culture = amhara
+				size = 3047188
+			}
+			create_pop = {
+				culture = kikuyu
+				size = 224861
+				pop_type = slaves
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = oromo
+				religion = animist
+				size = 145939
+			}
+		}
+	}
+	s:STATE_KAZEMBE = {
+		
+		region_state:KZM = {
+			create_pop = {
+				culture = lunda
+				size = 130000
+			}
+			create_pop = {
+				culture = chewa
+				size = 33800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = chewa
+				size = 7800
+			}
+		}
+		region_state:MRV = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 78000
+			}
+			create_pop = {
+				culture = chewa
+				size = 48100
+			}
+			create_pop = {
+				culture = sena
+				size = 18200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = chewa
+				size = 6500
+			}
+		}
+	
+		region_state:XXO = {
+			create_pop = {
+				culture = lunda
+				size = 35365
+			}
+			create_pop = {
+				culture = sena
+				size = 2605
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 114400
+			}
+			create_pop = {
+				culture = chewa
+				size = 10400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = chewa
+				size = 13000
+			}
+			create_pop = {
+				culture = nguni
+				size = 26000
+			}
+		}
+	}
+	s:STATE_SOMALILAND = {
+		region_state:ISQ = {
+			create_pop = {
+				culture = somali
+				size = 141700
+			}
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 3900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = somali
+				size = 19500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = oromo
+				religion = animist
+				size = 1300
+			}
+		}
+		region_state:WSG = {
+			create_pop = {
+				culture = somali
+				size = 108778
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = somali
+				size = 9100
+			}
+		}
+		region_state:GLD = {
+			create_pop = {
+				culture = somali
+				size = 205400
+			}
+			create_pop = {
+				culture = oromo
+				religion = animist
+				size = 15600
+			}
+			create_pop = {
+				culture = swahili
+				size = 41600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = somali
+				size = 10764
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = oromo
+				religion = animist
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = swahili
+				size = 10400
+			}
+		}
+		
+	}
+	s:STATE_SOUTH_MADAGASCAR = {
+		region_state:MAD = {
+			create_pop = {
+				culture = malagasy
+				size = 1046754
+			}
+			create_pop = {
+				culture = malagasy
+				religion = sunni
+				size = 94385
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = malagasy
+				size = 19500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = malagasy
+				religion = sunni
+				size = 6500
+			}
+		}
+	
+		region_state:FRA = {
+			create_pop = {
+				culture = malagasy
+				size = 859776
+			}
+			create_pop = {
+				culture = malagasy
+				religion = sunni
+				size = 77523
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = malagasy
+				size = 16015
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = malagasy
+				religion = sunni
+				size = 5344
+			}
+		}
+	}
+	s:STATE_NORTH_MADAGASCAR = {
+		region_state:MAD = {
+			create_pop = {
+				culture = malagasy
+				size = 1170395
+			}
+			create_pop = {
+				culture = malagasy
+				religion = catholic
+				size = 6500
+			}
+			create_pop = {
+				culture = malagasy
+				religion = sunni
+				size = 127140
+			}
+			create_pop = {
+				culture = malagasy
+				religion = protestant
+				size = 15600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = malagasy
+				size = 39000
+			}
+		}
+	}
+	s:STATE_UGANDA = {
+		region_state:BUG = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 592150
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 25350
+			}
+			create_pop = {
+				culture = baganda
+				size = 379844
+			}
+		}
+		region_state:BNY = {
+			create_pop = {
+				culture = baganda
+				size = 260000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = baganda
+				size = 13000
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 44200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 2600
+			}
+		}
+		region_state:ANK = {
+			create_pop = {
+				culture = baganda
+				size = 222300
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = baganda
+				size = 11700
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 80600
+			}
+		}
+		region_state:ACH = {
+			create_pop = {
+				culture = luo
+				size = 262080
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = luo
+				size = 9360
+			}
+		}
+	}
+	s:STATE_EQUATORIA = {
+		
+		
+		
+		
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = nilotic
+				size = 104468
+			}
+			create_pop = {
+				culture = sudanese
+				size = 7800
+			}
+			create_pop = {
+				culture = luo
+				size = 65000
+			}
+			create_pop = {
+				culture = dinka
+				size = 182000
+			}
+			create_pop = {
+				culture = fur
+				size = 33800
+			}
+			create_pop = {
+				culture = nuba
+				size = 24700
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nilotic
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = luo
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dinka
+				size = 10400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fur
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nuba
+				size = 1300
+			}
+		}
+		region_state:EGY = {
+			create_pop = {
+				culture = nilotic
+				size = 104468
+			}
+			create_pop = {
+				culture = sudanese
+				size = 7800
+			}
+			create_pop = {
+				culture = luo
+				size = 65000
+			}
+			create_pop = {
+				culture = dinka
+				size = 182000
+			}
+			create_pop = {
+				culture = fur
+				size = 33800
+			}
+			create_pop = {
+				culture = nuba
+				size = 24700
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nilotic
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = luo
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dinka
+				size = 10400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fur
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nuba
+				size = 1300
+			}
+		}
+	}
+	s:STATE_MOCAMBIQUE = {
+		region_state:POR = {
+			create_pop = {
+				culture = makua
+				size = 325000
+			}
+			create_pop = {
+				culture = makua
+				religion = sunni
+				size = 66294
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 45500
+			}
+			create_pop = {
+				culture = portuguese
+				size = 5194
+			}
+		}
+		region_state:MRV = {
+			create_pop = {
+				culture = makua
+				size = 221000
+			}
+			create_pop = {
+				culture = sena
+				size = 124805
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 89694
+			}
+			create_pop = {
+				culture = yao
+				size = 369590
+			}
+			create_pop = {
+				culture = chewa
+				size = 166400
+			}
+			create_pop = {
+				culture = lomwe
+				size = 78000
+			}
+		}
+		region_state:TGI = {
+			create_pop = {
+				culture = swahili
+				size = 25994
+			}
+			create_pop = {
+				culture = makua
+				religion = sunni
+				size = 2600
+			}
+			create_pop = {
+				culture = makua
+				pop_type = slaves
+				size = 3900
+			}
+		}
+		region_state:AGC = {
+			create_pop = {
+				culture = swahili
+				size = 38474
+			}
+			create_pop = {
+				culture = makua
+				religion = sunni
+				size = 3952
+			}
+			create_pop = {
+				culture = makua
+				pop_type = slaves
+				size = 5460
+			}
+		}
+	}
+	s:STATE_WADDAI = {
+		region_state:WAD = {
+			create_pop = {
+				culture = fur
+				size = 140405
+			}
+			create_pop = {
+				culture = bedouin
+				size = 20800
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 64994
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 15600
+			}
+		}
+		region_state:BGI = {
+			create_pop = {
+				culture = baguirmi
+				size = 41589
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 41600
+			}
+			create_pop = {
+				culture = sara
+				size = 88400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sara
+				size = 10400
+			}
+		}
+		region_state:BOR = {
+			create_pop = {
+				culture = bedouin
+				size = 15600
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 18200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 3900
+			}
+		}
+	}
+	s:STATE_NORTH_CAMEROON = {
+		region_state:SOK = {
+			create_pop = {
+				culture = equatorial_bantu
+				size = 738400
+			}
+			create_pop = {
+				culture = kanuri
+				size = 20805
+			}
+			create_pop = {
+				culture = fulbe
+				size = 116984
+			}
+			create_pop = {
+				culture = bedouin
+				size = 26000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 117234
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 13000
+			}
+		}
+		region_state:BMM = {
+			create_pop = {
+				culture = equatorial_bantu
+				religion = sunni
+				size = 130520
+			}
+			create_pop = {
+				culture = fulbe
+				size = 15600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 13026
+			}
+		}
+	}
+	s:STATE_SOUTH_CAMEROON = {
+		region_state:SIL = {
+			create_pop = {
+				culture = british
+				size = 54
+			}
+			create_pop = {
+				culture = fang
+				religion = protestant
+				size = 663
+			}
+			create_pop = {
+				culture = fang
+				size = 669
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 5863
+			}
+			create_pop = {
+				culture = afro_caribbean
+				size = 1327
+			}
+		}
+		region_state:POR = {
+			# ~16,000 in 1841
+			create_pop = {
+				pop_type = slaves
+				culture = fang
+				size = 7826
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bakongo
+				size = 6515
+			}
+			create_pop = {
+				culture = afro_brazilian
+				size = 5343
+			}
+			create_pop = {
+				culture = portuguese
+				size = 663
+			}
+		}
+		region_state:FNG = {
+			create_pop = {
+				culture = fang
+				size = 504400
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 194989
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fang
+				size = 36400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 16900
+			}
+		}
+		region_state:DLA = {
+			create_pop = {
+				culture = equatorial_bantu
+				size = 780000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 104000
+			}
+		}
+	}
+	s:STATE_UBANGI_SHARI = {
+		
+		
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = equatorial_bantu
+				size = 368420
+			}
+			create_pop = {
+				culture = fur
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sara
+				size = 15600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = baguirmi
+				size = 5200
+			}
+		}
+	}
+	s:STATE_CONGO = {
+		
+		region_state:LNG = {
+			create_pop = {
+				culture = bakongo
+				size = 47060
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 24700
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 11700
+			}
+		}
+		region_state:TKE = {
+			create_pop = {
+				culture = bakongo
+				size = 37700
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bakongo
+				size = 3900
+			}
+		}
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = bakongo
+				size = 26260
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 28080
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 3120
+			}
+		}
+	}
+	s:STATE_CONGO_ORIENTALE = {
+		
+		
+		region_state:LGA = {
+			create_pop = {
+				culture = fluvian_bantu
+				size = 296400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 15600
+			}
+		}
+		region_state:HMB = {
+			create_pop = {
+				culture = fluvian_bantu
+				size = 417300
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 19500
+			}
+		}
+		region_state:LBA = {
+			create_pop = {
+				culture = luba
+				size = 124815
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = luba
+				size = 15600
+			}
+		}
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = fluvian_bantu
+				size = 563550
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 44850
+			}
+		}
+	}
+	s:STATE_KASAI = {
+		
+		region_state:LBA = {
+			create_pop = {
+				culture = luba
+				size = 156000
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 444600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 39000
+			}
+		}
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = fluvian_bantu
+				size = 936000
+			}
+			create_pop = {
+				culture = lunda
+				size = 7800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 93600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 7800
+			}
+		}
+	}
+	s:STATE_BAS_CONGO = {
+		region_state:KON = {
+			create_pop = {
+				culture = bakongo
+				size = 327600
+			}
+			create_pop = {
+				culture = bakongo
+				religion = catholic
+				size = 54600
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 239200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 26000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bakongo
+				size = 39000
+			}
+		}
+		region_state:YKA = {
+			create_pop = {
+				culture = bakongo
+				size = 214500
+			}
+			create_pop = {
+				culture = lunda
+				size = 204750
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bakongo
+				size = 19500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 13650
+			}
+		}
+	}
+	s:STATE_EQUATEUR = {
+		
+		region_state:BOB = {
+			create_pop = {
+				culture = mongo
+				size = 312015
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mongo
+				size = 15600
+			}
+		}
+	
+		region_state:CGB = {
+			create_pop = {
+				culture = mongo
+				size = 773760
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mongo
+				size = 39000
+			}
+		}
+	}
+	s:STATE_NORTH_ANGOLA = {
+		region_state:POR = {
+			create_pop = {
+				culture = portuguese
+				size = 4378
+			}
+		}
+		region_state:KON = {
+			create_pop = {
+				culture = bakongo
+				size = 229325
+			}
+			create_pop = {
+				culture = kavango_bantu
+				religion = catholic
+				size = 22614
+			}
+			create_pop = {
+				culture = kavango_bantu
+				size = 150805
+			}
+			create_pop = {
+				culture = bakongo
+				religion = catholic
+				size = 208000
+			}
+		}
+	}
+	s:STATE_SOUTH_ANGOLA = {
+		region_state:POR = {
+			create_pop = {
+				culture = ovimbundu
+				size = 150800
+			}
+			create_pop = {
+				culture = kavango_bantu
+				size = 150805
+			}
+		}
+		region_state:HRO = {
+			create_pop = {
+				culture = herero
+				size = 150800
+			}
+		}
+		region_state:OVM = {
+			create_pop = {
+				culture = ovimbundu
+				size = 272994
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kavango_bantu
+				size = 7800
+			}
+		}
+		region_state:OVB = {
+			create_pop = {
+				culture = kavango_bantu
+				size = 36530
+			}
+		}
+	}
+	s:STATE_EAST_ANGOLA = {
+		
+		region_state:LND = {
+			create_pop = {
+				culture = lunda
+				size = 135194
+			}
+			create_pop = {
+				culture = kavango_bantu
+				size = 18720
+			}
+			create_pop = {
+				culture = ovimbundu
+				size = 52000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kavango_bantu
+				size = 13000
+			}
+		}
+		region_state:KSN = {
+			create_pop = {
+				culture = lunda
+				size = 52000
+			}
+			create_pop = {
+				culture = ovimbundu
+				size = 144554
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = ovimbundu
+				size = 11700
+			}
+		}
+		region_state:LZO = {
+			create_pop = {
+				culture = kavango_bantu
+				size = 52780
+			}
+			create_pop = {
+				culture = kavango_bantu
+				size = 4420
+			}
+		}
+	
+		region_state:XXO = {
+			create_pop = {
+				culture = kavango_bantu
+				size = 117000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kavango_bantu
+				size = 13000
+			}
+			create_pop = {
+				culture = bakongo
+				size = 10400
+			}
+			create_pop = {
+				culture = lunda
+				size = 26000
+			}
+			create_pop = {
+				culture = ovimbundu
+				size = 104260
+			}
+		}
+	}
+	s:STATE_KATANGA = {
+		
+		region_state:LND = {
+			create_pop = {
+				culture = lunda
+				size = 348920
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 15600
+			}
+		}
+		
+	
+		region_state:XXO = {
+			create_pop = {
+				culture = lunda
+				size = 156520
+			}
+			create_pop = {
+				culture = fluvian_bantu
+				size = 260000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fluvian_bantu
+				size = 20285
+			}
+		}
+	}
+	s:STATE_GABON = {
+		region_state:FNG = {
+			create_pop = {
+				culture = fang
+				size = 72800
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 79040
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fang
+				size = 19500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 26000
+			}
+		}
+		region_state:LNG = {
+			create_pop = {
+				culture = bakongo
+				size = 41600
+			}
+			create_pop = {
+				culture = wolof
+				size = 3900
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 136760
+			}
+			create_pop = {
+				culture = fang
+				size = 7800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = wolof
+				size = 1300
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 19500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fang
+				size = 2600
+			}
+		}
+	
+		region_state:FRA = {
+			create_pop = {
+				culture = fang
+				size = 59793
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 64918
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fang
+				size = 16015
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 21360
+			}
+		}
+	}
+	s:STATE_ZAMBIA = {
+		
+		region_state:BMB = {
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 62576
+			}
+			create_pop = {
+				culture = lunda
+				size = 6500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 3900
+			}
+		}
+	
+		region_state:XXO = {
+			create_pop = {
+				culture = lunda
+				size = 36519
+			}
+			create_pop = {
+				culture = kavango_bantu
+				size = 36400
+			}
+			create_pop = {
+				culture = chewa
+				size = 12043
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = chewa
+				size = 3900
+			}
+		}
+	}
+	s:STATE_ZAMBEZIA = {
+		region_state:POR = {
+			create_pop = {
+				culture = sena
+				size = 239194
+			}
+			create_pop = {
+				culture = portuguese
+				size = 10914
+			}
+			create_pop = {
+				culture = shona
+				size = 124805
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 114400
+			}
+			create_pop = {
+				culture = swahili
+				size = 15605
+			}
+		}
+		region_state:GZA = {
+			create_pop = {
+				culture = sena
+				size = 239194
+			}
+			create_pop = {
+				culture = portuguese
+				size = 10914
+			}
+			create_pop = {
+				culture = shona
+				size = 124805
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 114400
+			}
+			create_pop = {
+				culture = swahili
+				size = 15605
+			}
+		}
+		region_state:MSK = {
+			create_pop = {
+				culture = nguni
+				size = 30550
+			}
+			create_pop = {
+				culture = shona
+				size = 142870
+			}
+			create_pop = {
+				culture = sena
+				size = 13000
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 76694
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 6500
+			}
+		}
+		
+		region_state:MNC = {
+			create_pop = {
+				culture = shona
+				size = 260000
+			}
+			create_pop = {
+				culture = sena
+				size = 28600
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 7800
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sena
+				size = 10400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 2600
+			}
+		}
+	}
+	s:STATE_ZAMBEZI = {
+		
+		region_state:MTP = {
+			create_pop = {
+				culture = shona
+				size = 117000
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 26000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 13000
+			}
+			create_pop = {
+				culture = sena
+				size = 15600
+			}	
+		}
+		region_state:MNC = {
+			create_pop = {
+				culture = shona
+				size = 72800
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 36400
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 10400
+			}
+		}
+	
+		region_state:XXO = {
+			create_pop = {
+				culture = shona
+				size = 195000
+			}
+			create_pop = {
+				culture = lacustrine_bantu
+				size = 45500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lacustrine_bantu
+				size = 19500
+			}
+		}
+	}
+	s:STATE_NAMAQUALAND = {
+		
+		
+	
+		region_state:KID = {
+			create_pop = {
+				culture = khoisan
+				size = 68900
+			}
+			create_pop = {
+				culture = tswana
+				size = 5200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tswana
+				size = 5200
+			}
+		}
+	}
+	s:STATE_HEREROLAND = {
+		
+		region_state:OVB = {
+			create_pop = {
+				culture = kavango_bantu
+				size = 61672
+			}	
+			create_pop = {
+				culture = lunda
+				size = 2600
+			}	
+		}
+		region_state:SAN = {
+			create_pop = {
+				culture = khoisan
+				size = 18200
+			}
+		}
+	
+		region_state:KID = {
+			create_pop = {
+				culture = herero
+				size = 109194
+			}
+			create_pop = {
+				culture = khoisan
+				size = 31200
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = lunda
+				size = 2600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = kavango_bantu
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = khoisan
+				size = 13000
+			}
+		}
+	}
+	s:STATE_ZULULAND = {
+		# Total population of Natal (which was /very roughly/ coterminous with the Zulu Kingdom's 1836 borders after the annexation of Zululand in 1897) in 1904 was 1108754, of which 904041 were recorded as 'Black'. This is after Vryheid, Utrecht, and neighboring territories were annexed, which also increased Natal's population by approx. 98k overall, of which 92k were 'natives'. The Anglo-Zulu War led to some population loss in Zululand, but Zulu's population in 1836 should definitely be lower. I've seen an estimate of 250k people in the Zulu Kingdom floating around, but I can't find the original source, and that number only pops up uncited in articles since 2017 or so making me suspect everyone is copying the same uncited entry from Wikipedia, so I'm a little wary and will simply choose a similar number of my own choosing.
+		region_state:ZUL = {
+			create_pop = {
+				culture = zulu
+				size = 348394
+			}
+			# Port Natal/Durban's European population was a few hundred Europeans, mostly British but with some adventurers from all over. Gonna beef up those numbers.
+			create_pop = {
+				culture = boer
+				size = 2605
+			}
+			create_pop = {
+				culture = xhosa
+				size = 20670
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = xhosa
+				size = 20800
+			}
+		}
+		# Basutoland 1875 estimated population of 128206, after the Free State-Basuto Wars.
+		region_state:BST = {
+			create_pop = {
+				culture = sotho
+				size = 130124
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sotho
+				size = 10270
+			}
+		}
+	
+		region_state:NAL = {
+			create_pop = {
+				culture = zulu
+				size = 348394
+			}
+			# Port Natal/Durban's European population was a few hundred Europeans, mostly British but with some adventurers from all over. Gonna beef up those numbers.
+			create_pop = {
+				culture = boer
+				size = 2605
+			}
+			create_pop = {
+				culture = xhosa
+				size = 20670
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = xhosa
+				size = 20800
+			}
+		}
+	}
+	s:STATE_VRYSTAAT = {
+		region_state:ORA = {
+			create_pop = {
+				culture = sotho
+				size = 19786
+			}
+			# generously, upwards of 8000 boers trekked out of Cape Colony between 1836 and 1838
+			create_pop = {
+				culture = boer
+				size = 10400
+			}
+			create_pop = {
+				culture = nguni
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = nguni
+				size = 13000
+			}
+		}
+		region_state:PHL = {
+			create_pop = {
+				culture = griqua
+				size = 15704
+			}
+			create_pop = {
+				culture = tswana
+				size = 7800
+			}
+			create_pop = {
+				culture = sotho
+				size = 15600
+			}
+			# Boer community north along the Riet River, under Michiel Oberholster
+			create_pop = {
+				culture = boer
+				size = 1560
+			}
+		}
+		region_state:BST = {
+			create_pop = {
+				culture = sotho
+				size = 35230
+			}
+		}
+	}
+	s:STATE_TRANSVAAL = {
+		region_state:MTB = {
+			create_pop = {
+				culture = sotho
+				size = 203845
+			}
+			create_pop = {
+				culture = nguni
+				size = 71494
+			}
+			create_pop = {
+				culture = tswana
+				size = 88400
+			}
+			create_pop = {
+				culture = zulu
+				size = 36400
+			}
+		}
+		region_state:PDI = {
+			create_pop = {
+				culture = sotho
+				size = 416000
+			}
+		}
+		region_state:TRN = {
+			create_pop = {
+				culture = boer
+				size = 13249
+			}
+			create_pop = {
+				culture = nguni
+				size = 39000
+			}
+			create_pop = {
+				culture = khoisan
+				size = 13000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = khoisan
+				size = 13000
+			}
+		}
+		region_state:SWZ = {
+			create_pop = {
+				culture = nguni
+				size = 83714
+			}
+		}
+		region_state:VND = {
+			create_pop = {
+				culture = shona
+				size = 87100
+			}
+			create_pop = {
+				culture = sotho
+				size = 28600
+			}
+		}
+	
+		region_state:ORA = {
+			create_pop = {
+				culture = sotho
+				size = 203845
+			}
+			create_pop = {
+				culture = nguni
+				size = 71494
+			}
+			create_pop = {
+				culture = tswana
+				size = 88400
+			}
+			create_pop = {
+				culture = zulu
+				size = 36400
+			}
+		}
+		region_state:NAL = {
+			create_pop = {
+				culture = sotho
+				size = 203845
+			}
+			create_pop = {
+				culture = nguni
+				size = 71494
+			}
+			create_pop = {
+				culture = tswana
+				size = 88400
+			}
+			create_pop = {
+				culture = zulu
+				size = 36400
+			}
+		}
+	}
+	s:STATE_EASTERN_CAPE = {
+		region_state:SAF = {
+			create_pop = {
+				culture = xhosa
+				size = 41860
+			}
+			create_pop = {
+				culture = british
+				size = 62400
+			}
+			create_pop = {
+				culture = nguni
+				size = 10400
+			}
+			create_pop = {
+				culture = khoisan
+				size = 36394
+			}
+		}
+		
+	}
+	s:STATE_CAPE_COLONY = {
+		region_state:SAF = {
+			create_pop = {
+				culture = khoisan
+				size = 193299
+			}
+			create_pop = {
+				culture = sotho
+				size = 52005
+			}
+			create_pop = {
+				culture = khoisan
+				religion = protestant
+				size = 124607
+			}
+			create_pop = {
+				culture = british
+				size = 57330
+			}
+			create_pop = {
+				culture = boer
+				size = 124160
+			}
+			create_pop = {
+				culture = griqua
+				size = 15792
+			}
+		}
+		
+	}
+	# 73000
+	s:STATE_NORTHERN_CAPE = {
+		region_state:SAF = {
+			create_pop = {
+				culture = sotho
+				size = 10186
+			}
+			create_pop = {
+				culture = british
+				size = 4550
+			}
+			create_pop = {
+				culture = boer
+				size = 27300
+			}
+			create_pop = {
+				culture = khoisan
+				size = 17858
+			}
+			create_pop = {
+				culture = xhosa
+				size = 1478
+			}
+			create_pop = {
+				culture = griqua
+				size = 33527
+			}
+		}
+		region_state:TSW = {
+			create_pop = {
+				culture = tswana
+				size = 156005
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tswana
+				size = 15600
+			}
+		}
+		
+		
+	
+		region_state:KID = {
+			create_pop = {
+				culture = sotho
+				size = 10186
+			}
+			create_pop = {
+				culture = british
+				size = 4550
+			}
+			create_pop = {
+				culture = boer
+				size = 27300
+			}
+			create_pop = {
+				culture = khoisan
+				size = 17858
+			}
+			create_pop = {
+				culture = xhosa
+				size = 1478
+			}
+			create_pop = {
+				culture = griqua
+				size = 33527
+			}
+		}
+		region_state:ORA = {
+			create_pop = {
+				culture = sotho
+				size = 10186
+			}
+			create_pop = {
+				culture = british
+				size = 4550
+			}
+			create_pop = {
+				culture = boer
+				size = 27300
+			}
+			create_pop = {
+				culture = khoisan
+				size = 17858
+			}
+			create_pop = {
+				culture = xhosa
+				size = 1478
+			}
+			create_pop = {
+				culture = griqua
+				size = 33527
+			}
+		}
+	}
+	s:STATE_BOTSWANA = {
+		region_state:TSW = {
+			create_pop = {
+				culture = tswana
+				size = 78000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = herero
+				size = 10400
+			}
+			create_pop = {
+				culture = nguni
+				size = 5200
+			}
+		}
+		region_state:LZO = {
+			create_pop = {
+				culture = kavango_bantu
+				size = 18928
+			}
+		}
+		region_state:SAN = {
+			create_pop = {
+				culture = khoisan
+				size = 10400
+			}
+		}
+	
+		region_state:KID = {
+			create_pop = {
+				culture = tswana
+				size = 78000
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = herero
+				size = 10400
+			}
+			create_pop = {
+				culture = nguni
+				size = 5200
+			}
+		}
+	}
+	s:STATE_LOURENCO_MARQUES = {
+		region_state:POR = {
+			create_pop = {
+				culture = nguni
+				size = 86789
+			}
+			create_pop = {
+				culture = shona
+				size = 135200
+			}
+			create_pop = {
+				culture = tonga
+				size = 74100
+			}
+		}
+		region_state:GZA = {
+			create_pop = {
+				culture = nguni
+				size = 347155
+			}
+			create_pop = {
+				culture = shona
+				size = 202800
+			}
+			create_pop = {
+				culture = tonga
+				size = 419900
+			}
+		}
+	}
+}

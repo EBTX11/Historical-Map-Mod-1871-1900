@@ -1,0 +1,6 @@
+﻿COUNTRIES = {
+	c:ITA ?= {
+        effect_starting_technology_tier_4_tech_hmm = yes
+		effect_starting_politics_conservative = yes
+	}
+}
