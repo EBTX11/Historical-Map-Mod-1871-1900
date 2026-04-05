@@ -1141,10 +1141,7 @@ STATE_WESTPHALIA = {
 STATE_ANHALT = {
     id = 62
     subsistence_building = "building_subsistence_farm"
-    provinces = { 
-        "x12694A" "x34386E" "x3C9B93" "x618061" "x8A448C" "xA080E0" "xA51232" "xCBA4A5" "xCF5D8E" "xE0C0A0" "xED8F7B" 
-        "x060E6E" "x4D8A8A" "x69A528"
-    }
+    provinces = { "x12694A" "x34386E" "x3C9B93" "x618061" "x8A448C" "xA080E0" "xA51232" "xCBA4A5" "xCF5D8E" "xE0C0A0" "xED8F7B" "x060E6E" "x4D8A8A" "x69A528" }
     prime_land = { "xE0C0A0" "xA080E0" "xA51232" }
     traits = { "state_trait_elbe_river" }
     city = "xA080E0"
@@ -1162,10 +1159,7 @@ STATE_ANHALT = {
 STATE_RHINELAND = {
     id = 63
     subsistence_building = "building_subsistence_farm"
-    provinces = { 
-        "x11C021" "x5D7A68" "x707505" "x904020" "xC1B963" "xD080A0" 
-        "x19C0F8" "xC71F8F" "xCC1012" 
-    }
+    provinces = { "x11C021" "x5D7A68" "x707505" "x904020" "xC1B963" "xD080A0" "x19C0F8" "xC71F8F" "xCC1012" }
     traits = { "state_trait_rhine_river" "state_trait_great_terroir" }
     city = "x904020"
     farm = "x707505"
@@ -1201,10 +1195,7 @@ STATE_NORTH_RHINE = {
 STATE_BRANDENBURG = {
     id = 65
     subsistence_building = "building_subsistence_farm"
-    provinces = { 
-        "x069CFB" "x28CEC2" "x514C51" "x60BF20" "x61C0A0" "x76EF4E" "x82F9A8" "x83B1A8" "x9B9076" "x9E7304" "xA040A0" "xA65DA6" "xB90BFF" "xDF4020" "xF77289" "xF8D457" 
-        "x7DD24A" 
-    }
+    provinces = { "x069CFB" "x28CEC2" "x514C51" "x60BF20" "x61C0A0" "x76EF4E" "x82F9A8" "x83B1A8" "x9B9076" "x9E7304" "xA040A0" "xA65DA6" "xB90BFF" "xDF4020" "xF77289" "xF8D457" "x7DD24A" }
     traits = { "state_trait_oder_river" }
     city = "xF8D457"
     farm = "x83B1A8"
@@ -1221,10 +1212,7 @@ STATE_BRANDENBURG = {
 STATE_SCHLESWIG_HOLSTEIN = {
     id = 66
     subsistence_building = "building_subsistence_farm"
-    provinces = { 
-        "x00C060" "x60809F" "x64824C" "x78B203" "x804160" "xBFCC21" "xE000A0" "xE3C876" 
-        "x23AC6B" 
-    }
+    provinces = { "x00C060" "x60809F" "x64824C" "x78B203" "x804160" "xBFCC21" "xE000A0" "xE3C876" "x23AC6B" }
     city = "x64824C"
     port = "x60809F"
     farm = "x00C060"
@@ -1300,10 +1288,7 @@ STATE_HANNOVER = {
 STATE_BRUNSWICK = {
     id = 70
     subsistence_building = "building_subsistence_farm"
-    provinces = {  
-        "x2180E0" "x43D537" "x4C16EA" "xA001E0" "xA61E6E" 
-        "xA86D49" 
-    }
+    provinces = { "x2180E0" "x43D537" "x4C16EA" "xA001E0" "xA61E6E" "xA86D49" }
     prime_land = { "x2180E0" "xA61E6E" }
     city = "xA61E6E"
     farm = "x4C16EA"
@@ -1357,10 +1342,7 @@ STATE_FRANCONIA = {
 STATE_SAXONY = {
     id = 73
     subsistence_building = "building_subsistence_farm"
-    provinces = { 
-        "x169073" "x31E0C0" "x43CE26" "x5141A0" "x51C021" "x66FE0A" "x795368" "x917939" "xAFDFBF" "xC00A37" "xD0C021" 
-        "x1F24EA" "x2F2E5A" "x67E7A9" "xAC6F1A" "xC473B8"
-    }
+    provinces = { "x169073" "x31E0C0" "x43CE26" "x5141A0" "x51C021" "x66FE0A" "x795368" "x917939" "xAFDFBF" "xC00A37" "xD0C021" "x1F24EA" "x2F2E5A" "x67E7A9" "xAC6F1A" "xC473B8" }
     prime_land = { "x31E0C0" "xC00A37" "xD0C021" "x66FE0A" "x169073" "xAFDFBF" "x917939" "x43CE26" }
     traits = { "state_trait_elbe_river" }
     city = "x169073"
