@@ -1245,18 +1245,19 @@
 			}
 			create_building={
 				building="building_wheat_farm"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_manor_house"
 						country="c:TUR"
 						levels=1
 						region="STATE_ALEPPO"
 					}
-					building={
-						type="building_financial_district"
-						country="c:TUR"
-						levels=1
-						region="STATE_BOSNIA"
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:TUR"
+						levels = 1
+						region = "STATE_ALEPPO"
 					}
 					building={
 						type="building_manor_house"
@@ -1722,27 +1723,32 @@
 		region_state:PER={
 			create_building={
 				building="building_wheat_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:PER"
-						levels=1
-						region="STATE_LARISTAN"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_LARISTAN"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" "pm_citrus_orchards" "pm_tools" }
+			
+			
 			}
-		}
-		region_state:OMA={
+		
+
 			create_building={
 				building="building_trade_center"
-				add_ownership={
-					building={
-						type="building_trade_center"
-						country="c:OMA"
-						levels=1
-						region="STATE_LARISTAN"
+				add_ownership = {
+					
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_LARISTAN"
 					}
 				}
 				reserves=1
@@ -1750,55 +1756,61 @@
 			}
 			create_building={
 				building="building_fishing_wharf"
-				add_ownership={
-					building={
-						type="building_fishing_wharf"
-						country="c:OMA"
-						levels=1
-						region="STATE_LARISTAN"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_LARISTAN"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_unrefrigerated" "pm_simple_fishing" }
+			
+			
 			}
 			create_building={
 				building="building_port"
-				add_ownership={
-					country={
-						country="c:OMA"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:PER" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }
+			
+			
 			}
-		}
-		region_state:BHN={
+		
+
+
 			create_building={
 				building="building_wheat_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:BHN"
-						levels=1
-						region="STATE_LARISTAN"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_LARISTAN"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" "pm_no_secondary" "pm_tools_disabled" }
+			
 			}
 			create_building={
 				building="building_port"
-				add_ownership={
-					country={
-						country="c:BHN"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:PER" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_anchorage" }
+			
 			}
-		}
+		
+}
+		
+		
 	}
 	s:STATE_KERMAN={
 		region_state:PER={
@@ -1883,85 +1895,93 @@
 				activate_production_methods={ "pm_anchorage" }
 			}
 		}
-		region_state:KAL={
+		region_state:PER={
 			create_building={
 				building="building_dye_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:KAL"
-						levels=1
-						region="STATE_SISTAN"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_SISTAN"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "worker_exploitation_dye" }
+			
 			}
 			create_building={
 				building="building_port"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:PER" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }
+			
 			}
 			create_building={
 				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=4
-					}
+				add_ownership = {
+					country = { country = "c:PER" levels = 4 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_no_organization" }
+			
 			}
 			create_building={
 				building="building_arms_industry"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=1
-					}
-				}
 				reserves=1
 				activate_production_methods={ "pm_muskets" "pm_automation_disabled" }
+			
+				add_ownership = {
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_SISTAN"
+					}
+				}
 			}
 			create_building={
 				building="building_artillery_foundry"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=1
-					}
-				}
 				reserves=1
 				activate_production_methods={ "pm_cannons" "pm_automation_disabled" }
+			
+				add_ownership = {
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_SISTAN"
+					}
+				}
 			}
 			create_building={
 				building="building_fishing_wharf"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=1
-					}
-				}
 				reserves=1
 				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" }
+			
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:PER"
+						levels = 1
+						region = "STATE_SISTAN"
+					}
+				}
 			}
 			create_building={
 				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:KAL"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:PER" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
+			
 			}
 		}
 		region_state:AFG={

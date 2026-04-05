@@ -181,7 +181,7 @@
 	s:STATE_LOWER_SILESIA = {
 		
 	
-		region_state:NGF = {
+		region_state:GER = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -264,7 +264,7 @@
 		    }
 		}
 	
-		region_state:NGF = {
+		region_state:GER = {
 			create_pop = {
 				culture = north_german
 				religion = catholic
@@ -302,7 +302,7 @@
 	s:STATE_WEST_PRUSSIA = {
 		
 	
-		region_state:NGF = {
+		region_state:GER = {
 			create_pop = {
 				culture = north_german
 				pop_type = aristocrats
@@ -340,7 +340,7 @@
 	s:STATE_EAST_PRUSSIA = {
 		
 	
-		region_state:NGF = {
+		region_state:GER = {
 			create_pop = {
 				culture = north_german
 				pop_type = aristocrats
@@ -380,7 +380,7 @@
 	s:STATE_POSEN = {
 		
 	
-		region_state:NGF = {
+		region_state:GER = {
 			create_pop = {
 				culture = polish
 				pop_type = aristocrats

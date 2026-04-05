@@ -199,7 +199,7 @@
 		}
 	}
 	s:STATE_LAZIO = {
-		region_state:PAP = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
 				size = 1734028
@@ -639,7 +639,7 @@
 		}
 	}
 	s:STATE_BOSNIA = {
-		region_state:TUR = {
+		region_state:BOS = {
 			create_pop = {
 				culture = bosniak
 				size = 596430
@@ -802,20 +802,7 @@
 	}
 	# Inceased based on research into the area
 	s:STATE_MONTENEGRO = {
-		region_state:TUR = {
-			create_pop = {
-				culture = bosniak
-				size = 453724
-			}
-			create_pop = {
-				culture = serb
-				size = 2425560
-			}
-			create_pop = {
-				culture = albanian
-				size = 465560
-			}
-		}
+		
 		region_state:MON = {
 			create_pop = {
 				culture = serb
@@ -829,7 +816,22 @@
 				culture = bosniak
 				size = 4940
 			}
-		}
+		
+
+			create_pop = {
+				culture = bosniak
+				size = 453724
+			}
+			create_pop = {
+				culture = serb
+				size = 2425560
+			}
+			create_pop = {
+				culture = albanian
+				size = 465560
+			}
+		
+}
 		# Cattaro Region, downscaled version of 1880 census, with inflated Italian numbers, and decreased German ones
 		region_state:AUS = {
 			create_pop = {
@@ -910,8 +912,8 @@
 				culture = sephardic
 				size = 261
 			}
-		}
-		region_state:TUR = {
+		
+
 			create_pop = {
 				culture = serb
 				size = 227961
@@ -932,7 +934,9 @@
 				culture = sephardic
 				size = 156
 			}
-		}
+		
+}
+		
 	}
 	s:STATE_KOSOVO = {
 		region_state:TUR = {

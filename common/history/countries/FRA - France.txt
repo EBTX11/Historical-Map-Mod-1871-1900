@@ -10,7 +10,8 @@
 			level = low_subventions
 		}
 		# Laws
-		activate_law = law_type:law_monarchy
+		activate_law = law_type:law_presidential_republic
+		activate_law = law_type:law_wealth_voting
 		activate_law = law_type:law_freedom_of_conscience
 		activate_law = law_type:law_women_own_property
 		activate_law = law_type:law_per_capita_based_taxation
@@ -51,16 +52,16 @@
 		ig:ig_intelligentsia ?= { # Victor de Broglie was Prime Minister until February 22, 1836
 			add_ruling_interest_group = yes
 		} 
-		set_variable = {
-			name = bonapartist_restoration_var
-		}
-		set_variable = {
-			name = one_true_french_dynasty
-		} 
-		set_variable = {
-			name = fra_republic_counter
-			value = 2
-		}
+		# set_variable = {
+		# 	name = bonapartist_restoration_var
+		# }
+		# set_variable = {
+		# 	name = one_true_french_dynasty
+		# } 
+		# set_variable = {
+		# 	name = fra_republic_counter
+		# 	value = 2
+		# }
 		if = {
 			limit = {
 				has_dlc_feature = voice_of_the_people_content
@@ -83,8 +84,7 @@
 				type = amendment_tradition_of_free_elections
 				sponsor = PREV.ig:ig_intelligentsia
 			}
-		}
-		activate_law = law_type:law_oligarchy
+		} 
  
 	}
 }

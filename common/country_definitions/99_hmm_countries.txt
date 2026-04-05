@@ -1,4 +1,277 @@
 ﻿
+Y39= { 
+	color = { 91 84 114 }
+	
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { french } 
+	capital = STATE_ERITREA
+}
+
+
+Y38= { 
+	color = { 97 153 138 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { lunda } 
+	capital = STATE_EAST_ANGOLA
+}
+
+
+Y37= { 
+	color = { 176 159 188 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { lunda } 
+	capital = STATE_SOUTH_ANGOLA
+}
+
+
+Y36= { 
+	color = { 54 107 75 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { lunda } 
+	capital = STATE_EAST_ANGOLA
+}
+
+
+Y35= { 
+	color = { 142 122 187 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { bakongo } 
+	capital = STATE_EAST_ANGOLA
+}
+
+
+Y34= { 
+	color = { 104 173 108 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { portuguese } 
+	capital = STATE_MOCAMBIQUE
+}
+
+
+Y33= { 
+	color = { 179 111 101 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { portuguese } 
+	capital = STATE_LOURENCO_MARQUES
+}
+
+
+Y32= { 
+	color = { 160 180 68 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { british } 
+	capital = STATE_BENIN
+}
+ 
+Y31= { 
+	color = { 183 100 80 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { equatorial_bantu } 
+	capital = STATE_NORTH_CAMEROON
+}
+
+
+Y30= { 
+	color = { 154 200 135 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { equatorial_bantu } 
+	capital = STATE_NORTH_CAMEROON
+}
+
+
+Y29= { 
+	color = { 199 89 147 }
+	
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { spanish } 
+	capital = STATE_WEST_SAHARA
+}
+
+
+Y28= { 
+	color = { 164 187 124 }
+	
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { baguirmi } 
+	capital = STATE_WADDAI
+}
+
+
+Y27= { 
+	color = { 82 102 52 }
+	
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { baguirmi } 
+	capital = STATE_WADDAI
+}
+
+
+Y26= { 
+	color = { 176 57 132 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { french } 
+	capital = STATE_EASTERN_MALI
+}
+
+
+Y25= { 
+	color = { 148 184 110 }
+	
+	country_type = colonial
+
+	tier = kingdom
+	
+	cultures = { sotho } 
+	capital = STATE_ZULULAND
+}
+
+
+Y24= { 
+	color = { 0 15 90 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { yankee } 
+	capital = STATE_SOUTH_DAKOTA
+}
+
+
+Y23= { 
+	color = { 0 15 90 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { yankee } 
+	capital = STATE_SOUTH_DAKOTA
+}
+
+
+Y22= { 
+	color = { 0 15 90 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { yankee } 
+	capital = STATE_UTAH
+}
+
+
+Y21= { 
+	color = { 0 15 90 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { yankee } 
+	capital = STATE_UTAH
+}
+
+
+Y20= { 
+	color = { 0 15 90 }
+	
+	country_type = decentralized
+
+	tier = kingdom
+	
+	cultures = { yankee } 
+	capital = STATE_ARIZONA
+} 
+
+Y19= { 
+	color = { 100 100 100 }
+	
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { british } 
+	capital = STATE_NORTHWEST_TERRITORIES
+} 
+
+Y18= { 
+	color = { 100 100 100 }
+	
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { australian } 
+	capital = STATE_VICTORIA
+}
+
+
+Y17= { 
+	color = { 100 100 100 }
+	
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { australian } 
+	capital = STATE_QUEENSLAND
+}
+
+
 Y16= { 
 	color = { 0 15 90 }
 	

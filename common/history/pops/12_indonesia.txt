@@ -674,7 +674,7 @@
 				size = 457594
 			}
 		}
-		region_state:TID = {
+		region_state:DEI = {
 			create_pop = {
 				culture = moluccan
 				size = 26525
@@ -720,8 +720,8 @@
 				religion = protestant
 				size = 9519
 			}
-		}
-		region_state:TID = {
+		
+
 			create_pop = {
 				culture = moluccan
 				size = 125460
@@ -741,20 +741,12 @@
 				culture = melanesian
 				size = 15701
 			}
-		}
+		
+}
+		
 	}
 	s:STATE_CELEBES = {
-		region_state:SLW = {
-			create_pop = {
-				culture = moluccan
-				size = 131560
-			}
-			create_pop = {
-				culture = moluccan
-				religion = animist
-				size = 452394
-			}
-		}
+		
 		region_state:DEI = {
 			create_pop = {
 				culture = moluccan
@@ -780,7 +772,19 @@
 				culture = dutch
 				size = 351
 			}
-		}
+		
+
+			create_pop = {
+				culture = moluccan
+				size = 131560
+			}
+			create_pop = {
+				culture = moluccan
+				religion = animist
+				size = 452394
+			}
+		
+}
 		region_state:BTN = {
 			create_pop = {
 				culture = moluccan
@@ -928,8 +932,23 @@
 				culture = lumad
 				size = 53901
 			}
-		}
-		region_state:MGD = {
+		
+
+			create_pop = {
+				culture = lumad
+				size = 586704
+			}
+			create_pop = {
+				culture = moro
+				size = 65159
+			}
+			create_pop = {
+				culture = visayan
+				size = 6241
+			}
+		
+
+
 			create_pop = {
 				culture = moro
 				size = 267800
@@ -952,21 +971,10 @@
 				culture = bornean
 				size = 26005
 			}
-		}
-		region_state:MND = {
-			create_pop = {
-				culture = lumad
-				size = 586704
-			}
-			create_pop = {
-				culture = moro
-				size = 65159
-			}
-			create_pop = {
-				culture = visayan
-				size = 6241
-			}
-		}
+		
+}
+		
+		
 		region_state:SUL = {
 			create_pop = {
 				culture = moro

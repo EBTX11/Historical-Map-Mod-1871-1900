@@ -189,19 +189,56 @@ POPS = {
 				size = 182
 				pop_type = bureaucrats
 			}
-		}
-		region_state:KKI = {
+		
+
+			create_pop = {
+				culture = lushai # Tipperah
+				size = 58632
+			}
+		
+
+
 			create_pop = {
 				culture = lushai
 				size = 31968
 			}
-		}
-		region_state:NGA = {
+		
+
+
+			create_pop = {
+				culture = assamese
+				size = 916760
+			}
+			create_pop = {
+				culture = assamese
+				pop_type = slaves
+				size = 59229
+			}
+			create_pop = {
+				culture = assamese
+				religion = animist
+				size = 325261
+			}
+			create_pop = {
+				culture = assamese
+				religion = sunni
+				size = 79326
+			}
+			create_pop = {
+				culture = naga
+				size = 195261
+			}
+		
+
+
 			create_pop = {
 				culture = naga
 				size = 161094
 			}
-		}
+		
+}
+		
+		
 		region_state:MNP = {
 			create_pop = {
 				culture = manipuri
@@ -227,37 +264,8 @@ POPS = {
 				size = 80861
 			}
 		}
-		region_state:TIP = {
-			create_pop = {
-				culture = lushai # Tipperah
-				size = 58632
-			}
-		}
-		region_state:ASM = {
-			create_pop = {
-				culture = assamese
-				size = 916760
-			}
-			create_pop = {
-				culture = assamese
-				pop_type = slaves
-				size = 59229
-			}
-			create_pop = {
-				culture = assamese
-				religion = animist
-				size = 325261
-			}
-			create_pop = {
-				culture = assamese
-				religion = sunni
-				size = 79326
-			}
-			create_pop = {
-				culture = naga
-				size = 195261
-			}
-		}
+		
+		
 	}
 	s:STATE_DELHI = {
 		region_state:BIC = {
@@ -782,7 +790,28 @@ POPS = {
 		}
 	}
 	s:STATE_KASHMIR = {
-		region_state:KAS = {
+		
+		region_state:BIC = {
+			create_pop = {
+				culture = kho # and Shina
+				size = 39273
+			}
+			create_pop = {
+				culture = kashmiri
+				size = 13144
+			}
+			create_pop = {
+				culture = tibetan
+				religion = mahayana
+				size = 8279
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 4065
+			}
+		
+
 			create_pop = {
 				culture = kashmiri
 				size = 1206402
@@ -808,28 +837,9 @@ POPS = {
 				culture = pahari
 				size = 10153
 			}
-		}
-		region_state:CHT = {
-			create_pop = {
-				culture = kho # and Shina
-				size = 39273
-			}
-			create_pop = {
-				culture = kashmiri
-				size = 13144
-			}
-			create_pop = {
-				culture = tibetan
-				religion = mahayana
-				size = 8279
-			}
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 4065
-			}
-		}
-		region_state:LAD = {
+		
+
+
 			create_pop = {
 				culture = tibetan
 				size = 448979
@@ -842,10 +852,12 @@ POPS = {
 				culture = pahari
 				size = 7813
 			}
-		}
+		
+}
+		
 	}
 	s:STATE_PUNJAB = {
-		region_state:PAN = {
+		region_state:BIC = {
 			create_pop = {
 				culture = panjabi
 				religion = sunni
@@ -2224,7 +2236,7 @@ POPS = {
 		}
 	}
 	s:STATE_HILL_PUNJAB = {
-		region_state:PAN = {
+		region_state:BIC = {
 			create_pop = {
 				culture = panjabi
 				religion = hindu

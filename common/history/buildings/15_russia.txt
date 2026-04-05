@@ -3087,32 +3087,36 @@
 		}
 	}
 	s:STATE_SEMIRECHE={
-		region_state:OZH={
+		
+		region_state:RUS={
+		
+
 			create_building={
 				building="building_art_academy"
-				add_ownership={
-					country={
-						country="c:OZH"
-						levels=1
-					}
-				}
 				reserves=1
 				activate_production_methods={ "pm_traditional_art" "pm_traditional_patronage" "pm_freedom_of_movement_no_effect" }
+			
+				add_ownership = {
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:RUS"
+						levels = 1
+						region = "STATE_SEMIRECHE"
+					}
+				}
 			}
 			create_building={
 				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:OZH"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:RUS" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
+			
 			}
-		}
-		region_state:RUS={
-		}
+		
+}
 	}
 	s:STATE_JETISY={
 		region_state:CAD={
@@ -3324,31 +3328,68 @@
 		region_state:RUS={
 			create_building={
 				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:RUS" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
+			
 			}
-		}
+		
+
+			create_building={
+				building="building_logging_camp"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:RUS"
+						levels = 1
+						region = "STATE_NORTH_CAUCASUS"
+					}
+					country = { country = "c:RUS" levels = 1 }
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" }
+			
+			}
+			create_building={
+				building="building_barrack"
+				add_ownership = {
+					country = { country = "c:RUS" levels = 7 }
+				}
+				reserves=1
+				activate_production_methods={ "pm_no_organization" }
+			
+			}
+			create_building={
+				building="building_government_administration"
+				add_ownership = {
+					country = { country = "c:RUS" levels = 1 }
+				}
+				reserves=1
+				activate_production_methods={ "pm_religious_bureaucrats" "pm_hereditary_bureaucrats" "pm_horizontal_drawer_cabinets" }
+			
+			}
+		
+}
 		region_state:CHC={
 			create_building={
 				building="building_wheat_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:CHC"
-						levels=1
-						region="STATE_NORTH_CAUCASUS"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:CHC"
+						levels = 1
+						region = "STATE_NORTH_CAUCASUS"
 					}
-					building={
-						type="building_wheat_farm"
-						country="c:CHC"
-						levels=1
-						region="STATE_NORTH_CAUCASUS"
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:CHC"
+						levels = 1
+						region = "STATE_NORTH_CAUCASUS"
 					}
 				}
 				reserves=1
@@ -3432,47 +3473,7 @@
 				activate_production_methods={ "pm_no_organization" }
 			}
 		}
-		region_state:CIR={
-			create_building={
-				building="building_logging_camp"
-				add_ownership={
-					building={
-						type="building_logging_camp"
-						country="c:CIR"
-						levels=1
-						region="STATE_NORTH_CAUCASUS"
-					}
-					country={
-						country="c:CIR"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" }
-			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:CIR"
-						levels=7
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
-			create_building={
-				building="building_government_administration"
-				add_ownership={
-					country={
-						country="c:CIR"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_religious_bureaucrats" "pm_hereditary_bureaucrats" "pm_horizontal_drawer_cabinets" }
-			}
-		}
+		
 	}
 	s:STATE_TAURIDA={
 		region_state:RUS={
@@ -4320,47 +4321,36 @@
 		region_state:RUS={
 			create_building={
 				building="building_tea_plantation"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-					building={
-						type="building_manor_house"
-						country="c:RUS"
-						levels=1
-						region="STATE_KURSK"
-					}
-					building={
-						type="building_manor_house"
-						country="c:RUS"
-						levels=1
-						region="STATE_ORYOL"
-					}
-					building={
-						type="building_tea_plantation"
-						country="c:RUS"
-						levels=1
-						region="STATE_STAVROPOL"
+				add_ownership = {
+					country = { country = "c:RUS" levels = 1 }
+					building = { type = "building_manor_house" country = "c:RUS" region = "STATE_KURSK" levels = 1 }
+					building = { type = "building_manor_house" country = "c:RUS" region = "STATE_ORYOL" levels = 1 }
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:RUS"
+						levels = 1
+						region = "STATE_STAVROPOL"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "default_building_tea_plantation" "worker_exploitation_tea" "pm_road_carts" }
+			
 			}
-		}
-		region_state:CIR={
+		
+
 			create_building={
 				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:CIR"
-						levels=1
-					}
+				add_ownership = {
+					country = { country = "c:RUS" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
+			
 			}
-		}
+		
+}
+		
 	}
 	s:STATE_CHUVASHIA={
 		region_state:RUS={

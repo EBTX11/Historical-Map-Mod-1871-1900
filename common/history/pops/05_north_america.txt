@@ -23,7 +23,7 @@
 	s:STATE_LOUISIANA = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -88,7 +88,7 @@
 	s:STATE_VIRGINIA = { # population of VA proper minus Fairfax County, which had its population figures added to DC to inflate the pop count there
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 751132
@@ -110,7 +110,7 @@
 		}
 	}
 	s:STATE_ALASKA = {
-		region_state:ALK = {
+		region_state:USA = {
 			create_pop = {
 				culture = athabaskan
 				size = 13148
@@ -278,12 +278,7 @@
 	}
 	s:STATE_COLORADO = {
 		
-		region_state:ARP = {
-			create_pop = {
-				culture = siouan
-				size = 16900
-			}
-		}
+		
 		region_state:UTE = {
 			create_pop = {
 				culture = paiute
@@ -296,7 +291,7 @@
 		}
 		
 	
-		region_state:Y12 = {
+		region_state:USA = {
 			create_pop = {
 				culture = siouan
 				size = 3380
@@ -305,7 +300,14 @@
 				culture = mexican
 				size = 1352
 			}
-		}
+		
+
+			create_pop = {
+				culture = siouan
+				size = 16900
+			}
+		
+}
 	}
 	s:STATE_WYOMING = {
 		
@@ -415,7 +417,7 @@
 		
 		
 	
-		region_state:Y13 = {
+		region_state:USA = {
 			create_pop = {
 				culture = siouan
 				size = 6760
@@ -457,7 +459,7 @@
 	s:STATE_ARKANSAS = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -519,9 +521,8 @@
 				culture = irish
 				size = 13107
 			}
-		}
-	
-		region_state:CSA = {
+		
+
 			create_pop = {
 				culture = cajun
 				religion = catholic
@@ -557,7 +558,10 @@
 				culture = irish
 				size = 13034
 			}
-		}
+		
+}
+	
+		
 	}
 	s:STATE_IOWA = {
 		region_state:USA = {
@@ -684,9 +688,8 @@
 				culture = irish
 				size = 13576
 			}
-		}
-	
-		region_state:CSA = {
+		
+
 			create_pop = {
 				culture = dixie
 				size = 161961
@@ -708,12 +711,15 @@
 				culture = irish
 				size = 13502
 			}
-		}
+		
+}
+	
+		
 	}
 	s:STATE_TENNESSEE = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 655389
@@ -748,7 +754,7 @@
 	s:STATE_MISSISSIPPI = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 306418
@@ -767,7 +773,7 @@
 	s:STATE_ALABAMA = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 583404
@@ -800,7 +806,7 @@
 		
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 85105
@@ -823,7 +829,7 @@
 	s:STATE_GEORGIA = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 584870
@@ -868,9 +874,8 @@
 				religion = catholic
 				size = 19002
 			}
-		}
-	
-		region_state:CSA = {
+		
+
 			create_pop = {
 				culture = dixie
 				size = 108596
@@ -889,7 +894,10 @@
 				religion = catholic
 				size = 18899
 			}
-		}
+		
+}
+	
+		
 	}
 	s:STATE_MARYLAND = { # Actually Maryland + Delaware
 		region_state:USA = {
@@ -1069,7 +1077,7 @@
 	s:STATE_NORTH_CAROLINA = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 873312
@@ -1109,7 +1117,7 @@
 	s:STATE_SOUTH_CAROLINA = {
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 450106
@@ -1176,52 +1184,9 @@
 	}
 	s:STATE_ONTARIO = {
 		
-		region_state:HBC = {
-			create_pop = {
-				culture = metis
-				size = 6752
-			}
-			create_pop = {
-				culture = siouan
-				size = 6760
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 20280
-			}
-			create_pop = {
-				culture = cree
-				size = 47658
-			}
-		}
+		
 	
-		region_state:Y01 = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 619877
-			}
-			create_pop = {
-				culture = cree
-				size = 20618
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 39546
-			}
-			create_pop = {
-				culture = iroquoian
-				size = 6593
-			}
-			create_pop = {
-				culture = algonquian
-				size = 6593
-			}
-			create_pop = {
-				culture = franco_canadian
-				religion = protestant
-				size = 1014
-			}
-		}
+		
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
@@ -1248,11 +1213,58 @@
 				religion = protestant
 				size = 1784
 			}
-		}
+		
+
+			create_pop = {
+				culture = metis
+				size = 6752
+			}
+			create_pop = {
+				culture = siouan
+				size = 6760
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 20280
+			}
+			create_pop = {
+				culture = cree
+				size = 47658
+			}
+		
+
+
+			create_pop = {
+				culture = anglo_canadian
+				size = 619877
+			}
+			create_pop = {
+				culture = cree
+				size = 20618
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 39546
+			}
+			create_pop = {
+				culture = iroquoian
+				size = 6593
+			}
+			create_pop = {
+				culture = algonquian
+				size = 6593
+			}
+			create_pop = {
+				culture = franco_canadian
+				religion = protestant
+				size = 1014
+			}
+		
+}
 	}
 	s:STATE_NEW_BRUNSWICK = {
 		# New Brunswick: 119457 in 1834, not counting First Nations
-		region_state:NBS = {
+		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
 				size = 111523
@@ -1270,9 +1282,8 @@
 				culture = algonquian
 				size = 2369
 			}
-		}
-		# Nova Scotia: 199906 in 1837, not counting First Nations
-		region_state:NVS = {
+		
+
 			create_pop = {
 				culture = anglo_canadian
 				size = 332207
@@ -1286,110 +1297,17 @@
 				culture = algonquian
 				size = 2814
 			}
-		}
+		
+}
+		# Nova Scotia: 199906 in 1837, not counting First Nations
+		
 	}
 	s:STATE_QUEBEC = {
 		
-		region_state:CEE = {
-			create_pop = {
-				culture = inuit
-				size = 6760
-			}
-			create_pop = {
-				culture = cree
-				size = 30764
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 32448
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 13520
-			}
 		
-
-			create_pop = {
-				culture = franco_canadian
-				size = 924768
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 8450
-			}
-			create_pop = {
-				culture = cree
-				size = 5070
-			}
-		
-}
 	
-		region_state:HBC = {
-			create_pop = {
-				culture = inuit
-				size = 6760
-			}
-			create_pop = {
-				culture = cree
-				size = 30764
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 32448
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 13520
-			}
 		
-
-			create_pop = {
-				culture = franco_canadian
-				size = 924768
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 8450
-			}
-			create_pop = {
-				culture = cree
-				size = 5070
-			}
 		
-}
-		region_state:NNV = {
-			create_pop = {
-				culture = inuit
-				size = 6760
-			}
-			create_pop = {
-				culture = cree
-				size = 30764
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 32448
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 13520
-			}
-		
-
-			create_pop = {
-				culture = franco_canadian
-				size = 924768
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 8450
-			}
-			create_pop = {
-				culture = cree
-				size = 5070
-			}
-		
-}
 		region_state:CAN = {
 			create_pop = {
 				culture = inuit
@@ -1422,6 +1340,108 @@
 				size = 8915
 			}
 		
+
+
+			create_pop = {
+				culture = inuit
+				size = 6760
+			}
+			create_pop = {
+				culture = cree
+				size = 30764
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 32448
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 13520
+			}
+		
+
+			create_pop = {
+				culture = franco_canadian
+				size = 924768
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 8450
+			}
+			create_pop = {
+				culture = cree
+				size = 5070
+			}
+		
+
+
+
+			create_pop = {
+				culture = inuit
+				size = 6760
+			}
+			create_pop = {
+				culture = cree
+				size = 30764
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 32448
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 13520
+			}
+		
+
+			create_pop = {
+				culture = franco_canadian
+				size = 924768
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 8450
+			}
+			create_pop = {
+				culture = cree
+				size = 5070
+			}
+		
+
+
+
+			create_pop = {
+				culture = inuit
+				size = 6760
+			}
+			create_pop = {
+				culture = cree
+				size = 30764
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 32448
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 13520
+			}
+		
+
+			create_pop = {
+				culture = franco_canadian
+				size = 924768
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 8450
+			}
+			create_pop = {
+				culture = cree
+				size = 5070
+			}
+		
+
 }
 	}
 	s:STATE_NEWFOUNDLAND = {
@@ -1441,7 +1461,7 @@
 		}
 	}
 	s:STATE_ALBERTA = {
-		region_state:HBC = {
+		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
 				size = 6757
@@ -1454,8 +1474,8 @@
 				culture = metis
 				size = 18590
 			}
-		}
-		region_state:IRC = {
+		
+
 			create_pop = {
 				culture = cree
 				size = 20280
@@ -1464,8 +1484,9 @@
 				culture = siouan
 				size = 20286
 			}
-		}
-		region_state:BLF = {
+		
+
+
 			create_pop = {
 				culture = siouan
 				size = 26026
@@ -1474,7 +1495,25 @@
 				culture = metis
 				size = 8450
 			}
-		}
+		
+
+
+			create_pop = {
+				culture = anglo_canadian
+				size = 6757
+			}
+			create_pop = {
+				culture = siouan
+				size = 13858
+			}
+			create_pop = {
+				culture = metis
+				size = 18590
+			}
+		
+}
+		
+		
 	
 		region_state:RIP = {
 			create_pop = {
@@ -1490,23 +1529,10 @@
 				size = 18590
 			}
 		}
-		region_state:ORG = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 6757
-			}
-			create_pop = {
-				culture = siouan
-				size = 13858
-			}
-			create_pop = {
-				culture = metis
-				size = 18590
-			}
-		}
+		
 	}
 	s:STATE_BRITISH_COLUMBIA = {
-		region_state:ORG = {
+		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
 				size = 10985
@@ -1553,7 +1579,7 @@
 		}
 	}
 	s:STATE_SASKATCHEWAN = {
-		region_state:HBC = {
+		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
 				size = 5070
@@ -1566,8 +1592,8 @@
 				culture = metis
 				size = 27040
 			}
-		}
-		region_state:IRC = {
+		
+
 			create_pop = {
 				culture = siouan
 				size = 13520
@@ -1576,7 +1602,9 @@
 				culture = cree
 				size = 40560
 			}
-		}
+		
+}
+		
 	
 		region_state:RIP = {
 			create_pop = {
@@ -1594,7 +1622,7 @@
 		}
 	}
 	s:STATE_MANITOBA = {
-		region_state:HBC = {
+		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
 				size = 25092
@@ -1616,55 +1644,59 @@
 				culture = metis
 				size = 33806
 			}
-		}
+		
+
+			create_pop = {
+				culture = anglo_canadian
+				size = 25092
+			}
+			create_pop = {
+				culture = siouan
+				size = 20280
+			}
+			create_pop = {
+				culture = metis
+				religion = protestant
+				size = 6752
+			}
+			create_pop = {
+				culture = athabaskan
+				size = 27040
+			}
+			create_pop = {
+				culture = metis
+				size = 33806
+			}
+		
+
+
+			create_pop = {
+				culture = anglo_canadian
+				size = 25092
+			}
+			create_pop = {
+				culture = siouan
+				size = 20280
+			}
+			create_pop = {
+				culture = metis
+				religion = protestant
+				size = 6752
+			}
+			create_pop = {
+				culture = athabaskan
+				size = 27040
+			}
+			create_pop = {
+				culture = metis
+				size = 33806
+			}
+		
+}
 		
 	
-		region_state:MTC = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 25092
-			}
-			create_pop = {
-				culture = siouan
-				size = 20280
-			}
-			create_pop = {
-				culture = metis
-				religion = protestant
-				size = 6752
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 27040
-			}
-			create_pop = {
-				culture = metis
-				size = 33806
-			}
-		}
-		region_state:Y01 = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 25092
-			}
-			create_pop = {
-				culture = siouan
-				size = 20280
-			}
-			create_pop = {
-				culture = metis
-				religion = protestant
-				size = 6752
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 27040
-			}
-			create_pop = {
-				culture = metis
-				size = 33806
-			}
-		}
+		
+		
 		region_state:RIP = {
 			create_pop = {
 				culture = anglo_canadian
@@ -1723,31 +1755,37 @@
 		}
 	}
 	s:STATE_NUNAVUT = {
-		region_state:HBC = {
+		region_state:CAN = {
 			create_pop = {
 				culture = inuit
 				size = 20246
 			}
-		}
+		
+
+			create_pop = {
+				culture = inuit
+				size = 20246
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 20246
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 20246
+			}
+		
+}
 	
-		region_state:RIP = {
-			create_pop = {
-				culture = inuit
-				size = 20246
-			}
-		}
-		region_state:ATB = {
-			create_pop = {
-				culture = inuit
-				size = 20246
-			}
-		}
-		region_state:NNV = {
-			create_pop = {
-				culture = inuit
-				size = 20246
-			}
-		}
+		
+		
+		
 	}
 	s:STATE_BERMUDA = {
 		region_state:GBR = {
@@ -1766,7 +1804,7 @@
 		
 		
 	
-		region_state:CSA = {
+		region_state:USA = {
 			create_pop = {
 				culture = dixie
 				size = 74880
@@ -1794,7 +1832,7 @@
 		
 		
 	
-		region_state:Y11 = {
+		region_state:USA = {
 			create_pop = {
 				culture = paiute
 				size = 37180

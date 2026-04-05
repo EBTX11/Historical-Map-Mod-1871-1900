@@ -2775,18 +2775,19 @@
 			}
 			create_building={
 				building="building_banana_plantation"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_manor_house"
 						country="c:FRA"
 						levels=1
 						region="STATE_SOUTH_MADAGASCAR"
 					}
-					building={
-						type="building_financial_district"
-						country="c:FRA"
-						levels=2
-						region="STATE_ZHILI"
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:FRA"
+						levels = 2
+						region = "STATE_SOUTH_MADAGASCAR"
 					}
 					building={
 						type="building_manor_house"

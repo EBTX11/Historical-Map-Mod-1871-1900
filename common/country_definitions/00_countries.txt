@@ -375,8 +375,8 @@ POR = {
 	tier = kingdom
 
 	cultures = { portuguese } #brazilian
-	#capital = STATE_ESTREMADURA
-	capital = STATE_RIO_DE_JANEIRO
+	capital = STATE_ESTREMADURA
+	#capital = STATE_RIO_DE_JANEIRO
  
 }
 

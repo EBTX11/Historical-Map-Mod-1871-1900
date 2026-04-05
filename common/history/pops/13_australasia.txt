@@ -186,7 +186,26 @@
 		}
 	}
 	s:STATE_NORTH_ISLAND = {
-		region_state:UNT = {
+		
+		
+		region_state:NZL = {
+			create_pop = {
+				culture = maori
+				size = 41600
+			}
+		
+
+			create_pop = {
+				culture = maori
+				size = 6500
+			}
+			create_pop = {
+				culture = australian
+				size = 1305
+			}
+		
+
+
 			create_pop = {
 				culture = maori
 				religion = protestant
@@ -196,26 +215,18 @@
 				culture = maori
 				size = 32500
 			}
-		}
-		region_state:NSW = {
-			create_pop = {
-				culture = maori
-				size = 6500
-			}
-			create_pop = {
-				culture = australian
-				size = 1305
-			}
-		}
-		region_state:NTO = {
-			create_pop = {
-				culture = maori
-				size = 41600
-			}
-		}
+		
+}
 	}
 	s:STATE_SOUTH_ISLAND = {
-		region_state:NTO = {
+		
+		region_state:NZL = {
+			create_pop = {
+				culture = maori
+				size = 83200
+			}
+		
+
 			create_pop = {
 				culture = australian
 				size = 556
@@ -224,12 +235,7 @@
 				culture = maori
 				size = 15600
 			}
-		}
-		region_state:NTU = {
-			create_pop = {
-				culture = maori
-				size = 83200
-			}
-		}
+		
+}
 	}
 }

@@ -181,18 +181,19 @@
 			}
 			create_building={
 				building="building_opium_plantation"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_manor_house"
 						country="c:EGY"
 						levels=6
 						region="STATE_LOWER_EGYPT"
 					}
-					building={
-						type="building_manor_house"
-						country="c:TUR"
-						levels=1
-						region="STATE_MONTENEGRO"
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:EGY"
+						levels = 1
+						region = "STATE_LOWER_EGYPT"
 					}
 					building={
 						type="building_financial_district"
@@ -604,12 +605,13 @@
 			}
 			create_building={
 				building="building_opium_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:TUR"
-						levels=2
-						region="STATE_BOSNIA"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:EGY"
+						levels = 2
+						region = "STATE_UPPER_EGYPT"
 					}
 					building={
 						type="building_manor_house"
@@ -751,7 +753,7 @@
 			}
 			create_building={
 				building="building_banana_plantation"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_manor_house"
 						country="c:TUR"
@@ -762,11 +764,12 @@
 						country="c:TUR"
 						levels=7
 					}
-					building={
-						type="building_manor_house"
-						country="c:TUR"
-						levels=1
-						region="STATE_MONTENEGRO"
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:EGY"
+						levels = 1
+						region = "STATE_MIDDLE_EGYPT"
 					}
 					building={
 						type="building_manor_house"
@@ -774,11 +777,12 @@
 						levels=2
 						region="STATE_ERZURUM"
 					}
-					building={
-						type="building_manor_house"
-						country="c:TUR"
-						levels=1
-						region="STATE_EASTERN_SERBIA"
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:EGY"
+						levels = 1
+						region = "STATE_MIDDLE_EGYPT"
 					}
 					building={
 						type="building_manor_house"
@@ -822,11 +826,12 @@
 						levels=1
 						region="STATE_LOWER_EGYPT"
 					}
-					building={
-						type="building_financial_district"
-						country="c:TUR"
-						levels=1
-						region="STATE_MONTENEGRO"
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:EGY"
+						levels = 1
+						region = "STATE_MIDDLE_EGYPT"
 					}
 					building={
 						type="building_manor_house"
@@ -1160,8 +1165,7 @@
 			}
 			create_building={
 				building="building_food_industry"
-				add_ownership={
-				}
+				
 				reserves=1
 				activate_production_methods={ "pm_bakery" "pm_disabled_canning" "pm_disabled_distillery" "pm_manual_dough_processing" }
 			}
@@ -1526,18 +1530,19 @@
 			}
 			create_building={
 				building="building_logging_camp"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_financial_district"
 						country="c:TUR"
 						levels=1
 						region="STATE_KASTAMONU"
 					}
-					building={
-						type="building_financial_district"
-						country="c:TUR"
-						levels=1
-						region="STATE_BOSNIA"
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:EGY"
+						levels = 1
+						region = "STATE_BLUE_NILE"
 					}
 					country={
 						country="c:TUR"

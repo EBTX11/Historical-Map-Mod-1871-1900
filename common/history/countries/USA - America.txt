@@ -1,0 +1,18 @@
+﻿COUNTRIES = {
+	c:USA ?= {
+		effect_starting_technology_tier_3_tech = yes
+		add_technology_researched = napoleonic_warfare
+		activate_law = law_type:law_autocracy
+		activate_law = law_type:law_censorship
+		activate_law = law_type:law_colonial_administration
+		activate_law = law_type:law_extraction_economy
+		activate_law = law_type:law_hereditary_bureaucrats
+		activate_law = law_type:law_land_based_taxation
+		activate_law = law_type:law_professional_army
+		activate_law = law_type:law_state_religion
+		activate_law = law_type:law_subjecthood
+		activate_law = law_type:law_tenant_farmers
+		activate_law = law_type:law_women_own_property
+		set_tax_level = medium
+	}
+}

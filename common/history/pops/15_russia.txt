@@ -978,7 +978,18 @@
 				culture = east_german
 				size = 3266
 			}
-		}
+		
+
+			create_pop = {
+				culture = circassian
+				size = 75151
+			}
+			create_pop = {
+				culture = north_caucasian
+				size = 16900
+			}
+		
+}
 		region_state:CHC = {
 			create_pop = {
 				culture = chechen
@@ -989,16 +1000,7 @@
 				size = 27300
 			}
 		}
-		region_state:CIR = {
-			create_pop = {
-				culture = circassian
-				size = 75151
-			}
-			create_pop = {
-				culture = north_caucasian
-				size = 16900
-			}
-		}
+		
 	}
 	s:STATE_ELIZAVETPOL = { #DONE
 		region_state:RUS = {
@@ -1055,9 +1057,8 @@
 				culture = kalmyk
 				size = 8174
 			}
-		}
-	
-		region_state:CIR = {
+		
+
 			create_pop = {
 				culture = russian
 				size = 376022
@@ -1078,7 +1079,10 @@
 				culture = kalmyk
 				size = 8174
 			}
-		}
+		
+}
+	
+		
 	}
 	s:STATE_KALMYKIA = { #DONE
 		region_state:RUS = {

@@ -1123,12 +1123,13 @@
 		region_state:VNZ={
 			create_building={
 				building="building_sugar_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:VNZ"
-						levels=1
-						region="STATE_BOLIVAR"
+				add_ownership = {
+					
+					building = {
+						type = "building_manor_house"
+						country = "c:VNZ"
+						levels = 1
+						region = "STATE_WEST_INDIES"
 					}
 				}
 				reserves=1
@@ -1221,7 +1222,7 @@
 			}
 			create_building={
 				building="building_port"
-				add_ownership={
+				add_ownership = {
 					building={
 						type="building_financial_district"
 						country="c:GBR"
@@ -1234,12 +1235,8 @@
 						levels=2
 						region="STATE_MIDLANDS"
 					}
-					building={
-						type="building_financial_district"
-						country="c:GBR"
-						levels=1
-						region="STATE_SHAOZHOU"
-					}
+					
+					country = { country = "c:GBR" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }

@@ -84,16 +84,7 @@
 		}
 	}
 
-	c:NGF ?= {
-		create_power_bloc = {
-			name = ger_empire
-			map_color = { 0 0 0 }
-			founding_date = 1836.1.1
-			identity = identity_sovereign_empire
-			principle = principle_vassalization_3
-			
-		}
-	}
+
  
 	c:USA ?= {
 		create_power_bloc = {

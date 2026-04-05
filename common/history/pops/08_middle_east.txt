@@ -1163,8 +1163,8 @@
 				culture = lacustrine_bantu
 				size = 4160
 			}
-		}
-		region_state:OMA = {
+		
+
 			create_pop = {
 				culture = persian
 				size = 52130
@@ -1192,8 +1192,9 @@
 				culture = lacustrine_bantu
 				size = 10660
 			}
-		}
-		region_state:BHN = {
+		
+
+
 			create_pop = {
 				culture = bedouin
 				size = 6502
@@ -1207,7 +1208,10 @@
 				culture = lacustrine_bantu
 				size = 299
 			}
-		}
+		
+}
+		
+		
 	}
 	s:STATE_SISTAN = {
 		
@@ -1234,7 +1238,7 @@
 		}
 		
 	
-		region_state:KAL = {
+		region_state:PER = {
 			create_pop = {
 				culture = baluchi
 				size = 131302
