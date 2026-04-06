@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:WAS ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		# set_next_election_date = ???
 		activate_law = law_type:law_colonial_administration
 		activate_law = law_type:law_autocracy

@@ -211,6 +211,72 @@ Y11 = {
 	}	
 }
  
+Y20 = { #arizona
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	pattern = "pattern_solid.tga"
+	#color1 = "white"
+	color1 = "blue"
+ 	
+	textured_emblem = {
+		texture = "Y20_hmm.dds"
+		instance = { scale = { 0.45 0.6 } position = { 0.5 0.5 } }	
+	}	
+}
+Y21 = { #utha
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	pattern = "pattern_solid.tga"
+	#color1 = "white"
+	color1 = "blue"
+
+	textured_emblem = {
+		texture = "Y21_hmm.dds"
+		instance = { scale = { 0.45 0.6 } position = { 0.5 0.5 } }	
+	}	
+}
+Y22 = { #wayoming
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	pattern = "pattern_solid.tga"
+	#color1 = "white"
+	color1 = "blue"
+
+	textured_emblem = {
+		texture = "Y22_hmm.dds"
+		instance = { scale = { 0.45 0.6 } position = { 0.5 0.5 } }	
+	}	
+}
+Y23 = { #montana
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	pattern = "pattern_solid.tga"
+	#color1 = "white"
+	color1 = "blue"
+
+	textured_emblem = {
+		texture = "Y23_hmm.dds"
+		instance = { scale = { 0.45 0.6 } position = { 0.5 0.5 } }	
+	}	
+} 
+Y24 = { #idaho
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	pattern = "pattern_solid.tga"
+	#color1 = "white"
+	color1 = "blue"
+
+	textured_emblem = {
+		texture = "Y24_hmm.dds"
+		instance = { scale = { 0.45 0.6 } position = { 0.5 0.5 } }	
+	}	
+} 
+ 
 TUS_napoleon = {
 	pattern = "pattern_solid.tga"
 	color1 = "red"
@@ -2324,21 +2390,7 @@ KEN = {
 		color2 = color3
 		color3 = color4
 	}
-}
-KEN = {
-	pattern = "pattern_solid.tga"
-	color1 = "red"
-	color2 = "green"
-	color3 = "white"
-	color4 = "black"
-
-	colored_emblem = {
-		texture = "KEN.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color4
-	}
-}
+} 
 BRK = {
 	pattern = "pattern_solid.tga"
 	color1 = "green"
@@ -2857,6 +2909,23 @@ MAL_subject_FRA = {
 		instance = { scale = { 0.3 0.65 } position = { 0.5 0.5 } }
 	}
 }
+Y26_subject_FRA = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+	}
+
+	colored_emblem = {
+		texture = "ce_kanaga.dds"
+		color1 = "black"
+		color2 = "black"
+		instance = { scale = { 0.6 0.6 } position = { 0.5 0.5 } }
+	}
+}
 COG_subject_FRA = {
 	pattern = "pattern_solid.tga"
 	color1 = "blue"
@@ -3109,6 +3178,90 @@ KEN_subject_GBR = {
 		instance = { scale = { 0.4 0.5 } position = { 0.75 0.5 } }	
 	}
 }
+Y17 = {
+    pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "white"
+ 
+}
+Y17_subject_GBR = {
+    pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "white"
+
+	textured_emblem = {
+		texture = "Y17_subject_GBR.dds"
+		instance = { scale = { 0.34 0.5 } position = { 0.75 0.5 } }	
+	}
+}
+Y18 = {
+    pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "white"
+ 
+}
+Y18_subject_GBR = {
+    pattern = "pattern_solid.tga"
+	color1 = "blue"
+	color2 = "white"
+
+	textured_emblem = {
+		texture = "Y18_subject_GBR.dds"
+		instance = { scale = { 0.38 0.5 } position = { 0.75 0.5 } }	
+	}
+}
+Y32 = {
+    pattern = "pattern_solid.tga"
+	color1 = "white"
+	color2 = "white"
+ 
+}
+Y32_subject_GBR = {
+    pattern = "pattern_solid.tga"
+	color1 = "white"
+	color2 = "white"
+
+	textured_emblem = {
+		texture = "Y32_subject_GBR.dds"
+		instance = { scale = { 0.38 0.5 } position = { 0.75 0.5 } }	
+	}
+}
+
+Y39 = {
+    pattern = "pattern_solid.tga"
+	color1 = "white"
+	color2 = "white"
+ 
+} 
+Y39_subject_FRA = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+	}
+
+	textured_emblem = {
+		texture = "Y39_subject_FRA.dds"
+		instance = { scale = { 0.3 0.4 } position = { 0.5 0.5 } }
+	}
+}
+
+ZAN_subject_GBR = {
+    pattern = "pattern_solid.tga"
+	color1 = "red" 
+	color2 = "white"
+
+	textured_emblem = {
+		texture = "ZAN_subject_GBR.dds"
+		instance = { scale = { 0.5 0.6 } position = { 0.5 0.5 } }	
+	}
+}
+
+
+
 TAN_subject_GBR = {
     pattern = "pattern_solid.tga"
 	color1 = "red"

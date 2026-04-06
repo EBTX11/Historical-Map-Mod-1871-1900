@@ -4,40 +4,40 @@ POPS = {
 	#	region_state:RUS = {
 	#		create_pop = {
 	#			culture = byelorussian
-	#			size = 230002
+	#			size = 299002
 	#		}
 	#
 	#		create_pop = {
 	#			culture = ukrainian
-	#			size = 32110
+	#			size = 41743
 	#		}
 	#
 	#		create_pop = {
 	#			culture = ashkenazi
 	#			religion = jewish
-	#			size = 33930
+	#			size = 44109
 	#		}
 	#
 	#		create_pop = {
 	#			culture = polish
-	#			size = 38717
+	#			size = 50332
 	#		}
 	#
 	#		create_pop = {
 	#			culture = lithuanian
-	#			size = 1302
+	#			size = 1692
 	#		}
 	#
 	#		create_pop = {
 	#			culture = russian
-	#			size = 2644
+	#			size = 3437
 	#		}
 	#
 	#		create_pop = {
 	#			pop_type = aristocrats
 	#			culture = polish
 	#			religion = catholic
-	#			size = 6760
+	#			size = 8788
 	#		}
 	#
 	#		# NOTE: This isn't accurate, it's here as an example
@@ -49,7 +49,7 @@ POPS = {
 	#					orthodox = 0.5
 	#				}
 	#			}
-	#			size = 38717
+	#			size = 50332
 	#		}
 	#
 	#		# NOTE: This isn't accurate, it's here as an example
@@ -70,7 +70,7 @@ POPS = {
 	#					orthodox = 0.5
 	#				}
 	#			}
-	#			size = 3901
+	#			size = 5071
 	#		}
 	#
 	#		# literacy example, not accurate

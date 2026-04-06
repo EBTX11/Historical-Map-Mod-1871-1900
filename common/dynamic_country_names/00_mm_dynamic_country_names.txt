@@ -1,4 +1,38 @@
-﻿INJECT:ORA = { 
+﻿
+
+TRN = { 
+	dynamic_country_name = {
+		name = dyn_c_TRN_01
+		adjective = TRN_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+		
+		trigger = {
+			game_date > 1866.1.1
+			has_game_rule = historical_map_mod_enabled
+		}
+	}
+}
+
+
+MAD = { 
+	dynamic_country_name = {
+		name = dyn_c_MAD_01
+		adjective = MAD_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+		
+		trigger = {
+			game_date < 1897.1.1
+			has_game_rule = historical_map_mod_enabled
+		}
+	}
+}
+  
+ 
+INJECT:ORA = { 
 	dynamic_country_name = {
 		name = dyn_c_ORA_01
 		adjective = ORA_ADJ
@@ -12,40 +46,44 @@
 	}
 }
  
-INJECT:CLM = { 
+ 
+CAN = { 
+	# dynamic_country_name = {
+	# 	name = dyn_c_CAN_01
+	# 	adjective = CAN_ADJ
+
+	# 	is_main_tag_only = yes
+	# 	priority = 5
+		 
+	# 	trigger = { 
+ 	# 		exists = scope:actor 
+	# 		not = { 
+	# 			scope:actor ?= { 
+	# 				owns_entire_state_region = STATE_QUEBEC
+	# 				owns_entire_state_region = STATE_ONTARIO
+	# 				owns_entire_state_region = STATE_MANITOBA
+	# 				owns_entire_state_region = STATE_SASKATCHEWAN
+	# 			}
+	# 		}  
+	# 	} 
+	# }
 	dynamic_country_name = {
-		name = dyn_c_CLM_01
-		adjective = CLM_ADJ
+		name = dyn_c_Dominion_of_Canada
+		adjective = CAN_ADJ
 
 		is_main_tag_only = yes
 		priority = 20
 		
 		trigger = {
-			game_date < 1890.1.1
-			has_game_rule = historical_map_mod_enabled
-		}
-	}
-}
- 
-INJECT:CAN = { 
-	dynamic_country_name = {
-		name = dyn_c_CAN_01
-		adjective = CAN_ADJ
-
-		is_main_tag_only = yes
-		priority = 5
-		 
-		trigger = { 
- 			exists = scope:actor 
-			not = { 
-				scope:actor ?= { 
-					owns_entire_state_region = STATE_QUEBEC
-					owns_entire_state_region = STATE_ONTARIO
-					owns_entire_state_region = STATE_MANITOBA
-					owns_entire_state_region = STATE_SASKATCHEWAN
+			exists = c:GBR
+			c:GBR = {
+				has_diplomatic_pact = {
+					who = c:CAN
+					type = dominion
+					is_initiator = yes
 				}
-			}  
-		} 
+			}
+		}
 	}
 } 
 
@@ -801,27 +839,7 @@ AST = {
 			}
 		}
 	}
-}
-CAN = {
-	dynamic_country_name = {
-		name = dyn_c_Dominion_of_Canada
-		adjective = CAN_ADJ
-
-		is_main_tag_only = yes
-		priority = 2
-		
-		trigger = {
-			exists = c:GBR
-			c:GBR = {
-				has_diplomatic_pact = {
-					who = c:CAN
-					type = dominion
-					is_initiator = yes
-				}
-			}
-		}
-	}
-}
+} 
 GAM = {
 	dynamic_country_name = {
 		name = dyn_c_Colonial_GAM
@@ -1010,8 +1028,34 @@ MWI = {
 			}
 		}
 	}
-}
+} 
+
 ZIM = {
+	dynamic_country_name = {
+		name = dyn_c_ZIM_01
+		adjective = ZIM_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+		
+		trigger = {
+			exists = c:GBR
+			c:GBR = {
+				has_diplomatic_pact = {
+					who = c:ZIM
+					type = colony
+					is_initiator = yes
+				}
+			}
+			scope:actor ?= {
+				NOT = { 
+					owns_entire_state_region = STATE_ZAMBIA
+					owns_entire_state_region = STATE_KAZEMBE
+					owns_entire_state_region = STATE_ZAMBEZI
+				}
+			}
+		} 
+	}
 	dynamic_country_name = {
 		name = dyn_c_Southern_Rhodesia
 		adjective = ZIM_ADJ
@@ -1030,8 +1074,7 @@ ZIM = {
 			}
 			scope:actor ?= {
 				NOT = { 
-					owns_entire_state_region = STATE_ZAMBIA
-					#owns_entire_state_region = STATE_KAZEMBE
+					owns_entire_state_region = STATE_ZAMBIA 
 					owns_entire_state_region = STATE_ZAMBEZI
 				}
 			}
@@ -1361,8 +1404,20 @@ INJECT:ARG = {
 			}
 		}
 	}
-}
+} 
 INJECT:CLM = { 
+	dynamic_country_name = {
+		name = dyn_c_CLM_01
+		adjective = CLM_ADJ
+
+		is_main_tag_only = yes
+		priority = 20
+		
+		trigger = {
+			game_date < 1890.1.1
+			has_game_rule = historical_map_mod_enabled
+		}
+	}
 	dynamic_country_name = {
 		name = dyn_c_CGO_viceroyalty
 		adjective = CLM_ADJ
@@ -1751,6 +1806,7 @@ INJECT:SAF = { # South Africa
 		}
 	}
 }
+ 
 INJECT:SUD = {
 	dynamic_country_name = {
 		name = dyn_c_Anglo_Egyptian_Sudan
@@ -1766,6 +1822,27 @@ INJECT:SUD = {
 					who = c:SUD
 					type = dominion
 					is_initiator = yes
+				}
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SUD_01
+		adjective = SUD_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+		
+		trigger = {
+			has_game_rule = historical_map_mod_enabled 
+			exists = c:GBR
+			c:GBR = {
+				NOT = {
+					has_diplomatic_pact = {
+						who = c:SUD
+						type = dominion
+						is_initiator = yes
+					}
 				}
 			}
 		}

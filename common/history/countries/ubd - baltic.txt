@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:UBD ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		remove_primary_culture = cu:lithuanian
 		remove_primary_culture = cu:latvian
 		remove_primary_culture = cu:estonian

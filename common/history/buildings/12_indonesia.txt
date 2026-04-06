@@ -362,192 +362,9 @@
 		}
 	}
 	s:STATE_WEST_BORNEO={
-		region_state:LAN={
-			create_building={
-				building="building_port"
-				add_ownership={
-					country={
-						country="c:LAN"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_basic_port" }
-			}
-			create_building={
-				building="building_coffee_plantation"
-				add_ownership = {
-					
-					building = {
-						type = "building_manor_house"
-						country = "c:LAN"
-						levels = 1
-						region = "STATE_WEST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "coffee_plantation_dry_process" "coffee_plantation_patio_drying" "default_labour" "pm_road_carts" }
-			}
-			create_building={
-				building="building_artillery_foundry"
-				add_ownership={
-					country={
-						country="c:LAN"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_cannons" "pm_automation_disabled" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:LAN"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_iron_frame_buildings" }
-			}
-			create_building={
-				building="building_lead_mine"
-				add_ownership={
-					country={
-						country="c:CHI"
-						levels=5
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_picks_and_shovels_building_lead_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" }
-			}
-		}
-		region_state:SMB={
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:SMB"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
-			create_building={
-				building="building_port"
-				add_ownership={
-					building={
-						type="building_financial_district"
-						country="c:NET"
-						levels=1
-						region="STATE_HOLLAND"
-					}
-					country={
-						country="c:DEI"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_basic_port" }
-			}
-			create_building={
-				building="building_livestock_ranch"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:NET"
-						levels=1
-						region="STATE_HOLLAND"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:SMB"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_iron_frame_buildings" }
-			}
-			create_building={
-				building="building_logging_camp"
-				add_ownership={
-					country={
-						country="c:SMB"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" }
-			}
-			create_building={
-				building="building_lead_mine"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_picks_and_shovels_building_lead_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" }
-			}
-		}
-		region_state:PON={
-			create_building={
-				building="building_dye_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:PON"
-						levels=2
-						region="STATE_WEST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "worker_exploitation_dye" }
-			}
-			create_building={
-				building="building_port"
-				add_ownership={
-					country={
-						country="c:PON"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_basic_port" }
-			}
-			create_building={
-				building="building_rice_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:PON"
-						levels=1
-						region="STATE_WEST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_fig_orchards_building_rice_farm" "pm_tools_building_rice_farm" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:PON"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_iron_frame_buildings" }
-			}
-		}
+		
+		
+		
 		region_state:STG={
 			create_building={
 				building="building_barrack"
@@ -778,69 +595,7 @@
 				activate_production_methods={ "pm_iron_frame_buildings" }
 			}
 		}
-		region_state:BNJ={
-			create_building={
-				building="building_tea_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:BNJ"
-						levels=1
-						region="STATE_EAST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_tea_plantation" "pm_road_carts" "worker_exploitation_tea" }
-			}
-			create_building={
-				building="building_dye_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:BNJ"
-						levels=2
-						region="STATE_EAST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_dye_plantation" "pm_road_carts" "worker_exploitation_dye" }
-			}
-			create_building={
-				building="building_banana_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:BNJ"
-						levels=1
-						region="STATE_EAST_BORNEO"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "worker_exploitation_banana" }
-			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:BNJ"
-						levels=3
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:BNJ"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_iron_frame_buildings" }
-			}
-		}
+		
 		region_state:DEI={
 			create_building={
 				building="building_rice_farm"
@@ -1559,54 +1314,7 @@
 		}
 	}
 	s:STATE_NORTH_SUMATRA={
-		region_state:SAK={
-			create_building={
-				building="building_logging_camp"
-				add_ownership={
-					building={
-						type="building_logging_camp"
-						country="c:SAK"
-						levels=1
-						region="STATE_NORTH_SUMATRA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
-			}
-			create_building={
-				building="building_port"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_basic_port" }
-			}
-			create_building={
-				building="building_banana_plantation"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "worker_exploitation_banana" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_iron_frame_buildings" }
-			}
-		}
+		
 		region_state:JMB={
 			create_building={
 				building="building_logging_camp"
@@ -1793,6 +1501,55 @@
 				}
 				reserves=1
 				activate_production_methods={ "pm_picks_and_shovels_building_sulfur_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" }
+			}
+		}
+	
+		region_state:ACE={
+			create_building={
+				building="building_logging_camp"
+				add_ownership={
+					building={
+						type="building_logging_camp"
+						country="c:ACE"
+						levels=1
+						region="STATE_NORTH_SUMATRA"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
+			}
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:ACE"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
+			create_building={
+				building="building_banana_plantation"
+				add_ownership={
+					country={
+						country="c:ACE"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "worker_exploitation_banana" }
+			}
+			create_building={
+				building="building_construction_sector"
+				add_ownership={
+					country={
+						country="c:ACE"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_iron_frame_buildings" }
 			}
 		}
 	}
@@ -1995,67 +1752,7 @@
 				activate_production_methods={ "default_building_banana_plantation" "pm_road_carts" "worker_exploitation_banana" }
 			}
 		}
-		region_state:SAK={
-			create_building={
-				building="building_rice_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:SAK"
-						levels=1
-						region="STATE_ACEH"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_tools_disabled" "pm_fig_orchards_building_rice_farm" }
-			}
-			create_building={
-				building="building_fishing_wharf"
-				add_ownership={
-					building={
-						type="building_fishing_wharf"
-						country="c:SAK"
-						levels=1
-						region="STATE_ACEH"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_fishing" "pm_unrefrigerated" }
-			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=4
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
-			create_building={
-				building="building_port"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_basic_port" }
-			}
-			create_building={
-				building="building_livestock_ranch"
-				add_ownership={
-					country={
-						country="c:SAK"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated" }
-			}
-		}
+		
 		region_state:DEI={
 			create_building={
 				building="building_rice_farm"

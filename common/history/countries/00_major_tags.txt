@@ -1,7 +1,7 @@
 # =========================
 # DEFAULT
 # =========================
-BASE: effect_starting_technology_tier_3_tech = yes
+BASE: effect_starting_technology_tier_4_tech = yes
 
 # =========================
 # HMM
@@ -13,26 +13,20 @@ BASE: effect_starting_technology_tier_3_tech = yes
 
 
 # TIER_3_TECH_HMM #effect_starting_technology_tier_3_tech_hmm
-
-
-# TIER_4_TECH_HMM #effect_starting_technology_tier_4_tech_hmm
 FRA
 GBR
 USA
-NGF
+GER
 RUS 
-AUS
-CSA
+AUS 
 MEX
 CAN
 BRZ
 ITA
-
-# =========================
-# VANILLA
-# =========================
-
-# TIER_1_TECH #effect_starting_technology_tier_1_tech
+BEL
+NET
+JAP
+# TIER_4_TECH_HMM #effect_starting_technology_tier_4_tech_hmm 
 VNZ
 CLM
 ECU
@@ -49,7 +43,19 @@ ROM
 POL
 HUN
 PER
+SPA
+POR
+CHI
+# =========================
+# VANILLA
+# =========================
 
+# TIER_1_TECH #effect_starting_technology_tier_1_tech 
+SER
+BUL
+BOS
+SWI
+MOR
 # TIER_2_TECH #effect_starting_technology_tier_2_tech
 
 # TIER_3_TECH #effect_starting_technology_tier_3_tech

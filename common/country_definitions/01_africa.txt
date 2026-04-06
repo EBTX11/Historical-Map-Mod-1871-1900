@@ -26,7 +26,7 @@ CON = {
 EGY = {
 	color = { 255  205  155 }
 
-	country_type = recognized
+	country_type = colonial #recognized
 
 	tier = kingdom
 
@@ -175,7 +175,7 @@ TUN = {
 ZAN = {
 	color = { 166  189  199 }
 
-	country_type = unrecognized
+	country_type = colonial #recognized
 
 	tier = principality
 
@@ -473,9 +473,9 @@ FTJ = {
 }
 
 BUG = {
-	color = { 21 21 227 }
-
-	country_type = unrecognized
+	color = { 250 249 245 }
+	
+	country_type = decentralized
 
 	tier = principality
 
@@ -617,9 +617,9 @@ LBA = {
 }
 
 BNY = {
-	color = { 174 24 66 }
-
-	country_type = unrecognized
+	color = { 250 249 245 }
+	
+	country_type = decentralized
 
 	tier = principality
 

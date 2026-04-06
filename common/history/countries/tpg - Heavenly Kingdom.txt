@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:TPG ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		add_technology_researched = urban_planning
 		add_technology_researched = sericulture
 		add_technology_researched = academia
@@ -17,10 +17,6 @@
 		activate_law = law_type:law_closed_borders
 		activate_law = law_type:law_free_trade #law_canton_system
 		activate_law = law_type:law_freedom_of_conscience
- 
 		set_tax_level = low  
 	}
 }
-
-
-

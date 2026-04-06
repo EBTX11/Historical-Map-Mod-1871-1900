@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:ORA ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		# date of establishment of the Natalia Republic, as good a date as any in this case
 		set_next_election_date = 1839.10.12
 		effect_starting_politics_conservative = yes

@@ -7,16 +7,16 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 45094
+				size = 58622
 			}
 			create_pop = {
 				culture = dixie
-				size = 141229
+				size = 183597
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 12802
+				size = 16642
 			}
 		}
 	}
@@ -27,31 +27,31 @@
 			create_pop = {
 				culture = cajun
 				religion = catholic
-				size = 63820
+				size = 82966
 			}
 			create_pop = {
 				culture = dixie
-				size = 209933
+				size = 272912
 			}
 			create_pop = {
 				culture = dixie
 				religion = jewish
-				size = 353
+				size = 458
 			}
 			create_pop = {
 				culture = afro_american
-				size = 37423 # 16710 free in 1830, 25502 free in 1840
+				size = 48649 # 16710 free in 1830, 25502 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 182630
+				size = 237419
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_antillean
 				religion = catholic
-				size = 28376
+				size = 36888
 			}
 		}
 	}
@@ -59,29 +59,29 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 3495508
+				size = 4544160
 			}
 			create_pop = {
 				culture = yankee
 				religion = jewish
-				size = 3273
+				size = 4254
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 65481
+				size = 85125
 			}
 			create_pop = {
 				culture = afro_american
-				size = 32749
+				size = 42573
 			}
 			create_pop = {
 				culture = irish
-				size = 26194
+				size = 34052
 			}
 			create_pop = {
 				culture = iroquoian
-				size = 13104
+				size = 17035
 			}
 		}
 	}
@@ -91,21 +91,21 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 751132
+				size = 976471
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 85114
+				size = 110648
 			}
 			create_pop = {
 				culture = afro_american
-				size = 62275
+				size = 80957
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 553386
+				size = 719401
 			}
 		}
 	}
@@ -113,20 +113,20 @@
 		region_state:USA = {
 			create_pop = {
 				culture = athabaskan
-				size = 13148
+				size = 17092
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 5543
+				size = 7205
 				religion = orthodox
 			}
 			create_pop = {
 				culture = russian
-				size = 1690
+				size = 2197
 			}
 			create_pop = {
 				culture = inuit
-				size = 3325
+				size = 4322
 			}
 		}
 		
@@ -134,20 +134,20 @@
 		region_state:NWT = {
 			create_pop = {
 				culture = athabaskan
-				size = 13148
+				size = 17092
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 5543
+				size = 7205
 				religion = orthodox
 			}
 			create_pop = {
 				culture = russian
-				size = 1690
+				size = 2197
 			}
 			create_pop = {
 				culture = inuit
-				size = 3325
+				size = 4322
 			}
 		}
 	}
@@ -157,43 +157,43 @@
 		region_state:XXQ = {
 			create_pop = {
 				culture = yankee
-				size = 3380
+				size = 4394
 			}
 			create_pop = {
 				culture = nez_perce
-				size = 16900
+				size = 21970
 			}
 			create_pop = {
 				culture = salish
-				size = 16900
+				size = 21970
 			}
 		}
 		region_state:NZP = {
 			create_pop = {
 				culture = yankee
-				size = 3380
+				size = 4394
 			}
 			create_pop = {
 				culture = nez_perce
-				size = 16900
+				size = 21970
 			}
 			create_pop = {
 				culture = salish
-				size = 16900
+				size = 21970
 			}
 		}
 		region_state:Y16 = {
 			create_pop = {
 				culture = yankee
-				size = 3380
+				size = 4394
 			}
 			create_pop = {
 				culture = nez_perce
-				size = 16900
+				size = 21970
 			}
 			create_pop = {
 				culture = salish
-				size = 16900
+				size = 21970
 			}
 		}
 	}
@@ -203,108 +203,63 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 7935
+				size = 10315
 			}
 			create_pop = {
 				culture = salish
-				size = 13096
+				size = 17024
 			}
 			create_pop = {
 				culture = paiute
-				size = 13096
+				size = 17024
 			}
 			create_pop = {
 				culture = nez_perce
-				size = 6553
+				size = 8518
 			}
 		}
-		region_state:Y16 = {
-			create_pop = {
-				culture = yankee
-				size = 8192
-			}
-			create_pop = {
-				culture = salish
-				size = 13520
-			}
-			create_pop = {
-				culture = paiute
-				size = 13520
-			}
-			create_pop = {
-				culture = nez_perce
-				size = 6760
-			}
-		}
+		
 	}
 	s:STATE_IDAHO = {
 		
 		region_state:NZP = {
 			create_pop = {
 				culture = nez_perce
-				size = 67600
+				size = 87880
 			}
 		}
 		
 	
-		region_state:Y14 = {
+		
+		
+	
+		region_state:Y24 = {
 			create_pop = {
-				culture = paiute
-				size = 5070
-			}
-			create_pop = {
-				culture = yankee
-				size = 845
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 845
-			}
-		}
-		region_state:Y16 = {
-			create_pop = {
-				culture = paiute
-				size = 5070
-			}
-			create_pop = {
-				culture = yankee
-				size = 845
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 845
+				culture = nez_perce
+				size = 87880
 			}
 		}
 	}
 	s:STATE_COLORADO = {
 		
 		
-		region_state:UTE = {
-			create_pop = {
-				culture = paiute
-				size = 6760
-			}
-			create_pop = {
-				culture = apache
-				size = 6760
-			}
-		}
+		
 		
 	
 		region_state:USA = {
 			create_pop = {
 				culture = siouan
-				size = 3380
+				size = 4394
 			}
 			create_pop = {
 				culture = mexican
-				size = 1352
+				size = 1757
 			}
 		
 
 			create_pop = {
 				culture = siouan
-				size = 16900
+				size = 21970
 			}
 		
 }
@@ -312,31 +267,18 @@
 	s:STATE_WYOMING = {
 		
 		
-		region_state:ARP = {
-			create_pop = {
-				culture = siouan
-				size = 6760
-			}
-		}
 		
 		
-		region_state:ABS = {
-			create_pop = {
-				culture = siouan
-				size = 10985
-			}
-		}
+		
+		
 	
-		region_state:Y13 = {
+		
+		
+	
+		region_state:Y22 = {
 			create_pop = {
 				culture = siouan
-				size = 13520
-			}
-		}
-		region_state:Y14 = {
-			create_pop = {
-				culture = siouan
-				size = 13520
+				size = 8788
 			}
 		}
 	}
@@ -345,32 +287,25 @@
 		region_state:ABS = {
 			create_pop = {
 				culture = siouan
-				size = 47320
+				size = 61516
 			}
 		}
-		region_state:LKT = {
-			create_pop = {
-				culture = dakota
-				size = 10140
-			}
-		}
+		
 		
 		region_state:SLS = {
 			create_pop = {
 				culture = salish
-				#size = 9295 # historical increased for gameplay
-				size = 14534
+				#size = 12083 # historical increased for gameplay
+				size = 18894
 			}
 		}
 	
-		region_state:Y14 = {
+		
+	
+		region_state:Y23 = {
 			create_pop = {
 				culture = siouan
-				size = 8450
-			}
-			create_pop = {
-				culture = dakota
-				size = 3380
+				size = 61516
 			}
 		}
 	}
@@ -380,18 +315,18 @@
 		region_state:LKT = {
 			create_pop = {
 				culture = dakota
-				size = 50700
+				size = 65910
 			}
 			create_pop = {
 				culture = siouan
-				size = 6760
+				size = 8788
 			}
 		}
 	
 		region_state:Y14 = {
 			create_pop = {
 				culture = siouan
-				size = 10140
+				size = 13182
 			}
 		}
 	}
@@ -399,7 +334,7 @@
 		region_state:LKT = {
 			create_pop = {
 				culture = dakota
-				size = 57460
+				size = 74698
 			}
 		}
 		
@@ -408,7 +343,7 @@
 		region_state:Y14 = {
 			create_pop = {
 				culture = dakota
-				size = 57460
+				size = 74698
 			}
 		}
 	}
@@ -420,7 +355,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = siouan
-				size = 6760
+				size = 8788
 			}
 		}
 	}
@@ -428,7 +363,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = siouan
-				size = 19645
+				size = 25538
 			}
 		}
 		
@@ -438,20 +373,20 @@
 		region_state:SEQ = {
 			create_pop = {
 				culture = siouan
-				size = 3380
+				size = 4394
 			}
 			create_pop = {
 				pop_type = slaves # there was even a slave revolt at Webbers Falls in 1842
 				culture = afro_american
-				size = 2028
+				size = 2636
 			}
 			create_pop = {
 				culture = caddoan
-				size = 13520
+				size = 17576
 			}
 			create_pop = {
 				culture = cherokee
-				size = 85852
+				size = 111607
 			}
 		}
 		
@@ -463,24 +398,24 @@
 			create_pop = {
 				culture = cajun
 				religion = catholic
-				size = 22403
+				size = 29123
 			}
 			create_pop = {
 				culture = dixie
-				size = 60034
+				size = 78044
 			}
 			create_pop = {
 				culture = afro_american
-				size = 535 # 141 free in 1830, 465 free in 1840
+				size = 695 # 141 free in 1830, 465 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 27818
+				size = 36163
 			}
 			create_pop = {
 				culture = cherokee
-				size = 53439
+				size = 69470
 			}
 		}
 	}
@@ -489,74 +424,74 @@
 			create_pop = {
 				culture = cajun
 				religion = catholic
-				size = 15784
+				size = 20519
 			}
 			create_pop = {
 				culture = dixie
-				size = 227026
+				size = 295133
 			}
 			create_pop = {
 				culture = north_german
-				size = 3273
+				size = 4254
 			}
 			create_pop = {
 				culture = yankee
-				size = 270476
+				size = 351618
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 6540
+				size = 8502
 			}
 			create_pop = {
 				culture = afro_american
-				size = 1753 # 569 free in 1830, 1574 free in 1840
+				size = 2278 # 569 free in 1830, 1574 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 63732
+				size = 82851
 			}
 			create_pop = {
 				culture = irish
-				size = 13107
+				size = 17039
 			}
 		
 
 			create_pop = {
 				culture = cajun
 				religion = catholic
-				size = 15698
+				size = 20407
 			}
 			create_pop = {
 				culture = dixie
-				size = 225787
+				size = 293523
 			}
 			create_pop = {
 				culture = north_german
-				size = 3256
+				size = 4232
 			}
 			create_pop = {
 				culture = yankee
-				size = 268999
+				size = 349698
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 6504
+				size = 8455
 			}
 			create_pop = {
 				culture = afro_american
-				size = 1744 # 569 free in 1830, 1574 free in 1840
+				size = 2267 # 569 free in 1830, 1574 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 63384
+				size = 82399
 			}
 			create_pop = {
 				culture = irish
-				size = 13034
+				size = 16944
 			}
 		
 }
@@ -567,15 +502,15 @@
 		region_state:USA = {
 			create_pop = {
 				culture = algonquian
-				size = 19645
+				size = 25538
 			}
 			create_pop = {
 				culture = dakota
-				size = 13096
+				size = 17024
 			}
 			create_pop = {
 				culture = yankee
-				size = 39281
+				size = 51065
 			}
 		}
 	}
@@ -583,7 +518,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = algonquian
-				size = 26194
+				size = 34052
 			}
 		}
 		
@@ -592,11 +527,11 @@
 		region_state:USA = {
 			create_pop = {
 				culture = algonquian
-				size = 13096
+				size = 17024
 			}
 			create_pop = {
 				culture = yankee
-				size = 45849
+				size = 59603
 			}
 		}
 	}
@@ -604,19 +539,19 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1033921
+				size = 1344097
 			}
 			create_pop = {
 				culture = irish
-				size = 6554
+				size = 8520
 			}
 			create_pop = {
 				culture = north_german
-				size = 32743
+				size = 42565
 			}
 			create_pop = {
 				culture = afro_american
-				size = 13102
+				size = 17032
 			}
 		}
 	}
@@ -624,24 +559,24 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 20301049
+				size = 26391363
 			}
 			create_pop = {
 				culture = algonquian
-				size = 1964657
+				size = 2554054
 			}
 			create_pop = {
 				culture = siouan
-				size = 654885
+				size = 851350
 			}
 			create_pop = {
 				culture = irish
-				size = 1309771
+				size = 1702702
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 655623
+				size = 852309
 			}
 		}
 	}
@@ -649,19 +584,19 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 741148
+				size = 963492
 			}
 			create_pop = {
 				culture = afro_american
-				size = 10861
+				size = 14119
 			}
 			create_pop = {
 				culture = north_german
-				size = 86858
+				size = 112915
 			}
 			create_pop = {
 				culture = irish
-				size = 73292
+				size = 95279
 			}
 		}
 	}
@@ -669,47 +604,47 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 162850
+				size = 211705
 			}
 			create_pop = {
 				culture = yankee
-				size = 214697
+				size = 279106
 			}
 			create_pop = {
 				culture = afro_american
-				size = 10013 # 4917 free in 1830, 7317 free in 1840
+				size = 13016 # 4917 free in 1830, 7317 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 109846
+				size = 142799
 			}
 			create_pop = {
 				culture = irish
-				size = 13576
+				size = 17648
 			}
 		
 
 			create_pop = {
 				culture = dixie
-				size = 161961
+				size = 210549
 			}
 			create_pop = {
 				culture = yankee
-				size = 213524
+				size = 277581
 			}
 			create_pop = {
 				culture = afro_american
-				size = 9958 # 4917 free in 1830, 7317 free in 1840
+				size = 12945 # 4917 free in 1830, 7317 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 109247
+				size = 142021
 			}
 			create_pop = {
 				culture = irish
-				size = 13502
+				size = 17552
 			}
 		
 }
@@ -722,32 +657,32 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 655389
+				size = 852005
 			}
 			create_pop = {
 				culture = cherokee
-				size = 12766
+				size = 16595
 			}
 			create_pop = {
 				culture = yankee
-				size = 363155
+				size = 472101
 			}
 			create_pop = {
 				culture = afro_american
-				size = 8935 # 4555 free in 1830, 5524 free in 1840
+				size = 11615 # 4555 free in 1830, 5524 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 253499
+				size = 329548
 			}
 			create_pop = {
 				culture = irish
-				size = 70920
+				size = 92196
 			}
 			create_pop = {
 				culture = cherokee
-				size = 4487 # 1835 Cherokee Census "Henderson Roll"
+				size = 5833 # 1835 Cherokee Census "Henderson Roll"
 			}
 		}
 	}
@@ -757,16 +692,16 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 306418
+				size = 398343
 			}
 			create_pop = {
 				culture = afro_american
-				size = 1670 # 519 free in 1830, 1366 free in 1840
+				size = 2171 # 519 free in 1830, 1366 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 154373
+				size = 200684
 			}
 		}
 	}
@@ -776,29 +711,29 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 583404
+				size = 758425
 			}
 			create_pop = {
 				culture = afro_american
-				size = 3200 # 1572 free in 1830, 2039 free in 1840
+				size = 4160 # 1572 free in 1830, 2039 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 407836
+				size = 530186
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 28378
+				size = 36891
 			}
 			create_pop = {
 				culture = cherokee
-				size = 2523 # 1835 Cherokee Census "Henderson Roll"
+				size = 3279 # 1835 Cherokee Census "Henderson Roll"
 			}
 			create_pop = {
 				culture = muskogean # Creeks tallied in the "Parsons and Albert Roll" after the 1832 Treaty of Cusseta
-				size = 39441
+				size = 51273
 			}
 		}
 	}
@@ -809,20 +744,20 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 85105
+				size = 110636
 			}
 			create_pop = {
 				culture = afro_american
-				size = 1447 # unknown free population in 1830, 817 free in 1840
+				size = 1881 # unknown free population in 1830, 817 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 55292
+				size = 71879
 			}
 			create_pop = {
 				culture = muskogean
-				size = 5322
+				size = 6918
 			}
 		}
 	}
@@ -832,25 +767,25 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 584870
+				size = 760331
 			}
 			create_pop = {
 				culture = dixie
 				religion = jewish
-				size = 1772
+				size = 2303
 			}
 			create_pop = {
 				culture = cherokee
-				size = 15860 # 1835 Cherokee Census "Henderson Roll"
+				size = 20618 # 1835 Cherokee Census "Henderson Roll"
 			}
 			create_pop = {
 				culture = afro_american
-				size = 4645 # 2486 free in 1830, 2753 free in 1840
+				size = 6038 # 2486 free in 1830, 2753 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 454254
+				size = 590530
 			}
 		}
 	}
@@ -858,41 +793,41 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 109193
+				size = 141950
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 29601 # 17673 slaves in WV's counties in 1830, 18488 slaves in 1840
+				size = 38481 # 17673 slaves in WV's counties in 1830, 18488 slaves in 1840
 			}
 			create_pop = {
 				culture = afro_american
-				size = 2958 # don't have easy numbers for WV's free non-white population, but ~10% of the enslaved population seems to roughly track
+				size = 3845 # don't have easy numbers for WV's free non-white population, but ~10% of the enslaved population seems to roughly track
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 19002
+				size = 24702
 			}
 		
 
 			create_pop = {
 				culture = dixie
-				size = 108596
+				size = 141174
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 29439 # 17673 slaves in WV's counties in 1830, 18488 slaves in 1840
+				size = 38270 # 17673 slaves in WV's counties in 1830, 18488 slaves in 1840
 			}
 			create_pop = {
 				culture = afro_american
-				size = 2942 # don't have easy numbers for WV's free non-white population, but ~10% of the enslaved population seems to roughly track
+				size = 3824 # don't have easy numbers for WV's free non-white population, but ~10% of the enslaved population seems to roughly track
 			}
 			create_pop = {
 				culture = dixie
 				religion = catholic
-				size = 18899
+				size = 24568
 			}
 		
 }
@@ -907,20 +842,20 @@
 			# aim for 535947 pops for Mega-Maryland (Megaland?) in total
 			create_pop = {
 				culture = dixie
-				size = 170999
+				size = 222298
 			}
 			# Maryland: 52938 free in 1830, 62078 free in 1840
 			# Delaware: 15855 free in 1830, 16919 free in 1840
 			create_pop = {
 				culture = afro_american
-				size = 32937
+				size = 42818
 			}
 			# Maryland: 102994 in 1830, 89737 in 1840
 			# Delaware: 3292 in 1830, 2605 in 1840
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 39677
+				size = 51580
 			}
 		}
 	}
@@ -929,18 +864,18 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 52249
+				size = 67923
 			}
 
 			create_pop = {
 					culture = afro_american
-					size = 11480
+					size = 14924
 			}
 
 			create_pop = {
 					pop_type = slaves
 					culture = afro_american
-					size = 1768
+					size = 2298
 			}
 		}
 	}
@@ -949,25 +884,25 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 848565
+				size = 1103134
 			}
 			create_pop = {
 				culture = yankee
 				religion = jewish
-				size = 1356
+				size = 1762
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 97720
+				size = 127036
 			}
 			create_pop = {
 				culture = irish
-				size = 40578
+				size = 52751
 			}
 			create_pop = {
 				culture = afro_american
-				size = 29858
+				size = 38815
 			}
 		}
 	}
@@ -975,16 +910,16 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 205744
+				size = 267467
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 18995
+				size = 24693
 			}
 			create_pop = {
 				culture = afro_american
-				size = 10857
+				size = 14114
 			}
 		}
 	}
@@ -992,11 +927,11 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 306990
+				size = 399087
 			}
 			create_pop = {
 				culture = afro_american
-				size = 2715
+				size = 3529
 			}
 		}
 	}
@@ -1004,7 +939,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 71128
+				size = 92466
 			}
 		}
 	}
@@ -1012,7 +947,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 135192
+				size = 175749
 			}
 		}
 	}
@@ -1020,20 +955,20 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 511979
+				size = 665572
 			}
 			create_pop = {
 				culture = afro_american
-				size = 8138
+				size = 10579
 			}
 			create_pop = {
 				culture = irish
-				size = 35557
+				size = 46224
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 19274
+				size = 25056
 			}
 		}
 	}
@@ -1041,16 +976,16 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 151527
+				size = 196985
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 16284
+				size = 21169
 			}
 			create_pop = {
 				culture = yankee
 				religion = catholic
-				size = 21716
+				size = 28230
 			}
 		}
 	}
@@ -1058,7 +993,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 191934
+				size = 249514
 			}
 		}
 	}
@@ -1066,11 +1001,11 @@
 		region_state:USA = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 10855
+				size = 14111
 			}
 			create_pop = {
 				culture = yankee
-				size = 258696
+				size = 336304
 			}
 		}
 	}
@@ -1080,20 +1015,20 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 873312
+				size = 1135305
 			}
 			create_pop = {
 				culture = afro_american
-				size = 37481 # 19543 free in 1830, 22732 free in 1840
+				size = 48725 # 19543 free in 1830, 22732 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 395182
+				size = 513736
 			}
 			create_pop = {
 				culture = cherokee
-				size = 6464 # 1835 Cherokee Census "Henderson Roll"
+				size = 8403 # 1835 Cherokee Census "Henderson Roll"
 			}
 		}
 	}
@@ -1103,14 +1038,16 @@
 		region_state:UTE = {
 			create_pop = {
 				culture = paiute
-				size = 18590
+				size = 24167
 			}
 		}
 	
-		region_state:Y11 = {
+		
+	
+		region_state:Y21 = {
 			create_pop = {
 				culture = paiute
-				size = 5070
+				size = 24167
 			}
 		}
 	}
@@ -1120,25 +1057,25 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 450106
+				size = 585137
 			}
 			create_pop = {
 				culture = dixie
 				religion = jewish
-				size = 1772
+				size = 2303
 			}
 			create_pop = {
 				culture = cherokee
-				size = 12340
+				size = 16042
 			}
 			create_pop = {
 				culture = afro_american
-				size = 14360 # 7921 free in 1830, 8276 free in 1840
+				size = 18668 # 7921 free in 1830, 8276 free in 1840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 565115
+				size = 734649
 			}
 		}
 	}
@@ -1148,37 +1085,37 @@
 				pop_type = clergymen
 				culture = yankee
 				religion = protestant
-				size = 169
+				size = 219
 			}
 			create_pop = {
 				pop_type = capitalists
 				culture = yankee
 				religion = protestant
-				size = 760
+				size = 988
 			}
 			create_pop = {
 				pop_type = capitalists
 				culture = british
-				size = 845
+				size = 1098
 			}
 			create_pop = {
 				pop_type = capitalists
 				culture = russian
-				size = 422
+				size = 548
 			}
 			create_pop = {
 				culture = hawaiian
 				religion = protestant
-				size = 223593
+				size = 290670
 			}
 			create_pop = {
 				culture = hawaiian
 				religion = catholic
-				size = 14365
+				size = 18674
 			}
 			create_pop = {
 				culture = han
-				size = 84500
+				size = 109850
 			}
 		}
 	}
@@ -1190,74 +1127,74 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 1089474
+				size = 1416316
 			}
 			create_pop = {
 				culture = cree
-				size = 36236
+				size = 47106
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 69504
+				size = 90355
 			}
 			create_pop = {
 				culture = iroquoian
-				size = 11588
+				size = 15064
 			}
 			create_pop = {
 				culture = algonquian
-				size = 11588
+				size = 15064
 			}
 			create_pop = {
 				culture = franco_canadian
 				religion = protestant
-				size = 1784
+				size = 2319
 			}
 		
 
 			create_pop = {
 				culture = metis
-				size = 6752
+				size = 8777
 			}
 			create_pop = {
 				culture = siouan
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 20280
+				size = 26364
 			}
 			create_pop = {
 				culture = cree
-				size = 47658
+				size = 61955
 			}
 		
 
 
 			create_pop = {
 				culture = anglo_canadian
-				size = 619877
+				size = 805840
 			}
 			create_pop = {
 				culture = cree
-				size = 20618
+				size = 26803
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 39546
+				size = 51409
 			}
 			create_pop = {
 				culture = iroquoian
-				size = 6593
+				size = 8570
 			}
 			create_pop = {
 				culture = algonquian
-				size = 6593
+				size = 8570
 			}
 			create_pop = {
 				culture = franco_canadian
 				religion = protestant
-				size = 1014
+				size = 1318
 			}
 		
 }
@@ -1267,35 +1204,35 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 111523
+				size = 144979
 			}
 			create_pop = {
 				culture = afro_american
-				size = 1127
+				size = 1465
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 89232
+				size = 116001
 			}
 			# 1871 census figure; not easy to get numbers or estimates before the 1871 census, and changes afterwards make it hard to say if 1836-1871 should following a growing trend or shrinking trend for First Nations in Canada
 			create_pop = {
 				culture = algonquian
-				size = 2369
+				size = 3079
 			}
 		
 
 			create_pop = {
 				culture = anglo_canadian
-				size = 332207
+				size = 431869
 			}
 			create_pop = {
 				culture = afro_american
-				size = 5631
+				size = 7320
 			}
 			# 1871 census figure; not easy to get numbers or estimates before the 1871 census, and changes afterwards make it hard to say if 1836-1871 should following a growing trend or shrinking trend for First Nations in Canada
 			create_pop = {
 				culture = algonquian
-				size = 2814
+				size = 3658
 			}
 		
 }
@@ -1311,100 +1248,66 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = inuit
-				size = 11880
+				size = 15444
 			}
 			create_pop = {
 				culture = cree
-				size = 54069
+				size = 70289
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 57028
+				size = 74136
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 23761
+				size = 30889
 			}
 		
 
 			create_pop = {
 				culture = franco_canadian
-				size = 1625340
+				size = 2112942
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 14851
+				size = 19306
 			}
 			create_pop = {
 				culture = cree
-				size = 8915
+				size = 11589
 			}
 		
 
 
 			create_pop = {
 				culture = inuit
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				culture = cree
-				size = 30764
+				size = 39993
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 32448
+				size = 42182
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 13520
+				size = 17576
 			}
 		
 
 			create_pop = {
 				culture = franco_canadian
-				size = 924768
+				size = 1202198
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 8450
+				size = 10985
 			}
 			create_pop = {
 				culture = cree
-				size = 5070
-			}
-		
-
-
-
-			create_pop = {
-				culture = inuit
-				size = 6760
-			}
-			create_pop = {
-				culture = cree
-				size = 30764
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 32448
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 13520
-			}
-		
-
-			create_pop = {
-				culture = franco_canadian
-				size = 924768
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 8450
-			}
-			create_pop = {
-				culture = cree
-				size = 5070
+				size = 6591
 			}
 		
 
@@ -1412,33 +1315,67 @@
 
 			create_pop = {
 				culture = inuit
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				culture = cree
-				size = 30764
+				size = 39993
 			}
 			create_pop = {
 				culture = franco_canadian
-				size = 32448
+				size = 42182
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 13520
+				size = 17576
 			}
 		
 
 			create_pop = {
 				culture = franco_canadian
-				size = 924768
+				size = 1202198
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 8450
+				size = 10985
 			}
 			create_pop = {
 				culture = cree
-				size = 5070
+				size = 6591
+			}
+		
+
+
+
+			create_pop = {
+				culture = inuit
+				size = 8788
+			}
+			create_pop = {
+				culture = cree
+				size = 39993
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 42182
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 17576
+			}
+		
+
+			create_pop = {
+				culture = franco_canadian
+				size = 1202198
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 10985
+			}
+			create_pop = {
+				culture = cree
+				size = 6591
 			}
 		
 
@@ -1448,15 +1385,15 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = inuit
-				size = 11622
+				size = 13704
 			}
 			create_pop = {
 				culture = irish
-				size = 58257
+				size = 68699
 			}
 			create_pop = {
 				culture = anglo_canadian
-				size = 58251
+				size = 68692
 			}
 		}
 	}
@@ -1464,232 +1401,258 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 6757
+				size = 8784
 			}
 			create_pop = {
 				culture = siouan
-				size = 13858
+				size = 18015
 			}
 			create_pop = {
 				culture = metis
-				size = 18590
+				size = 24167
 			}
 		
 
 			create_pop = {
 				culture = cree
-				size = 20280
+				size = 26364
 			}
 			create_pop = {
 				culture = siouan
-				size = 20286
+				size = 26371
 			}
 		
 
 
 			create_pop = {
 				culture = siouan
-				size = 26026
+				size = 33833
 			}
 			create_pop = {
 				culture = metis
-				size = 8450
+				size = 10985
 			}
 		
 
 
 			create_pop = {
 				culture = anglo_canadian
-				size = 6757
+				size = 8784
 			}
 			create_pop = {
 				culture = siouan
-				size = 13858
+				size = 18015
 			}
 			create_pop = {
 				culture = metis
-				size = 18590
+				size = 24167
 			}
 		
 }
 		
 		
 	
-		region_state:RIP = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 6757
-			}
-			create_pop = {
-				culture = siouan
-				size = 13858
-			}
-			create_pop = {
-				culture = metis
-				size = 18590
-			}
-		}
-		
-	}
-	s:STATE_BRITISH_COLUMBIA = {
-		region_state:CAN = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 10985
-			}
-			create_pop = {
-				culture = salish
-				size = 46298
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 11830
-			}
-		}
 		
 		
 	
 		region_state:NWT = {
 			create_pop = {
 				culture = anglo_canadian
+				size = 8784
+			}
+			create_pop = {
+				culture = siouan
+				size = 18015
+			}
+			create_pop = {
+				culture = metis
+				size = 24167
+			}
+		
+
+			create_pop = {
+				culture = cree
+				size = 26364
+			}
+			create_pop = {
+				culture = siouan
+				size = 26371
+			}
+		
+
+
+			create_pop = {
+				culture = siouan
+				size = 33833
+			}
+			create_pop = {
+				culture = metis
 				size = 10985
 			}
-			create_pop = {
-				culture = salish
-				size = 46298
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 11830
-			}
-		}
-		region_state:RIP = {
+		
+
+
 			create_pop = {
 				culture = anglo_canadian
-				size = 10985
+				size = 8784
+			}
+			create_pop = {
+				culture = siouan
+				size = 18015
+			}
+			create_pop = {
+				culture = metis
+				size = 24167
+			}
+		
+}
+	}
+	s:STATE_BRITISH_COLUMBIA = {
+		region_state:CAN = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 14280
 			}
 			create_pop = {
 				culture = salish
-				size = 46298
+				size = 60187
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 11830
+				size = 15379
 			}
 		}
+		
+		
+	
+		
+		
 	}
 	s:STATE_SASKATCHEWAN = {
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 5070
+				size = 6591
 			}
 			create_pop = {
 				culture = siouan
-				size = 7098
+				size = 9227
 			}
 			create_pop = {
 				culture = metis
-				size = 27040
+				size = 35152
 			}
 		
 
 			create_pop = {
 				culture = siouan
-				size = 13520
+				size = 17576
 			}
 			create_pop = {
 				culture = cree
-				size = 40560
+				size = 52728
 			}
 		
 }
 		
 	
-		region_state:RIP = {
+		
+	
+		region_state:NWT = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 5070
+				size = 6591
 			}
 			create_pop = {
 				culture = siouan
-				size = 7098
+				size = 9227
 			}
 			create_pop = {
 				culture = metis
-				size = 27040
+				size = 35152
 			}
-		}
+		
+
+			create_pop = {
+				culture = siouan
+				size = 17576
+			}
+			create_pop = {
+				culture = cree
+				size = 52728
+			}
+		
+}
 	}
 	s:STATE_MANITOBA = {
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 25092
+				size = 32619
 			}
 			create_pop = {
 				culture = siouan
-				size = 20280
+				size = 26364
 			}
 			create_pop = {
 				culture = metis
 				religion = protestant
-				size = 6752
+				size = 8777
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 27040
+				size = 35152
 			}
 			create_pop = {
 				culture = metis
-				size = 33806
+				size = 43947
 			}
 		
 
 			create_pop = {
 				culture = anglo_canadian
-				size = 25092
+				size = 32619
 			}
 			create_pop = {
 				culture = siouan
-				size = 20280
+				size = 26364
 			}
 			create_pop = {
 				culture = metis
 				religion = protestant
-				size = 6752
+				size = 8777
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 27040
+				size = 35152
 			}
 			create_pop = {
 				culture = metis
-				size = 33806
+				size = 43947
 			}
 		
 
 
 			create_pop = {
 				culture = anglo_canadian
-				size = 25092
+				size = 32619
 			}
 			create_pop = {
 				culture = siouan
-				size = 20280
+				size = 26364
 			}
 			create_pop = {
 				culture = metis
 				religion = protestant
-				size = 6752
+				size = 8777
 			}
 			create_pop = {
 				culture = athabaskan
-				size = 27040
+				size = 35152
 			}
 			create_pop = {
 				culture = metis
-				size = 33806
+				size = 43947
 			}
 		
 }
@@ -1697,29 +1660,7 @@
 	
 		
 		
-		region_state:RIP = {
-			create_pop = {
-				culture = anglo_canadian
-				size = 25092
-			}
-			create_pop = {
-				culture = siouan
-				size = 20280
-			}
-			create_pop = {
-				culture = metis
-				religion = protestant
-				size = 6752
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 27040
-			}
-			create_pop = {
-				culture = metis
-				size = 33806
-			}
-		}
+		
 	}
 	s:STATE_YUKON_TERRITORY = {
 		
@@ -1728,29 +1669,39 @@
 		region_state:NWT = {
 			create_pop = {
 				culture = athabaskan
-				size = 9295
+				size = 12083
 			}
 		}
-		region_state:RIP = {
+		
+	
+		region_state:CAN = {
 			create_pop = {
 				culture = athabaskan
-				size = 9295
+				size = 12083
 			}
 		}
 	}
 	s:STATE_NORTHWEST_TERRITORIES = {
 		
 	
-		region_state:RIP = {
-			create_pop = {
-				culture = athabaskan
-				size = 27040
-			}
-		}
+		
 		region_state:NNV = {
 			create_pop = {
 				culture = athabaskan
-				size = 27040
+				size = 35152
+			}
+		}
+	
+		region_state:NWT = {
+			create_pop = {
+				culture = athabaskan
+				size = 35152
+			}
+		}
+		region_state:CAN = {
+			create_pop = {
+				culture = athabaskan
+				size = 35152
 			}
 		}
 	}
@@ -1758,27 +1709,27 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = inuit
-				size = 20246
+				size = 26319
 			}
 		
 
 			create_pop = {
 				culture = inuit
-				size = 20246
-			}
-		
-
-
-			create_pop = {
-				culture = inuit
-				size = 20246
+				size = 26319
 			}
 		
 
 
 			create_pop = {
 				culture = inuit
-				size = 20246
+				size = 26319
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 26319
 			}
 		
 }
@@ -1786,16 +1737,71 @@
 		
 		
 		
+	
+		region_state:NWT = {
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+}
+		region_state:Y19 = {
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+
+
+			create_pop = {
+				culture = inuit
+				size = 26319
+			}
+		
+}
 	}
 	s:STATE_BERMUDA = {
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 21624
+				size = 25499
 			}
 			create_pop = {
 				culture = afro_caribbean
-				size = 17988
+				size = 21211
 			}
 		}
 	}
@@ -1807,24 +1813,24 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 74880
+				size = 97344
 			}
 			create_pop = {
 				culture = siouan
-				size = 3538
+				size = 4599
 			}
 			create_pop = {
 				culture = caddoan
-				size = 7092
+				size = 9219
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_american
-				size = 10710
+				size = 13923
 			}
 			create_pop = {
 				culture = mexican
-				size = 3557
+				size = 4624
 			}
 		}
 	}
@@ -1835,7 +1841,7 @@
 		region_state:USA = {
 			create_pop = {
 				culture = paiute
-				size = 37180
+				size = 48334
 			}
 		}
 	}
@@ -1844,62 +1850,51 @@
 		region_state:NVJ = {
 			create_pop = {
 				culture = navajo
-				size = 40560
+				size = 52728
 			}
 			create_pop = {
 				culture = paiute
-				size = 6760
+				size = 8788
 			}
 		}
 		region_state:APC = {
 			create_pop = {
 				culture = apache
-				size = 18590
+				size = 24167
 			}
 			create_pop = {
 				culture = pueblo
-				size = 3380
+				size = 4394
 			}
 		}
 	
-		region_state:Y15 = {
+		
+	
+		region_state:Y20 = {
 			create_pop = {
-				culture = oodham
-				size = 6760
+				culture = navajo
+				size = 52728
 			}
 			create_pop = {
-				culture = mexican
-				size = 1696
-			}
-			create_pop = {
-				culture = pueblo
-				size = 5070
+				culture = paiute
+				size = 8788
 			}
 		}
 	}
 	s:STATE_NEW_MEXICO = {
 		
-		region_state:NVJ = {
-			create_pop = {
-				culture = navajo
-				size = 10140
-			}
-			create_pop = {
-				culture = paiute
-				size = 3380
-			}
-		}
+		
 		
 		
 	
 		region_state:Y15 = {
 			create_pop = {
 				culture = mexican
-				size = 46974
+				size = 61066
 			}
 			create_pop = {
 				culture = pueblo
-				size = 30420
+				size = 39546
 			}
 		}
 	}
@@ -1909,11 +1904,11 @@
 		region_state:USA = {
 			create_pop = {
 				culture = hokan
-				size = 35306
+				size = 45897
 			}
 			create_pop = {
 				culture = mexican
-				size = 8146
+				size = 10589
 			}
 		}
 	}
@@ -1923,11 +1918,11 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 116756
+				size = 151782
 			}
 			create_pop = {
 				culture = oodham
-				size = 73746
+				size = 95869
 			}
 		}
 	}
@@ -1935,15 +1930,15 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 236421
+				size = 307347
 			}
 			create_pop = {
 				culture = oodham
-				size = 13520
+				size = 17576
 			}
 			create_pop = {
 				culture = apache
-				size = 27040
+				size = 35152
 			}
 		}
 	}
@@ -1951,20 +1946,20 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 205332
+				size = 266931
 			}
 			create_pop = {
 				culture = oodham
-				size = 45630
+				size = 59319
 			}
 			create_pop = {
 				culture = oodham
 				religion = catholic
-				size = 118306
+				size = 153797
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 10140
+				size = 13182
 			}
 		}
 	}
@@ -1972,7 +1967,7 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 424292
+				size = 551579
 			}
 		}
 	}
@@ -1980,15 +1975,15 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 230175
+				size = 299227
 			}
 			create_pop = {
 				culture = oodham
-				size = 33800
+				size = 43940
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 1352
+				size = 1757
 			}
 		}
 	}
@@ -1996,15 +1991,15 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 192390
+				size = 250107
 			}
 			create_pop = {
 				culture = oodham
-				size = 33800
+				size = 43940
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 1859
+				size = 2416
 			}
 		}
 	}
@@ -2016,19 +2011,19 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 1005395
+				size = 1307013
 			}
 			create_pop = {
 				culture = nahua
-				size = 450318
+				size = 585413
 			}
 			create_pop = {
 				culture = tarascan
-				size = 143923
+				size = 187099
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 6423
+				size = 8349
 			}
 		}
 	}
@@ -2040,15 +2035,15 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 383230
+				size = 498199
 			}
 			create_pop = {
 				culture = mayan
-				size = 657078
+				size = 854201
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 2366
+				size = 3075
 			}
 		}
 	}
@@ -2060,24 +2055,24 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 1290290
+				size = 1677377
 			}
 			create_pop = {
 				culture = mixtec
 				religion = catholic
-				size = 67592
+				size = 87869
 			}
 			create_pop = {
 				culture = nahua
-				size = 1165430
+				size = 1515059
 			}
 			create_pop = {
 				culture = zapotec
-				size = 446166
+				size = 580015
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 91260
+				size = 118638
 			}
 		}
 	}
@@ -2088,23 +2083,23 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 194136
+				size = 252376
 			}
 			create_pop = {
 				culture = zapotec
-				size = 22278
+				size = 28961
 			}
 			create_pop = {
 				culture = tarascan
-				size = 102828
+				size = 133676
 			}
 			create_pop = {
 				culture = nahua
-				size = 46273
+				size = 60154
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 25409
+				size = 33031
 			}
 		}
 	}
@@ -2112,23 +2107,23 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 243194
-			}
-			create_pop = {
-				culture = zapotec
-				size = 68498
-			}
-			create_pop = {
-				culture = tarascan
 				size = 316152
 			}
 			create_pop = {
+				culture = zapotec
+				size = 89047
+			}
+			create_pop = {
+				culture = tarascan
+				size = 410997
+			}
+			create_pop = {
 				culture = nahua
-				size = 142266
+				size = 184945
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 40532
+				size = 52691
 			}
 		}
 	}
@@ -2141,16 +2136,16 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 1709789
+				size = 2222725
 			}
 			create_pop = {
 				culture = oodham
 				religion = catholic
-				size = 257011
+				size = 334114
 			}
 			create_pop = {
 				culture = oodham
-				size = 44569
+				size = 57939
 			}
 		}
 	}
@@ -2161,11 +2156,11 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 232116
+				size = 301750
 			}
 			create_pop = {
 				culture = nahua
-				size = 297373
+				size = 386584
 			}
 		}
 	}
@@ -2175,11 +2170,11 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 97758
+				size = 127085
 			}
 			create_pop = {
 				culture = mayan
-				size = 121956
+				size = 158542
 			}
 		}
 		
@@ -2188,15 +2183,15 @@
 		region_state:MEX = {
 			create_pop = {
 				culture = mexican
-				size = 13965
+				size = 18154
 			}
 			create_pop = {
 				culture = oodham
-				size = 22477
+				size = 29220
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 2197
+				size = 2856
 			}
 		}
 	}

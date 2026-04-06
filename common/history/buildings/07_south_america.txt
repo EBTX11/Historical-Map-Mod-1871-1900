@@ -1034,14 +1034,17 @@
 		}
 	}
 	s:STATE_ANTOFAGASTA={
-		region_state:CHL={
+		
+		
+	
+		region_state:BOL={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership = {
 					
 					building = {
 						type = "building_manor_house"
-						country = "c:CHL"
+						country = "c:BOL"
 						levels = 1
 						region = "STATE_ANTOFAGASTA"
 					}
@@ -1054,7 +1057,7 @@
 			create_building={
 				building="building_port"
 				add_ownership = {
-					country = { country = "c:CHL" levels = 1 }
+					country = { country = "c:BOL" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }
@@ -1064,7 +1067,7 @@
 			create_building={
 				building="building_university"
 				add_ownership = {
-					country = { country = "c:CHL" levels = 2 }
+					country = { country = "c:BOL" levels = 2 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_scholastic_education" "pm_religious_academia" "pm_freedom_of_movement_no_effect" }
@@ -1074,7 +1077,7 @@
 			create_building={
 				building="building_barrack"
 				add_ownership = {
-					country = { country = "c:CHL" levels = 1 }
+					country = { country = "c:BOL" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_general_training" }
@@ -1089,7 +1092,7 @@
 					
 					building = {
 						type = "building_manor_house"
-						country = "c:CHL"
+						country = "c:BOL"
 						levels = 1
 						region = "STATE_ANTOFAGASTA"
 					}
@@ -1102,7 +1105,7 @@
 			create_building={
 				building="building_port"
 				add_ownership = {
-					country = { country = "c:CHL" levels = 1 }
+					country = { country = "c:BOL" levels = 1 }
 				}
 				reserves=1
 				activate_production_methods={ "pm_basic_port" }
@@ -1111,7 +1114,6 @@
 			}
 		
 }
-		
 	}
 	s:STATE_SANTA_CRUZ={
 		region_state:BOL={
@@ -1899,22 +1901,7 @@
 		
 }
 		
-		region_state:AMZ={
-			create_building={
-				building="building_logging_camp"
-				add_ownership = {
-					
-					building = {
-						type = "building_manor_house"
-						country = "c:AMZ"
-						levels = 1
-						region = "STATE_ICA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" }
-			}
-		}
+		
 	}
 	s:STATE_AREQUIPA={
 		region_state:PEU={
@@ -2396,10 +2383,11 @@
 		}
 		region_state:THL={
 		}
-		region_state:PAT={
-		}
+		
 		region_state:SLK={
 		}
+	
+		region_state:ARG = { }
 	}
 	s:STATE_RIO_NEGRO={
 		region_state:ARG={
@@ -2934,13 +2922,17 @@
 		}
 	}
 	s:STATE_ARAUCANIA={
-		region_state:Y02={
+		
+		region_state:SLK={
+		}
+	
+		region_state:CHL={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
 					building={
 						type="building_fishing_wharf"
-						country="c:Y02"
+						country="c:CHL"
 						levels=1
 						region="STATE_ARAUCANIA"
 					}
@@ -2953,7 +2945,7 @@
 				add_ownership={
 					building={
 						type="building_financial_district"
-						country="c:Y02"
+						country="c:CHL"
 						levels=1
 						region="STATE_ARAUCANIA"
 					}
@@ -2961,8 +2953,6 @@
 				reserves=1
 				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_no_equipment" "pm_road_carts" }
 			}
-		}
-		region_state:SLK={
 		}
 	}
 	s:STATE_SOUTH_ATLANTIC_ISLANDS={
@@ -3162,6 +3152,8 @@
 
 		
 }
+	
+		region_state:AMZ = { }
 	}
 	s:STATE_ACRE={
 		region_state:BRZ={

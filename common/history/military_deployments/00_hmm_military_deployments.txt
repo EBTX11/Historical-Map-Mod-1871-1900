@@ -1,0 +1,9 @@
+﻿MILITARY_DEPLOYMENTS = { 
+	c:GBR ?= {
+		every_military_formation = {
+			fully_mobilize_army = yes 
+ 			teleport_to_front = p:x8EBBA0.front
+		}
+	}
+ 
+} 

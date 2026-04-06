@@ -1401,34 +1401,19 @@
 				activate_production_methods={ "pm_early_trains" "pm_no_passenger_trains" }
 			}
 		}
-		region_state:Y16={
-			create_building={
-				building="building_logging_camp"
-				add_ownership={
-					building={
-						type="building_logging_camp"
-						country="c:Y16"
-						levels=1
-						region="STATE_OREGON"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_road_carts" "pm_saw_mills" "pm_no_equipment" "pm_hardwood" }
-			}
-		}
+		
 	}
 	s:STATE_IDAHO={
 		region_state:NZP={
 		}
-		region_state:Y14={
-		}
-		region_state:Y16={
-		}
+		
+		
+	
+		region_state:Y24 = { }
 	}
 	s:STATE_COLORADO={
 		
-		region_state:UTE={
-		}
+		
 		region_state:USA={
 		
 
@@ -1436,24 +1421,22 @@
 }
 	}
 	s:STATE_WYOMING={
-		region_state:ARP={
-		}
-		region_state:Y13={
-		}
-		region_state:Y14={
-		}
-		region_state:ABS={
-		}
+		
+		
+		
+		
+	
+		region_state:Y22 = { }
 	}
 	s:STATE_MONTANA={
 		region_state:SLS={
 		}
 		region_state:ABS={
 		}
-		region_state:LKT={
-		}
-		region_state:Y14={
-		}
+		
+		
+	
+		region_state:Y23 = { }
 	}
 	s:STATE_NORTH_DAKOTA={
 		region_state:LKT={
@@ -5894,8 +5877,9 @@
 	s:STATE_UTAH={
 		region_state:UTE={
 		}
-		region_state:Y11={
-		}
+		
+	
+		region_state:Y21 = { }
 	}
 	s:STATE_SOUTH_CAROLINA={
 		region_state:USA={
@@ -7155,25 +7139,7 @@
 		}
 	}
 	s:STATE_ALBERTA={
-		region_state:RIP={
-			create_building={
-				building="building_logging_camp"
-				add_ownership = {
-					
-					
-					
-					
-					building = {
-						type = "building_manor_house"
-						country = "c:RIP"
-						levels = 1
-						region = "STATE_ALBERTA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
-			}
-		}
+		
 		
 		
 		
@@ -7227,40 +7193,30 @@
 			}
 		
 }
-	}
-	s:STATE_BRITISH_COLUMBIA={
+	
 		region_state:NWT={
 			create_building={
 				building="building_logging_camp"
 				add_ownership = {
 					
+					
+					
+					
 					building = {
 						type = "building_manor_house"
 						country = "c:NWT"
 						levels = 1
-						region = "STATE_BRITISH_COLUMBIA"
+						region = "STATE_ALBERTA"
 					}
 				}
 				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_hardwood" "pm_no_equipment" "pm_road_carts" }
+				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
 			}
 		}
-		region_state:RIP={
-			create_building={
-				building="building_logging_camp"
-				add_ownership = {
-					
-					building = {
-						type = "building_manor_house"
-						country = "c:RIP"
-						levels = 1
-						region = "STATE_BRITISH_COLUMBIA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_hardwood" "pm_no_equipment" "pm_road_carts" }
-			}
-		}
+	}
+	s:STATE_BRITISH_COLUMBIA={
+		
+		
 		region_state:CAN={
 			create_building={
 				building="building_logging_camp"
@@ -7322,8 +7278,30 @@
 
 		
 }
-		region_state:RIP={
-		}
+		
+	
+		region_state:NWT={
+			create_building={
+				building="building_arms_industry"
+				reserves=1
+				activate_production_methods={ "pm_muskets" "pm_automation_disabled" }
+			
+				add_ownership = {
+					
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:NWT"
+						levels = 1
+						region = "STATE_SASKATCHEWAN"
+					}
+				}
+			
+			}
+		
+
+		
+}
 	}
 	s:STATE_MANITOBA={
 		region_state:CAN={
@@ -7431,40 +7409,50 @@
 }
 		
 		
-		region_state:RIP={
-			create_building={
-				building="building_logging_camp"
-				add_ownership = {
-					
-					
-					
-					building = {
-						type = "building_manor_house"
-						country = "c:RIP"
-						levels = 1
-						region = "STATE_MANITOBA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_forestry" "pm_hardwood" "pm_no_equipment" "pm_road_carts" }
-			}
-		}
+		
 	}
 	s:STATE_YUKON_TERRITORY={
 		region_state:NWT={
 		}
-		region_state:RIP={
-		}
+		
+	
+		region_state:CAN = { }
 	}
 	s:STATE_NORTHWEST_TERRITORIES={
-		region_state:RIP={
-		}
+		
 		region_state:NNV={
 			create_building={
 				building="building_logging_camp"
 				add_ownership={
 					country={
 						country="c:NNV"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
+			}
+		}
+	
+		region_state:NWT={
+			create_building={
+				building="building_logging_camp"
+				add_ownership={
+					country={
+						country="c:NWT"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_simple_forestry" "pm_road_carts" "pm_no_equipment" "pm_hardwood" }
+			}
+		}
+		region_state:CAN={
+			create_building={
+				building="building_logging_camp"
+				add_ownership={
+					country={
+						country="c:CAN"
 						levels=1
 					}
 				}
@@ -7488,6 +7476,9 @@
 }
 		
 		
+	
+		region_state:NWT = { }
+		region_state:Y19 = { }
 	}
 	s:STATE_BERMUDA={
 		region_state:GBR={
@@ -7659,12 +7650,12 @@
 		}
 		region_state:APC={
 		}
-		region_state:Y15={
-		}
+		
+	
+		region_state:Y20 = { }
 	}
 	s:STATE_NEW_MEXICO={
-		region_state:NVJ={
-		}
+		
 		region_state:Y15={
 		}
 	}

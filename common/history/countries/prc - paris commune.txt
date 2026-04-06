@@ -1,0 +1,164 @@
+﻿COUNTRIES = {
+	c:PRC ?= {
+        effect_starting_technology_tier_4_tech = yes
+ 		effect_starting_politics_traditional = yes
+		effect_native_conscription_10 = yes	
+		activate_law = law_type:law_anarchy
+		activate_law = law_type:law_council_republic
+		activate_law = law_type:law_laissez_faire
+		activate_law = law_type:law_free_trade
+
+
+		set_immune_to_revolutions = yes
+		set_ruling_interest_groups = { ig_intelligentsia ig_trade_unions ig_armed_forces }
+		ig:ig_armed_forces ?= {
+			set_interest_group_name = ig_national_guard
+			remove_ideology = ideology_loyalist
+			add_ideology = ideology_proletarian
+			remove_ideology = ideology_patriotic
+			add_ideology = ideology_republican
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_parliamentary_republic
+				}
+			}
+			activate_law = law_type:law_parliamentary_republic
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_elected_bureaucrats
+				}
+			}
+			activate_law = law_type:law_elected_bureaucrats
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_universal_suffrage
+				}
+			}
+			activate_law = law_type:law_universal_suffrage
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_women_in_the_workplace
+				}
+			}
+			activate_law = law_type:law_women_in_the_workplace
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_commercialized_agriculture
+				}
+			}
+			activate_law = law_type:law_commercialized_agriculture
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_total_separation
+				}
+			}
+			activate_law = law_type:law_total_separation
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_mass_conscription
+				}
+			}
+			activate_law = law_type:law_mass_conscription
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_compulsory_primary_school
+				}
+			}
+			activate_law = law_type:law_compulsory_primary_school
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_public_schools
+				}
+			}
+			activate_law = law_type:law_public_schools
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_interventionism
+				}
+			}
+			activate_law = law_type:law_interventionism
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_regulatory_bodies
+				}
+			}
+			activate_law = law_type:law_regulatory_bodies
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_national_guard
+				}
+			}
+			activate_law = law_type:law_national_guard
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_right_of_assembly
+				}
+			}
+			activate_law = law_type:law_right_of_assembly
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_closed_borders
+				}
+			}
+			activate_law = law_type:law_closed_borders
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = law_type:law_factory_councils
+				}
+			}
+			activate_law = law_type:law_factory_councils
+		}
+ 
+		add_modifier = {
+			name = modifier_paris_commune_politics
+			days = normal_modifier_time
+			is_decaying = yes
+		}
+		add_modifier = {
+			name = modifier_paris_commune_not_dying_economy
+			days = normal_modifier_time
+		}
+		create_paris_commune_characters = yes
+		call_election = {
+			months = 1
+		}   
+		add_journal_entry = {
+			type = je_the_paris_commune_communards
+		}
+		add_loyalists = {
+			value = 0.9
+		}
+
+
+	}
+}

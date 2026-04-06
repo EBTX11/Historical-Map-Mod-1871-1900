@@ -224,9 +224,9 @@ JAP = {
 	tier = empire
 
 	cultures = { japanese }
-	capital = STATE_KANSAI
+	capital = STATE_KANTO
 
-	religion = protestant
+	religion = mahayana
 }
 
 ITA = {
@@ -1869,7 +1869,7 @@ CHI = {
 DAI = {
 	color = { 136  117  90 }
 
-	country_type = unrecognized
+	country_type = colonial
 
 	tier = kingdom
 
@@ -2205,7 +2205,7 @@ MEX = {
 	capital = STATE_MEXICO
 	is_named_from_capital = yes
 
-	religion = protestant
+	religion = catholic
 }
 
 MTC = {
@@ -2425,11 +2425,11 @@ CLM = {
 	cultures = { north_andean }
 	capital = STATE_CUNDINAMARCA
 
-	religion = protestant
+	religion = catholic
 }
 
 ECU = {
-	color = { 43  141  172 }
+	color = { 43 141 172 }
 
 	country_type = recognized
 
@@ -2438,6 +2438,8 @@ ECU = {
 	cultures = { north_andean }
 	capital = STATE_ECUADOR
 	is_named_from_capital = yes
+
+	religion = catholic
 }
 
 PEU = {
@@ -2449,6 +2451,8 @@ PEU = {
 
 	cultures = { south_andean }
 	capital = STATE_LIMA
+
+	religion = catholic
 }
 
 PRG = {
@@ -2485,6 +2489,8 @@ VNZ = {
 
 	cultures = { north_andean }
 	capital = STATE_MIRANDA
+
+	religion = catholic
 }
 
 ISR = {
@@ -2720,7 +2726,7 @@ COM = {
 SEQ = {
 	color = { 250 249 245 }
 
-	country_type = decentralized
+	country_type = unrecognized #decentralized
 
 	tier = principality
 
@@ -4044,6 +4050,8 @@ PRC = {
 
 	cultures = { french }
 	capital = STATE_ILE_DE_FRANCE
+
+	religion = atheist
 }
 
 ###Russian Minors
@@ -5072,7 +5080,8 @@ BCE = { # British Ceylon
 MLD = { # Maldives
 	color = { 0 132 61 }
 
-	country_type = unrecognized
+	
+	country_type = colonial
 	social_hierarchy = british_indian_caste_system
 
 	religion = sunni

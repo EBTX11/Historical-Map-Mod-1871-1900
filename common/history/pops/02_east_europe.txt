@@ -3,32 +3,32 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1061505
+				size = 1379956
 			}
 			create_pop = {
 				culture = estonian
-				size = 38883
+				size = 50547
 			}
 			create_pop = {
 				culture = east_german
-				size = 38883
+				size = 50547
 			}
 			create_pop = {
 				culture = finnish
-				size = 80358
+				size = 104465
 			}
 			create_pop = {
 				culture = latvian
-				size = 16849
+				size = 21903
 			}
 			create_pop = {
 				culture = ugrian
 				religion = orthodox
-				size = 5443
+				size = 7075
 			}
 			create_pop = {
 				culture = polish
-				size = 27218
+				size = 35383
 			}
 		}
 	}
@@ -36,11 +36,11 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1586924
+				size = 2063001
 			}
 			create_pop = {
 				culture = east_german
-				size = 24167
+				size = 31417
 			}
 		}
 	}
@@ -48,15 +48,15 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 4325867
+				size = 5623627
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 30433
+				size = 39562
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 6658
+				size = 8655
 			}
 		}
 	}
@@ -64,19 +64,19 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1234859
+				size = 1605316
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 9436
+				size = 12266
 			}
 			create_pop = {
 				culture = polish
-				size = 5392
+				size = 7009
 			}
 			create_pop = {
 				culture = byelorussian
-				size = 88974
+				size = 115666
 			}
 		}
 	}
@@ -84,11 +84,11 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1493884
+				size = 1942049
 			}
 			create_pop = {
 				culture = karelian
-				size = 107855
+				size = 140211
 			}
 		}
 	}
@@ -96,11 +96,11 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1964830
+				size = 2554279
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 882056
+				size = 1146672
 			}
 		}
 	}
@@ -108,24 +108,24 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 1041948
+				size = 1354532
 			}
 			create_pop = {
 				culture = east_german
-				size = 8530
+				size = 11089
 			}
 			create_pop = {
 				culture = karelian
-				size = 4265
+				size = 5544
 			}
 			create_pop = {
 				culture = ugrian
 				religion = orthodox
-				size = 7143
+				size = 9285
 			}
 			create_pop = {
 				culture = latvian
-				size = 4265
+				size = 5544
 			}
 		}
 	}
@@ -133,23 +133,23 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 555776
+				size = 722508
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 233792
+				size = 303929
 			}
 			create_pop = {
 				culture = east_german
-				size = 11648
+				size = 15142
 			}
 			create_pop = {
 				culture = kalmyk
-				size = 10816
+				size = 14060
 			}
 			create_pop = {
 				culture = armenian
-				size = 9152
+				size = 11897
 			}
 		}
 	}
@@ -157,24 +157,24 @@
 		region_state:RUS = {
 			create_pop = {
 				culture = russian
-				size = 887013
+				size = 1153116
 			}
 			create_pop = {
 				culture = ugrian
-				size = 6502
+				size = 8452
 			}
 			create_pop = {
 				culture = tatar
-				size = 24861
+				size = 32319
 			}
 			create_pop = {
 				culture = bashkir
-				size = 38844
+				size = 50497
 			}
 			create_pop = {
 				culture = ugrian
 				religion = orthodox
-				size = 53888
+				size = 70054
 			}
 		}
 	}
@@ -185,44 +185,44 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 400811
+				size = 470127
 			}
 			create_pop = {
 				culture = north_german
-				size = 2271271
+				size = 2664069
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 72234
+				size = 84726
 			}
 			create_pop = {
 				culture = polish
-				size = 162900
+				size = 191072
 			}
 			create_pop = {
 				culture = polish
 				religion = protestant
-				size = 8573
+				size = 10054
 			}
 			create_pop = {
 				culture = czech
 				religion = catholic
-				size = 12528
+				size = 14694
 			}
 			create_pop = {
 				culture = czech
 				religion = protestant
-				size = 4175
+				size = 4896
 			}
 			create_pop = {
 				culture = sorb
 				religion = catholic
-				size = 12091
+				size = 14181
 			}
 			create_pop = {
 				culture = sorb
 				religion = protestant
-				size = 108830
+				size = 127651
 			}
 		}
 	}
@@ -232,35 +232,35 @@
 		    create_pop = {
 		        culture = north_german
 		        religion = catholic
-		        size = 171311
+		        size = 191517
 		    }
 		    create_pop = {
 		        culture = north_german
-		        size = 72540
+		        size = 81096
 		    }
 		    create_pop = {
 		        culture = polish
-		        size = 163377
+		        size = 182647
 		    }
 		    create_pop = {
 		        culture = polish
 		        religion = protestant
-		        size = 2310
+		        size = 2582
 		    }
 		    create_pop = {
 		        culture = czech
 		        religion = catholic
-		        size = 97500
+		        size = 109000
 		    }
 		    create_pop = {
 		        culture = czech
 		        religion = protestant
-		        size = 6580
+		        size = 7356
 		    }
 		    create_pop = {
 		        culture = ashkenazi
 		        religion = jewish
-		        size = 8964
+		        size = 10021
 		    }
 		}
 	
@@ -268,34 +268,34 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 250841
+				size = 294221
 			}
 			create_pop = {
 				culture = north_german
-				size = 205233
+				size = 240725
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 20925
+				size = 24543
 			}
 			create_pop = {
 				culture = polish
-				size = 641684
+				size = 752658
 			}
 			create_pop = {
 				culture = polish
 				religion = protestant
-				size = 33772
+				size = 39612
 			}
 			create_pop = {
 				culture = czech
 				religion = catholic
-				size = 12811
+				size = 15026
 			}
 			create_pop = {
 				culture = czech
 				religion = protestant
-				size = 5495
+				size = 6444
 			}
 		}
 	}
@@ -306,34 +306,34 @@
 			create_pop = {
 				culture = north_german
 				pop_type = aristocrats
-				size = 3182
+				size = 3731
 			}
 			create_pop = {
 				culture = polish
 				pop_type = aristocrats
-				size = 7955
+				size = 9330
 			}
 			create_pop = {
 				culture = north_german
-				size = 719775
+				size = 844254
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 3500
+				size = 4105
 			}
 			create_pop = {
 				culture = polish
 				religion = protestant
-				size = 229106
+				size = 268727
 			}
 			create_pop = {
 				culture = polish
-				size = 291792
+				size = 342254
 			}
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 12736
+				size = 14937
 			}
 		}
 	}
@@ -344,36 +344,36 @@
 			create_pop = {
 				culture = north_german
 				pop_type = aristocrats
-				size = 7955
+				size = 9330
 			}
 			create_pop = {
 				culture = polish
 				religion = protestant
 				pop_type = aristocrats
-				size = 3182
+				size = 3731
 			}
 			create_pop = {
 				culture = north_german
-				size = 995650
+				size = 1167839
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 4136
+				size = 4850
 			}
 			create_pop = {
 				culture = lithuanian
 				religion = protestant
-				size = 186459
+				size = 218705
 			}
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 129190
+				size = 151532
 			}
 			create_pop = {
 				culture = polish
 				religion = protestant
-				size = 41369
+				size = 48522
 			}
 		}
 	}
@@ -384,24 +384,24 @@
 			create_pop = {
 				culture = polish
 				pop_type = aristocrats
-				size = 19092
+				size = 22393
 			}
 			create_pop = {
 				culture = north_german
-				size = 859787
+				size = 1008480
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 25456
+				size = 29857
 			}
 			create_pop = {
 				culture = polish
-				size = 1367011
+				size = 1603424
 			}
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 224590
+				size = 263431
 			}
 		}
 	}
@@ -410,66 +410,66 @@
 			create_pop = {
 				culture = ashkenazi
 				pop_type = shopkeepers
-				size = 650
+				size = 726
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = clerks
-				size = 2600
+				size = 2906
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = laborers
-				size = 6500
+				size = 7266
 			}
 			create_pop = {
 				culture = polish
-				size = 2262005
+				size = 2528810
 			}
 			create_pop = {
 				culture = south_german
-				size = 36400
+				size = 40693
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 197600
+				size = 220907
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 167050
+				size = 186753
 			}
 		}
 		region_state:KRA = {
 			create_pop = {
 				culture = ashkenazi
 				pop_type = shopkeepers
-				size = 1300
+				size = 1690
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = clerks
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = shopkeepers
-				size = 19500
+				size = 25350
 			}
 			create_pop = {
 				culture = polish
-				size = 224114
+				size = 291348
 			}
 			create_pop = {
 				culture = south_german
-				size = 5200
+				size = 6760
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 18205
+				size = 23666
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 20800
+				size = 27040
 			}
 		}
 	}
@@ -477,44 +477,44 @@
 		region_state:AUS = {
 			create_pop = {
 				culture = polish
-				size = 26000
+				size = 29066
 				pop_type = aristocrats
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 7800
+				size = 8720
 				pop_type = aristocrats
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = shopkeepers
-				size = 650
+				size = 726
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = clerks
-				size = 1300
+				size = 1453
 			}
 			create_pop = {
 				culture = ashkenazi
 				pop_type = laborers
-				size = 39000
+				size = 43600
 			}
 			create_pop = {
 				culture = polish
-				size = 1056640
+				size = 1181271
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 2006945
+				size = 2243666
 			}
 			create_pop = {
 				culture = south_german
-				size = 26005
+				size = 29071
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 18850
+				size = 21073
 			}
 		}
 	}
@@ -523,30 +523,30 @@
 			create_pop = {
 				culture = hungarian
 				pop_type = aristocrats
-				size = 23400
+				size = 21299
 			}
 			create_pop = {
 				culture = south_german
 				pop_type = aristocrats
-				size = 5200
+				size = 4733
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 1205620
+				size = 1097397
 			}
 			create_pop = {
 				culture = south_german
-				size = 189274
+				size = 172283
 			}
 			create_pop = {
 				culture = hungarian
 				religion = jewish
-				size = 93594
+				size = 85192
 			}
 			create_pop = {
 				culture = slovak
-				size = 41594
+				size = 37860
 			}
 		}
 	}
@@ -555,46 +555,46 @@
 			create_pop = {
 				culture = hungarian
 				pop_type = aristocrats
-				size = 15600
+				size = 14199
 			}
 			create_pop = {
 				culture = romanian
 				pop_type = aristocrats
-				size = 2600
+				size = 2366
 			}
 			create_pop = {
 				culture = hungarian
-				size = 229179
+				size = 208606
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 25994
+				size = 23660
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 374400
+				size = 340791
 			}
 			create_pop = {
 				culture = south_german
-				size = 188234
+				size = 171337
 			}
 			create_pop = {
 				culture = romanian
-				size = 946920
+				size = 861919
 			}
 			create_pop = {
 				culture = serb
-				size = 152105
+				size = 138450
 			}
 			create_pop = {
 				culture = croat
-				size = 26000
+				size = 23666
 			}
 			create_pop = {
 				culture = hungarian
 				religion = jewish
-				size = 20805
+				size = 18937
 			}
 		}
 	}
@@ -603,47 +603,47 @@
 			create_pop = {
 				culture = hungarian
 				pop_type = aristocrats
-				size = 23400
+				size = 21299
 			}
 			create_pop = {
 				culture = south_german
 				pop_type = aristocrats
-				size = 5200
+				size = 4733
 			}
 			create_pop = {
 				culture = hungarian
-				size = 1765134
+				size = 1606686
 			}
 			create_pop = {
 				culture = croat
-				size = 78000
+				size = 70998
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 411320
+				size = 374397
 			}
 			create_pop = {
 				culture = south_german
-				size = 487765
+				size = 443980
 			}
 			create_pop = {
 				culture = south_german
 				religion = protestant
-				size = 1430
+				size = 1301
 			}
 			create_pop = {
 				culture = slovak
-				size = 166400
+				size = 151463
 			}
 			create_pop = {
 				culture = hungarian
 				religion = jewish
-				size = 46794
+				size = 42593
 			}
 			create_pop = {
 				culture = slovene
-				size = 77994
+				size = 70992
 			}
 		}
 	}
@@ -651,27 +651,27 @@
 		region_state:HUN = {
 			create_pop = {
 				culture = south_german
-				size = 256360
+				size = 233347
 			}
 			create_pop = {
 				culture = hungarian
-				size = 208000
+				size = 189328
 			}
 			create_pop = {
 				culture = slovak
-				size = 52000
+				size = 47332
 			}
 			create_pop = {
 				culture = serb
-				size = 369454
+				size = 336289
 			}
 			create_pop = {
 				culture = croat
-				size = 46800
+				size = 42598
 			}
 			create_pop = {
 				culture = romanian
-				size = 57200
+				size = 52065
 			}
 		}
 	}
@@ -679,37 +679,37 @@
 		region_state:HUN = {
 			create_pop = {
 				culture = south_german
-				size = 406432
+				size = 369948
 			}
 			create_pop = {
 				culture = romanian
-				size = 578006
+				size = 526120
 			}
 			create_pop = {
 				culture = hungarian
-				size = 74396
+				size = 67717
 			}
 			create_pop = {
 				culture = croat
-				size = 80984
+				size = 73714
 			}
 			create_pop = {
 				culture = hungarian
 				religion = jewish
-				size = 951
+				size = 865
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 2511
+				size = 2285
 			}
 			create_pop = {
 				culture = serb
-				size = 318832
+				size = 290211
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 84442
+				size = 76861
 			}
 		}
 	}
@@ -719,65 +719,65 @@
 			    culture = hungarian
 				pop_type = aristocrats
 			    religion = catholic
-			    size = 19500
+			    size = 17749
 			}
 			create_pop = {
 			    culture = slovak
 				pop_type = aristocrats
 			    religion = catholic
-			    size = 2600
+			    size = 2366
 			}
 			create_pop = {
 			    culture = south_german
 				pop_type = aristocrats
-			    size = 3900
+			    size = 3549
 			}
 			create_pop = {
 			    culture = slovak
 			    religion = catholic
-			    size = 1417053
+			    size = 1289850
 			}
 			create_pop = {
 			    culture = slovak
 			    religion = protestant
-			    size = 354915
+			    size = 323055
 			}
 			create_pop = {
 			    culture = hungarian
 			    religion = catholic
-			    size = 241852
+			    size = 220141
 			}
 			create_pop = {
 			    culture = hungarian
 			    religion = protestant
-			    size = 164192
+			    size = 149452
 			}
 			create_pop = {
 			    culture = south_german
 			    religion = catholic
-			    size = 159940
+			    size = 145582
 			}
 			create_pop = {
 			    culture = south_german
 			    religion = protestant
-			    size = 109226
+			    size = 99420
 			}
 			create_pop = {
 			    culture = ashkenazi
-			    size = 136593
+			    size = 124331
 			}
 			create_pop = {
 			    culture = polish
-			    size = 15627
+			    size = 14224
 			}
 			create_pop = {
 				culture = ukrainian # Rusyns etc.
-				size = 28645
+				size = 26073
 			}
 			create_pop = {
 				culture = ukrainian # Rusyns etc.
 				religion = catholic # greek catholic
-				size = 6515
+				size = 5929
 			}
 		}
 	}
@@ -785,60 +785,60 @@
 		region_state:HUN = {
 			create_pop = {
 				culture = ukrainian # Rusyns etc.
-				size = 132645
+				size = 120737
 			}
 			create_pop = {
 				culture = ukrainian # Rusyns etc.
 				religion = catholic # greek catholic
-				size = 88429
+				size = 80490
 			}
 			create_pop = {
 				culture = slovak
 				religion = protestant
-				size = 1647
+				size = 1499
 			}
 			create_pop = {
 				culture = slovak
 				religion = catholic # greek catholic
-				size = 6588
+				size = 5996
 			}
 			create_pop = {
 				culture = south_german
 				religion = catholic
-				size = 10416
+				size = 9480
 			}
 			create_pop = {
 				culture = south_german
 				religion = protestant
-				size = 6944
+				size = 6320
 			}
 			create_pop = {
 				culture = hungarian
 				pop_type = aristocrats
 				religion = catholic
-				size = 3640
+				size = 3313
 			}
 			create_pop = {
 				culture = hungarian
 				religion = catholic
-				size = 63311
+				size = 57627
 			}
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 61751
+				size = 56207
 			}
 			create_pop = {
 				culture = romanian
-				size = 15984
+				size = 14549
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 52893
+				size = 48144
 			}
 			create_pop = {
 				culture = polish
-				size = 547
+				size = 497
 			}
 		}
 	}
@@ -849,38 +849,38 @@
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 128703
+				size = 117149
 			}
 			create_pop = {
 				culture = szekely
 				religion = protestant
-				size = 42901
+				size = 39049
 			}
 			create_pop = {
 				culture = hungarian
-				size = 58503
+				size = 53250
 			}
 			create_pop = {
 				culture = szekely
-				size = 19501
+				size = 17750
 			}
 			create_pop = {
 				culture = romanian
-				size = 951600
+				size = 866179
 			}
 			create_pop = {
 				culture = south_german
 				religion = catholic
-				size = 15600
+				size = 14199
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 42640
+				size = 38812
 			}
 			create_pop = {
 				culture = south_german
 				religion = protestant
-				size = 101124
+				size = 92046
 			}
 		}
 	}
@@ -891,38 +891,38 @@
 			create_pop = {
 				culture = hungarian
 				religion = protestant
-				size = 245388
+				size = 223360
 			}
 			create_pop = {
 				culture = szekely
 				religion = protestant
-				size = 126412
+				size = 115064
 			}
 			create_pop = {
 				culture = romanian
-				size = 504400
+				size = 459122
 			}
 			create_pop = {
 				culture = south_german
 				religion = catholic
-				size = 3910
+				size = 3559
 			}
 			create_pop = {
 				culture = south_german
 				religion = protestant
-				size = 213200
+				size = 194062
 			}
 			create_pop = {
 				culture = hungarian
-				size = 121836
+				size = 110898
 			}
 			create_pop = {
 				culture = szekely
-				size = 62764
+				size = 57129
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 42640
+				size = 38812
 			}
 		}
 	}
@@ -930,31 +930,31 @@
 		region_state:AUS = {
 			create_pop = {
 				culture = polish
-				size = 26010
+				size = 29077
 			}
 			create_pop = {
 				culture = romanian
-				size = 187200
+				size = 209280
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 26005
+				size = 29071
 			}
 			create_pop = {
 				culture = szekely
-				size = 13015
+				size = 14549
 			}
 			create_pop = {
 				culture = hungarian
-				size = 2581
+				size = 2885
 			}
 			create_pop = {
 				culture = ukrainian
-				size = 187720
+				size = 209861
 			}
 			create_pop = {
 				culture = south_german
-				size = 41600
+				size = 46506
 			}
 		}
 	}
@@ -964,12 +964,12 @@
 		region_state:ROM = { # Ballpark estimate: 1,358,409 total for 1836, guessing that its recorded 1859 census marked a 7.77% growth over 1836 or that 1836 is 92.79% of the 1859 census, drawn from a trendline of Transylvanian censuses 1784-1850
 			create_pop = {
 				culture = romanian
-				size = 1614017
+				size = 2098222
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = romanian
-				size = 151914
+				size = 197488
 			}
 		}
 	}
@@ -979,12 +979,12 @@
 		region_state:ROM = {
 			create_pop = {
 				culture = romanian
-				size = 2739995
+				size = 3561993
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = romanian
-				size = 156228
+				size = 203096
 			}
 		}
 	}

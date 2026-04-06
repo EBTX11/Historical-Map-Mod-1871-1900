@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:BRZ ?= {
-		effect_starting_technology_tier_1_tech = yes
+        effect_starting_technology_tier_3_tech_hmm = yes
 		effect_starting_politics_conservative = yes
 		effect_starting_politics_conservative = yes
 		add_technology_researched = empiricism

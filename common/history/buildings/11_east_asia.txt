@@ -1544,8 +1544,9 @@
 		
 	}
 	s:STATE_ALXA={
-		region_state:IMG={
-		}
+		
+	
+		region_state:CHI = { }
 	}
 	s:STATE_HINGGAN={
 		region_state:IMG={
@@ -3234,12 +3235,14 @@
 		
 	}
 	s:STATE_QINGHAI={
-		region_state:QIN={
+		
+	
+		region_state:CHI={
 			create_building={
 				building="building_logging_camp"
 				add_ownership={
 					country={
-						country="c:QIN"
+						country="c:CHI"
 						levels=6
 					}
 				}
@@ -7674,26 +7677,16 @@
 				activate_production_methods={ "pm_horizontal_drawer_cabinets" "pm_hereditary_bureaucrats" "pm_religious_bureaucrats" }
 			}
 		}
-		region_state:CAM={
-			create_building={
-				building="building_rice_farm"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:CAM"
-						levels=1
-						region="STATE_CAMBODIA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_tools_disabled" "pm_fig_orchards_building_rice_farm" }
-			}
+		
+		
+	
+		region_state:DAI={
 			create_building={
 				building="building_tea_plantation"
 				add_ownership={
 					building={
 						type="building_manor_house"
-						country="c:CAM"
+						country="c:DAI"
 						levels=1
 						region="STATE_CAMBODIA"
 					}
@@ -7705,49 +7698,45 @@
 				building="building_barrack"
 				add_ownership={
 					country={
-						country="c:CAM"
-						levels=11
+						country="c:DAI"
+						levels=5
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_no_organization" }
 			}
 			create_building={
+				building="building_university"
+				add_ownership={
+					country={
+						country="c:DAI"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_scholastic_education" "pm_religious_academia" "pm_freedom_of_movement_no_effect" }
+			}
+			create_building={
 				building="building_construction_sector"
 				add_ownership={
 					country={
-						country="c:CAM"
+						country="c:DAI"
 						levels=1
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
 			}
-		}
-		region_state:KLO={
 			create_building={
-				building="building_tea_plantation"
-				add_ownership={
-					building={
-						type="building_manor_house"
-						country="c:KLO"
-						levels=1
-						region="STATE_CAMBODIA"
-					}
-				}
-				reserves=1
-				activate_production_methods={ "default_building_tea_plantation" "default_labour" "pm_road_carts" }
-			}
-			create_building={
-				building="building_barrack"
+				building="building_government_administration"
 				add_ownership={
 					country={
-						country="c:KLO"
-						levels=5
+						country="c:DAI"
+						levels=1
 					}
 				}
 				reserves=1
-				activate_production_methods={ "pm_no_organization" }
+				activate_production_methods={ "pm_horizontal_drawer_cabinets" "pm_hereditary_bureaucrats" "pm_religious_bureaucrats" }
 			}
 		}
 	}
@@ -8695,12 +8684,12 @@
 		}
 	}
 	s:STATE_SAKHALIN={
-		region_state:SKH={
-		}
+		
+	
+		region_state:RUS = { }
 	}
 	s:STATE_HOKKAIDO={
-		region_state:AIN={
-		}
+		
 		region_state:JAP={
 			create_building={
 				building="building_wheat_farm"

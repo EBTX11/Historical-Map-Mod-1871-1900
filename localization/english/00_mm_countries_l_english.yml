@@ -1,4 +1,14 @@
 ﻿l_english:
+  dyn_c_ZIM_01:0 "Rhodesia Protectorate
+"
+  ZIM_ADJ:0 "Rhodesia Protectorate
+"
+  dyn_c_TRN_01:0 "South African Republic"
+  TRN_ADJ:0 "South African Republic"
+  dyn_c_MAD_01:0 "Malagasy Protectorate"
+  MAD_ADJ:0 "Malagasy Protectorate"
+  dyn_c_SUD_01:0 "Mahdist State"
+  SUD_ADJ:0 "Mahdist State"
   Y19:0 "Arizona Territory"
   Y19_ADJ:0 "Arizona Territory"
   Y19:0 "British Arctic Territories"

@@ -12,19 +12,19 @@
 	c:GBR ?= { 
 		set_relations = { country = c:CSA value = 30 } 
 		set_relations = { country = c:FRA value = 60 } 
-		set_relations = { country = c:NGF value = 20 } 
+		set_relations = { country = c:GER value = 20 } 
 		set_relations = { country = c:USA value = 20 }
 	}
 	c:RUS ?= {
  		set_relations = { country = c:AUS value = -60 } 
-		set_relations = { country = c:NGF value = 10 } 
+		set_relations = { country = c:GER value = 10 } 
 		set_relations = { country = c:GBR value = -60 } 
 		set_relations = { country = c:FRA value = -60 } 
 	}
-	c:NGF ?= {
+	c:GER ?= {
 		set_relations = { country = c:RUS value = 30 } 
-		set_relations = { country = c:AUS value = -60 } 
-		set_relations = { country = c:FRA value = 10 } 
+		set_relations = { country = c:AUS value = 60 } 
+		set_relations = { country = c:FRA value = -60 } 
 		set_relations = { country = c:GBR value = 30 }  
 	}
  
@@ -37,6 +37,7 @@
 		set_relations = { country = c:ITA value = 20 }
 		set_relations = { country = c:PAP value = 40 }
 		set_relations = { country = c:GBR value = 60 }
+		set_relations = { country = c:NGF value = -100 }
 	} 
 	 
 }

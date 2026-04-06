@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:BCE ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		activate_law = law_type:law_colonial_administration
 		activate_law = law_type:law_total_separation
 		activate_law = law_type:law_tenant_farmers

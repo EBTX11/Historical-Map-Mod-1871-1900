@@ -2369,24 +2369,6 @@
 				activate_production_methods={ "default_building_cotton_plantation" "pm_road_carts" "worker_exploitation_cotton" }
 			}
 		}
-		region_state:ROM={
-			create_building={
-				building="building_fishing_wharf"
-				add_ownership={
-					building={
-						type="building_fishing_wharf"
-						country="c:ROM"
-						levels=1
-						region="STATE_BESSARABIA"
-					}
-					country={
-						country="c:ROM"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_fishing_trawlers" "pm_unrefrigerated" }
-			}
-		}
+		
 	}
 }

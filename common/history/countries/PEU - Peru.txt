@@ -1,6 +1,17 @@
 ﻿COUNTRIES = {
 	c:PEU ?= {
-		effect_starting_technology_tier_2_tech = yes
+        effect_starting_technology_tier_4_tech_hmm = yes
 		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_presidential_republic
+		activate_law = law_type:law_traditionalism
+		activate_law = law_type:law_protectionism
+		activate_law = law_type:law_oligarchy
+        create_character = {
+            first_name = ""
+            last_name = ""
+            birth_date = 1800.1.1
+            ruler = yes
+            interest_group = 
+        }
 	}
 }

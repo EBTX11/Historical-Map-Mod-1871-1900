@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:PER ?= {
-        effect_starting_technology_tier_1_tech = yes
+        effect_starting_technology_tier_4_tech_hmm = yes
 		ig:ig_landowners ?= {
 			add_ruling_interest_group = yes
 		}

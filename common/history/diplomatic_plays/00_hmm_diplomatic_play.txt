@@ -1,5 +1,14 @@
-﻿DIPLOMATIC_PLAYS = {
-	c:CSA ?= {
+﻿
+# #1871:
+# GUerre des boer
+# Guerre de puppet egypt dominion sdoudabnt
+# guerre chilie + perou contre bolivi pour accé mer
+# guerre russo (serbie + bulgarie) + turque -> augmeter terrtoire serbe et bulgare + protectora sur tous russe  
+
+
+
+DIPLOMATIC_PLAYS = { 
+	c:CHL ?= {
 		create_diplomatic_play = {
 			name = american_civil_war 
 
@@ -10,79 +19,95 @@
  
 			war = yes 
 			type = dp_return_state
+			target_country = c:BOL
+            add_initiator_backers = { c:PEU }
+			#add_target_backers = { c:PEU }
  
 
-			target_state = s:STATE_MISSOURI.region_state:USA  
+			target_state = s:STATE_ANTOFAGASTA.region_state:BOL  
 			 
 			#CSA
 			add_war_goal = {
-				holder = c:CSA
-				type = return_state
-				target_state = s:STATE_KENTUCKY.region_state:USA  
-			} 
-			add_war_goal = {
-				holder = c:CSA
-				type = return_state
-				target_state = s:STATE_WEST_VIRGINIA.region_state:USA  
+				holder = c:PEU
+				type = dp_humiliation
+				target_country = c:BOL
+				#target_state = s:STATE_KENTUCKY.region_state:USA  
 			}  
-
 			#USA
 			add_war_goal = {
-				holder = c:USA
-				type = return_state
-				target_state = s:STATE_MISSOURI.region_state:CSA  
-			} 
-			add_war_goal = {
-				holder = c:USA
-				type = return_state 
-				target_state = s:STATE_KENTUCKY.region_state:CSA  
-			} 
-			add_war_goal = {
-				holder = c:USA
-				type = return_state 
-				target_state = s:STATE_WEST_VIRGINIA.region_state:CSA   
-			}  
-			add_war_goal = {
-				holder = c:USA
-				type = return_state  
-				target_state = s:STATE_TEXAS.region_state:CSA  
+				holder = c:BOL
+				type = dp_humiliation
+				#target_state = s:STATE_MISSOURI.region_state:CSA  
+				target_country = c:CHL
 			}  
 		}
 		 
-	}
-	c:TPG ?= {
-		create_diplomatic_play = {
-			name = taiping_rebellion #american_civil_war 
-
-			target_state = c:CHI.capital 
-			war = yes
-			annex_as_civil_war = yes 
-			type = dp_revolution   
-		} 
 	} 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	c:RUS ?= {
+		create_diplomatic_play = {
+			name = american_civil_war 
+ 
+			war = yes 
+			type = dp_liberate_subject
+			target_country = c:BUL 
+            add_initiator_backers = { c:SER }
+            add_initiator_backers = { c:BUL }
+			#add_target_backers = { c:PEU }
+   
+			add_war_goal = {
+				holder = c:SER
+				type = return_state
+				target_country = c:TUR
+				target_state = s:STATE_WESTERN_SERBIA.region_state:TUR  
+			}  
+			add_war_goal = {
+				holder = c:SER
+				type = return_state
+				target_country = c:TUR
+				target_state = s:STATE_KOSOVO.region_state:TUR  
+			}    
+			# add_war_goal = {
+			# 	holder = c:SER
+			# 	type = balkan_war
+			# 	target_country = c:TUR 
+			# }  
+			#BUL
+			add_war_goal = {
+				holder = c:BUL
+				type = return_state
+				target_country = c:TUR
+				target_state = s:STATE_NORTHERN_THRACE.region_state:TUR  
+			}  
+			# add_war_goal = {
+			# 	holder = c:BUL
+			# 	type = balkan_war
+			# 	target_country = c:TUR 
+			# }  
+		}
+		 
+	}
+	c:GBR ?= {
+		create_diplomatic_play = {
+			name = american_civil_war 
+ 
+			war = yes 
+			type = dp_make_dominion
+			target_country = c:EGY  
+   
+			add_war_goal = {
+				holder = c:GBR
+				type = make_dominion
+				target_country = c:SUD
+				#target_state = s:STATE_WESTERN_SERBIA.region_state:TUR  
+			}     
+			add_war_goal = {
+				holder = c:EGY
+				type = return_state
+				target_country = c:GBR
+				target_state = s:STATE_DONGOLA.region_state:GBR  
+			}   
+		}
+		 
+	}
+ 
 }

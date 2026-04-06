@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:BIC ?= {
-        effect_starting_technology_tier_1_tech = yes
+        effect_starting_technology_tier_4_tech_hmm = yes
 		ig:ig_industrialists ?= {
 			add_ruling_interest_group = yes
 		}
@@ -67,11 +67,8 @@
 			months = 240
 			state_region = s:STATE_WEST_BENGAL
 		}
-	
 		activate_law = law_type:law_monarchy
-	
 		activate_law = law_type:law_traditionalism
-	
         create_character = {
             first_name = ""
             last_name = ""

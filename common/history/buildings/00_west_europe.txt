@@ -4350,6 +4350,259 @@
 				activate_production_methods={ "pm_mechanized_looms" "pm_craftsman_sewing" "pm_sewing_machines" }
 			}
 		}
+	
+		region_state:PRC={
+			create_building={
+				building="building_government_administration"
+				add_ownership={
+					country={
+						country="c:PRC"
+						levels=28
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_religious_bureaucrats" "pm_professional_bureaucrats" "pm_vertical_filing_cabinets" }
+			}
+			create_building={
+				building="building_trade_center"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=5
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=1
+						region="STATE_AQUITAINE"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=3
+						region="STATE_GUANGDONG"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=2
+						region="STATE_FRENCH_LOW_COUNTRIES"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=1
+						region="STATE_POITOU"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_high" }
+			}
+			create_building={
+				building="building_vineyard"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=2
+						region="STATE_ILE_DE_FRANCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_steam_rail_transport" "automatic_irrigation_building_vineyard" }
+			}
+			create_building={
+				building="building_construction_sector"
+				add_ownership={
+					country={
+						country="c:PRC"
+						levels=5
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_iron_frame_buildings" }
+			}
+			create_building={
+				building="building_university"
+				add_ownership={
+					country={
+						country="c:PRC"
+						levels=5
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_freedom_of_movement_no_effect" "pm_religious_academia" "pm_philosophy_department" }
+			}
+			create_building={
+				building="building_art_academy"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=2
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=1
+						region="STATE_NORMANDY"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_freedom_of_movement_no_effect" "pm_traditional_patronage" "pm_realist_art" }
+			}
+			create_building={
+				building="building_furniture_manufactory"
+				add_ownership={
+					building={
+						type="building_furniture_manufactory"
+						country="c:PRC"
+						levels=4
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=3
+						region="STATE_ILE_DE_FRANCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_automation_disabled" "pm_no_luxuries" "pm_lathe" }
+			}
+			create_building={
+				building="building_wheat_farm"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=4
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_wheat_farm"
+						country="c:PRC"
+						levels=1
+						region="STATE_ILE_DE_FRANCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_citrus_orchards" "pm_soil_enriching_farming" "pm_tools" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=3
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_manor_house"
+						country="c:PRC"
+						levels=1
+						region="STATE_GUANGDONG"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_sheep_farms" "pm_unrefrigerated" "pm_slaughterhouses" "pm_barbed_wire_fences" }
+			}
+			create_building={
+				building="building_paper_mill"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=4
+						region="STATE_ILE_DE_FRANCE"
+					}
+					country={
+						country="c:PRC"
+						levels=4
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_bleached_paper" "pm_rotary_valve_engine_building_paper_mill" }
+			}
+			create_building={
+				building="building_railway"
+				add_ownership = {
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=2
+						region="STATE_ILE_DE_FRANCE"
+					}
+					country={
+						country="c:PRC"
+						levels=1
+					}
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:PRC"
+						levels = 1
+						region = "STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=1
+						region="STATE_BRITTANY"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_early_trains" "pm_wooden_passenger_carriages" }
+			}
+			create_building={
+				building="building_barrack"
+				add_ownership={
+					country={
+						country="c:PRC"
+						levels=64
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_general_training" "pm_general_training" }
+			}
+			create_building={
+				building="building_chemical_plant"
+				add_ownership = {
+					
+					building = {
+						type = "building_financial_district"
+						country = "c:PRC"
+						levels = 1
+						region = "STATE_ILE_DE_FRANCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_artificial_fertilizers" }
+			}
+			create_building={
+				building="building_textile_mill"
+				add_ownership={
+					building={
+						type="building_company_maison_worth"
+						country="c:PRC"
+						levels=5
+						region="STATE_ILE_DE_FRANCE"
+					}
+					building={
+						type="building_financial_district"
+						country="c:PRC"
+						levels=1
+						region="STATE_ILE_DE_FRANCE"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_mechanized_looms" "pm_craftsman_sewing" "pm_sewing_machines" }
+			}
+		}
 	}
 	s:STATE_PROVENCE={
 		region_state:FRA={

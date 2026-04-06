@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:SPA ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech_hmm = yes
 		set_next_election_date = 1836.2.26
 		effect_starting_politics_conservative = yes
 		add_technology_researched = atmospheric_engine

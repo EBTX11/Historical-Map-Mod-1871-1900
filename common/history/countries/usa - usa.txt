@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:USA ?= {
-        effect_starting_technology_tier_4_tech_hmm = yes
+        effect_starting_technology_tier_3_tech_hmm = yes
 		set_next_election_date = 1836.12.7
 		set_tax_level = low
 		set_market_capital = STATE_NEW_YORK		

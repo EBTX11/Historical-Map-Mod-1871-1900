@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:ORG ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		ig:ig_industrialists ?= { # effectively dominated by the HBC
 			add_ruling_interest_group = yes
 		}

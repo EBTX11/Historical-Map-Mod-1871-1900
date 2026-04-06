@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:NET ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_3_tech_hmm = yes
 		effect_starting_politics_liberal = yes
 		ig:ig_petty_bourgeoisie ?= {
 			add_ruling_interest_group = yes

@@ -3,60 +3,60 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 3013851
+				size = 3918006
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 171665
+				size = 223164
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = aristocrats
-				size = 26981
+				size = 35075
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = bureaucrats
-				size = 9868
+				size = 12828
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = officers
-				size = 676
+				size = 878
 			}
 			create_pop = {
 				culture = greek
-				size = 26767
+				size = 34797
 			}
 			create_pop = {
 				culture = north_caucasian
-				size = 37164
+				size = 48313
 			}
 			create_pop = {
 				culture = mashriqi
-				size = 9263
+				size = 12041
 			}
 			create_pop = {
 				culture = sephardic
-				size = 34333
+				size = 44632
 			}
 			create_pop = {
 				culture = armenian
-				size = 3563
+				size = 4631
 			}
 			create_pop = {
 				culture = sudanese
-				size = 20150
+				size = 26195
 			}
 			create_pop = {
 				culture = bedouin
-				size = 14372
+				size = 18683
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 102999
+				size = 133898
 			}
 		}
 	}
@@ -64,35 +64,35 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 416010
+				size = 540813
 			}
 			create_pop = {
 				culture = bedouin
-				size = 36394
+				size = 47312
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 48379
+				size = 62892
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = aristocrats
-				size = 1301
+				size = 1691
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = bureaucrats
-				size = 522
+				size = 678
 			}
 			create_pop = {
 				culture = sudanese
-				size = 1327
+				size = 1725
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 5332
+				size = 6931
 			}
 		}
 	}
@@ -100,40 +100,40 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 1225818
+				size = 1593563
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 228801
+				size = 297441
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = aristocrats
-				size = 5239
+				size = 6810
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = bureaucrats
-				size = 652
+				size = 847
 			}
 			create_pop = {
 				culture = bedouin
-				size = 16926
+				size = 22003
 			}
 			create_pop = {
 				culture = sephardic
-				size = 3382
+				size = 4396
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 3381
+				size = 4395
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 21073
+				size = 27394
 			}
 		}
 	}
@@ -141,50 +141,52 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = bedouin
-				size = 14232
+				size = 18501
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 2839
+				size = 3690
 			}
 			create_pop = {
 				culture = misri
-				size = 17167
+				size = 22317
 			}
 			create_pop = {
 				culture = sudanese
-				size = 10559
+				size = 13726
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 2065
+				size = 2684
 			}
 		}
 	
-		region_state:SHR = {
+		
+	
+		region_state:SEY = {
 			create_pop = {
 				culture = bedouin
-				size = 14232
+				size = 18501
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 2839
+				size = 3690
 			}
 			create_pop = {
 				culture = misri
-				size = 17167
+				size = 22317
 			}
 			create_pop = {
 				culture = sudanese
-				size = 10559
+				size = 13726
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 2065
+				size = 2684
 			}
 		}
 	}
@@ -192,20 +194,20 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = bedouin
-				size = 10141
+				size = 13183
 			}
 			create_pop = { # Siwi People
 				culture = berber
-				size = 2814
+				size = 3658
 			}
 			create_pop = {
 				culture = misri
-				size = 14276
+				size = 18558
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 1432
+				size = 1861
 			}
 		}
 	}
@@ -213,104 +215,134 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = misri
-				size = 10415
+				size = 13539
 			}
 			create_pop = {
 				culture = mashriqi
-				size = 665
+				size = 864
 			}
 			create_pop = {
 				culture = bedouin
-				size = 14456
+				size = 18792
 			}
 			create_pop = {
 				culture = misri
 				religion = oriental_orthodox
-				size = 1132
+				size = 1471
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 131
+				size = 170
 			}
 		}
 	}
 	s:STATE_ERITREA = {
-		region_state:EGY = {
-			create_pop = {
-				culture = tigray
-				size = 98493
-			}
-			create_pop = {
-				culture = misri
-				size = 124
-			}
-			create_pop = {
-				culture = tigray
-				religion = sunni
-				size = 83200
-			}
-			create_pop = {
-				culture = bedouin
-				size = 20670
-			}
-			create_pop = {
-				culture = afar
-				size = 41600
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = sudanese
-				size = 5460
-			}
-		}
+		
 		region_state:AWS = {
 			create_pop = {
 				culture = tigray
 				religion = sunni
-				size = 10400
+				size = 13520
 			}
 			create_pop = {
 				culture = afar
-				size = 10400
+				size = 13520
 			}
 			create_pop = {
 				culture = somali
-				size = 11700
+				size = 15210
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = somali
-				size = 3900
+				size = 5070
 			}
 		}
 	
 		region_state:ETH = {
 			create_pop = {
 				culture = tigray
-				size = 442273
+				size = 574954
 			}
 			create_pop = {
 				culture = misri
-				size = 556
+				size = 722
 			}
 			create_pop = {
 				culture = tigray
 				religion = sunni
-				size = 373601
+				size = 485681
 			}
 			create_pop = {
 				culture = bedouin
-				size = 92816
+				size = 120660
 			}
 			create_pop = {
 				culture = afar
-				size = 186800
+				size = 242840
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 24520
+				size = 31876
+			}
+		}
+	
+		region_state:Y39 = {
+			create_pop = {
+				culture = tigray
+				size = 128040
+			}
+			create_pop = {
+				culture = misri
+				size = 161
+			}
+			create_pop = {
+				culture = tigray
+				religion = sunni
+				size = 108160
+			}
+			create_pop = {
+				culture = bedouin
+				size = 26871
+			}
+			create_pop = {
+				culture = afar
+				size = 54080
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 7098
+			}
+		}
+		region_state:ERI = {
+			create_pop = {
+				culture = tigray
+				size = 128040
+			}
+			create_pop = {
+				culture = misri
+				size = 161
+			}
+			create_pop = {
+				culture = tigray
+				religion = sunni
+				size = 108160
+			}
+			create_pop = {
+				culture = bedouin
+				size = 26871
+			}
+			create_pop = {
+				culture = afar
+				size = 54080
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 7098
 			}
 		}
 	}
@@ -318,181 +350,235 @@
 		region_state:EGY = {
 			create_pop = {
 				culture = bedouin
-				size = 202800
+				size = 239151
 			}
 			create_pop = {
 				culture = sudanese
-				size = 52005
+				size = 61326
 			}
 			create_pop = {
 				culture = beja
-				size = 106600
+				size = 125707
 			}
 			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 59800
+				size = 70518
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = beja
-				size = 52000
+				size = 61320
 			}
 		}
 	
-		region_state:SHR = {
+		
+	
+		region_state:SEY = {
 			create_pop = {
 				culture = bedouin
-				size = 202800
+				size = 263640
 			}
 			create_pop = {
 				culture = sudanese
-				size = 52005
+				size = 67606
 			}
 			create_pop = {
 				culture = beja
-				size = 106600
+				size = 138580
 			}
 			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 59800
+				size = 77740
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = beja
-				size = 52000
+				size = 67600
+			}
+		}
+		region_state:SUD = {
+			create_pop = {
+				culture = bedouin
+				size = 263640
+			}
+			create_pop = {
+				culture = sudanese
+				size = 67606
+			}
+			create_pop = {
+				culture = beja
+				size = 138580
+			}
+			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 77740
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = beja
+				size = 67600
+			}
+		}
+		region_state:GBR = {
+			create_pop = {
+				culture = bedouin
+				size = 263640
+			}
+			create_pop = {
+				culture = sudanese
+				size = 67606
+			}
+			create_pop = {
+				culture = beja
+				size = 138580
+			}
+			# 20-30% of Northern Sudan's population may have been enslaved in the early 19th century
+			create_pop = {
+				pop_type = slaves
+				culture = sudanese
+				size = 77740
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = beja
+				size = 67600
 			}
 		}
 	}
 	s:STATE_KORDOFAN = {
-		region_state:EGY = {
-			create_pop = {
-				culture = sudanese
-				size = 291714
-			}
-			create_pop = {
-				culture = nuba
-				size = 137290
-			}
-			create_pop = {
-				culture = dinka
-				size = 122205
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = nuba
-				size = 65520
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dinka
-				size = 65520
-			}
-		}
+		
 	
-		region_state:DFR = {
+		
+	
+		region_state:SUD = {
 			create_pop = {
 				culture = sudanese
-				size = 291714
+				size = 379228
 			}
 			create_pop = {
 				culture = nuba
-				size = 137290
+				size = 178477
 			}
 			create_pop = {
 				culture = dinka
-				size = 122205
+				size = 158866
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = nuba
-				size = 65520
+				size = 85176
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = dinka
-				size = 65520
+				size = 85176
 			}
 		}
 	}
 	s:STATE_DARFUR = {
-		region_state:DFR = {
-			create_pop = {
-				culture = fur
-				size = 258949
-			}
-			create_pop = {
-				culture = dinka
-				size = 18720
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = dinka
-				size = 18720
-			}
-			create_pop = {
-				culture = bedouin
-				size = 10400
-			}
-		}
+		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = fur
-				size = 258949
+				size = 336633
 			}
 			create_pop = {
 				culture = dinka
-				size = 18720
+				size = 24336
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = dinka
-				size = 18720
+				size = 24336
 			}
 			create_pop = {
 				culture = bedouin
-				size = 10400
+				size = 13520
+			}
+		}
+	
+		region_state:SEY = {
+			create_pop = {
+				culture = fur
+				size = 336633
+			}
+			create_pop = {
+				culture = dinka
+				size = 24336
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dinka
+				size = 24336
+			}
+			create_pop = {
+				culture = bedouin
+				size = 13520
+			}
+		}
+		region_state:SUD = {
+			create_pop = {
+				culture = fur
+				size = 336633
+			}
+			create_pop = {
+				culture = dinka
+				size = 24336
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = dinka
+				size = 24336
+			}
+			create_pop = {
+				culture = bedouin
+				size = 13520
 			}
 		}
 	}
 	s:STATE_BLUE_NILE = {
-		region_state:EGY = {
+		
+	
+		region_state:SUD = {
 			create_pop = {
 				culture = sudanese
-				size = 399880
+				size = 519844
 			}
 			create_pop = {
 				culture = misri
-				size = 2589
+				size = 3365
 			}
 			create_pop = {
 				culture = nuba
-				size = 447330
+				size = 581529
 			}
 			create_pop = {
 				culture = dinka
-				size = 166264
+				size = 216143
 			}
 			create_pop = {
 				culture = bedouin
-				size = 83205
+				size = 108166
 			}
 			create_pop = {
 				culture = nuer
-				size = 78000
+				size = 101400
 			}
 			create_pop = {
 				culture = beja
-				size = 20800
+				size = 27040
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 296400
+				size = 385320
 			}
 		}
 	}
@@ -500,20 +586,20 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 892710
+				size = 1160523
 			}
 			create_pop = {
 				culture = sephardic
-				size = 55250
+				size = 71825
 			}
 			create_pop = {
 				culture = berber
-				size = 317194
+				size = 412352
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 72800
+				size = 94640
 			}
 		}
 	}
@@ -521,20 +607,20 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 1142304
+				size = 1484995
 			}
 			create_pop = {
 				culture = berber
-				size = 150805
+				size = 196046
 			}
 			create_pop = {
 				culture = sephardic
-				size = 91655
+				size = 119151
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 80600
+				size = 104780
 			}
 		}
 	}
@@ -542,42 +628,42 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = maghrebi
-				size = 486444
+				size = 632377
 			}
 			create_pop = {
 				culture = sephardic
-				size = 16640
+				size = 21632
 			}
 			create_pop = {
 				culture = berber
-				size = 93340
+				size = 121342
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 44200
+				size = 57460
 			}
 		}
 		region_state:SPA = {
 			create_pop = {
 				culture = sephardic
-				size = 976
+				size = 1268
 			}
 			create_pop = {
 				culture = spanish
-				size = 11859
+				size = 15416
 			}
 			create_pop = {
 				culture = portuguese
-				size = 443
+				size = 575
 			}
 			create_pop = {
 				culture = north_italian
-				size = 748
+				size = 972
 			}
 			create_pop = {
 				culture = berber
-				size = 7295
+				size = 9483
 			}
 		}
 	}
@@ -585,35 +671,55 @@
 		region_state:MOR = {
 			create_pop = {
 				culture = berber
-				size = 418600
+				size = 544180
 			}
 			create_pop = {
 				culture = bedouin
-				size = 35110
+				size = 45643
 			}
 			create_pop = {
 				culture = maghrebi
-				size = 289114
+				size = 375848
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 31200
+				size = 40560
 			}
 		}
 		region_state:TEK = {
 			create_pop = {
 				culture = berber
-				size = 13141
+				size = 17083
 			}
 			create_pop = {
 				culture = bidan
-				size = 18995
+				size = 24693
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 2600
+				size = 3380
+			}
+		}
+	
+		region_state:Y29 = {
+			create_pop = {
+				culture = berber
+				size = 544180
+			}
+			create_pop = {
+				culture = bedouin
+				size = 45643
+			}
+			create_pop = {
+				culture = maghrebi
+				size = 375848
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 40560
 			}
 		}
 	}
@@ -622,27 +728,27 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = maghrebi
-				size = 90462
+				size = 96524
 			}
 			create_pop = {
 				culture = berber
-				size = 42860
+				size = 45732
 			}
 			create_pop = {
 				culture = turkish
-				size = 2881
+				size = 3073
 			}
 			create_pop = {
 				culture = sephardic
-				size = 8379
+				size = 8939
 			}
 			create_pop = {
 				culture = french
-				size = 1280
+				size = 1365
 			}
 			create_pop = {
 				culture = bambara
-				size = 3640
+				size = 3883
 			}
 		}
 	}
@@ -652,27 +758,27 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = maghrebi
-				size = 20104
+				size = 21451
 			}
 			create_pop = {
 				culture = berber
-				size = 11765
+				size = 12553
 			}
 			create_pop = {
 				culture = turkish
-				size = 319
+				size = 339
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1895
+				size = 2021
 			}
 			create_pop = {
 				culture = french
-				size = 373
+				size = 397
 			}
 			create_pop = {
 				culture = bambara
-				size = 1297
+				size = 1383
 			}
 		}
 	}
@@ -681,27 +787,27 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = maghrebi
-				size = 43798
+				size = 46732
 			}
 			create_pop = {
 				culture = berber
-				size = 3212
+				size = 3426
 			}
 			create_pop = {
 				culture = turkish
-				size = 651
+				size = 694
 			}
 			create_pop = {
 				culture = sephardic
-				size = 2779
+				size = 2964
 			}
 			create_pop = {
 				culture = french
-				size = 726
+				size = 773
 			}
 			create_pop = {
 				culture = bambara
-				size = 1117
+				size = 1191
 			}
 		}
 	}
@@ -709,38 +815,38 @@
 		region_state:TUN = {
 			create_pop = {
 				culture = maghrebi
-				size = 1515545
+				size = 1970208
 			}
 			create_pop = {
 				culture = sephardic
-				size = 24965
+				size = 32454
 			}
 			create_pop = {
 				culture = maltese
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = south_italian
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = berber
-				size = 130000
+				size = 169000
 			}
 			create_pop = {
 				culture = turkish
 				pop_type = aristocrats
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 14300
+				size = 18590
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 16900
+				size = 21970
 			}
 		}
 	}
@@ -748,54 +854,54 @@
 		region_state:TRI = {
 			create_pop = {
 				culture = maghrebi
-				size = 181516
+				size = 235970
 			}
 			create_pop = {
 				culture = bedouin
-				size = 264934
+				size = 344414
 			}
 			create_pop = {
 				culture = sephardic
-				size = 7794
+				size = 10132
 			}
 			create_pop = {
 				culture = berber
-				size = 7800
+				size = 10140
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 16640
+				size = 21632
 			}
 		}
 		region_state:FZN = {
 			create_pop = {
 				culture = maghrebi
-				size = 39000
+				size = 50700
 			}
 			create_pop = {
 				culture = bedouin
-				size = 91000
+				size = 118300
 			}
 			create_pop = {
 				culture = berber
-				size = 13000
+				size = 16900
 			}
 			create_pop = {
 				culture = berber
 				religion = ibadi
-				size = 26000
+				size = 33800
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 5200
+				size = 6760
 			}
 		}
 		region_state:ZWY = {
 			create_pop = {
 				culture = bedouin
-				size = 13000
+				size = 16900
 			}
 		}
 	}
@@ -803,64 +909,88 @@
 		region_state:TRI = {
 			create_pop = {
 				culture = bedouin
-				size = 199414
+				size = 259238
 			}
 			create_pop = {
 				culture = berber
-				size = 71500
+				size = 92950
 			}
 			create_pop = {
 				culture = maghrebi
-				size = 225071
+				size = 292592
 			}
 			create_pop = {
 				culture = sephardic
-				size = 3894
+				size = 5062
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 26000
+				size = 33800
 			}
 		}
 		region_state:ZWY = {
 			create_pop = {
 				culture = bedouin
-				size = 32500
+				size = 42250
 			}
 			create_pop = {
 				culture = berber
-				size = 6500
+				size = 8450
 			}
 		}
 		region_state:TBI = {
 			create_pop = {
 				culture = teda
-				size = 10400
+				size = 11096
 			}
 		}
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = bedouin
-				size = 199414
+				size = 259238
 			}
 			create_pop = {
 				culture = berber
-				size = 71500
+				size = 92950
 			}
 			create_pop = {
 				culture = maghrebi
-				size = 225071
+				size = 292592
 			}
 			create_pop = {
 				culture = sephardic
-				size = 3894
+				size = 5062
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 26000
+				size = 33800
+			}
+		}
+	
+		region_state:SEY = {
+			create_pop = {
+				culture = bedouin
+				size = 259238
+			}
+			create_pop = {
+				culture = berber
+				size = 92950
+			}
+			create_pop = {
+				culture = maghrebi
+				size = 292592
+			}
+			create_pop = {
+				culture = sephardic
+				size = 5062
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 33800
 			}
 		}
 	}
@@ -871,89 +1001,95 @@
 		region_state:TBI = {
 			create_pop = {
 				culture = teda
-				size = 10400
+				size = 13520
 			}
 		}
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = bedouin
-				size = 44200
+				size = 57460
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 7800
+				size = 10140
 			}
 		}
 		region_state:TRI = {
 			create_pop = {
 				culture = bedouin
-				size = 44200
+				size = 57460
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 7800
+				size = 10140
+			}
+		}
+	
+		region_state:FRA = {
+			create_pop = {
+				culture = teda
+				size = 13520
+			}
+		}
+		region_state:SEY = {
+			create_pop = {
+				culture = teda
+				size = 13520
+			}
+		}
+		region_state:ZWY = {
+			create_pop = {
+				culture = teda
+				size = 13520
 			}
 		}
 	}
 	s:STATE_SAHARA = {
-		region_state:TUA = {
-			create_pop = {
-				culture = berber
-				size = 15600
-			}
-		}
-		region_state:MZB = {
-			create_pop = {
-				culture = berber
-				size = 10400
-				religion = ibadi
-			}
-			create_pop = {
-				culture = berber
-				size = 2600
-				religion = sunni
-			}
-			create_pop = {
-				culture = berber
-				religion = jewish #Mozabite Jews
-				size = 1288
-			}
-		}
+		
+		
 		region_state:TEK = {
 			create_pop = {
 				culture = bidan
-				size = 15627
+				size = 20315
 			}
 			create_pop = {
 				culture = berber
-				size = 5215
+				size = 6779
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 1626
+				size = 2113
 			}
 		}
 		region_state:RGB = {
 			create_pop = {
 				culture = bidan
-				size = 14300
+				size = 18590
 			}
 		}
-		region_state:CMB = {
-			create_pop = {
-				culture = bedouin
-				size = 13390
-			}
-		}
+		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = berber
-				size = 15600
+				size = 16645
+			}
+		}
+	
+		region_state:MOR = {
+			create_pop = {
+				culture = berber
+				size = 20280
+			}
+		}
+		region_state:FRA = {
+			create_pop = {
+				culture = berber
+				size = 20280
 			}
 		}
 	}
@@ -961,37 +1097,24 @@
 		region_state:AHG = {
 			create_pop = {
 				culture = tuareg
-				size = 29380
+				size = 31348
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tuareg
-				size = 3120
+				size = 3329
 			}
 			create_pop = {
 				culture = berber
-				size = 5205
+				size = 5553
 			}
 		}
-		region_state:TUG = {
-			create_pop = {
-				culture = maghrebi
-				size = 20826
-			}
-			create_pop = {
-				culture = berber
-				size = 38988
-			}
-			create_pop = {
-				culture = sephardic
-				size = 505
-			}
-		}
+		
 		
 		region_state:AJJ = {
 			create_pop = {
 				culture = tuareg
-				size = 13000
+				size = 16900
 			}
 		}
 		
@@ -999,16 +1122,62 @@
 		region_state:SHR = {
 			create_pop = {
 				culture = tuareg
-				size = 29380
+				size = 38194
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tuareg
-				size = 3120
+				size = 4056
 			}
 			create_pop = {
 				culture = berber
-				size = 5205
+				size = 6766
+			}
+		}
+	
+		region_state:FRA = {
+			create_pop = {
+				culture = tuareg
+				size = 38194
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 4056
+			}
+			create_pop = {
+				culture = berber
+				size = 6766
+			}
+		}
+		region_state:ADG = {
+			create_pop = {
+				culture = tuareg
+				size = 38194
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 4056
+			}
+			create_pop = {
+				culture = berber
+				size = 6766
+			}
+		}
+		region_state:AIR = {
+			create_pop = {
+				culture = tuareg
+				size = 38194
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 4056
+			}
+			create_pop = {
+				culture = berber
+				size = 6766
 			}
 		}
 	}
@@ -1016,44 +1185,50 @@
 		region_state:TEK = {
 			create_pop = {
 				culture = bidan
-				size = 22101
+				size = 28731
 			}
 			create_pop = {
 				culture = berber
-				size = 9139
+				size = 11880
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 4036
+				size = 5246
 			}
 		}
 		
-		region_state:RGB = {
-			create_pop = {
-				culture = bidan
-				size = 15600
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = haratin
-				size = 2600
-			}
-		}
+		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = bidan
-				size = 22101
+				size = 28731
 			}
 			create_pop = {
 				culture = berber
-				size = 9139
+				size = 11880
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 4036
+				size = 5246
+			}
+		}
+	
+		region_state:Y29 = {
+			create_pop = {
+				culture = bidan
+				size = 28731
+			}
+			create_pop = {
+				culture = berber
+				size = 11880
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 5246
 			}
 		}
 	}
@@ -1062,45 +1237,45 @@
 		region_state:TRZ = {
 			create_pop = {
 				culture = bidan
-				size = 104000
+				size = 135200
 			}
 			create_pop = {
 				culture = haratin
-				size = 52000
+				size = 67600
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 5200
+				size = 6760
 			}
 		}
 		region_state:FTR = {
 			create_pop = {
 				culture = fulbe
-				size = 13000
+				size = 16900
 			}
 			create_pop = {
 				culture = bidan
-				size = 42900
+				size = 55770
 			}
 			create_pop = {
 				culture = haratin
-				size = 36400
+				size = 47320
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = fulbe
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bidan
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 5200
+				size = 6760
 			}
 		}
 		
@@ -1108,23 +1283,39 @@
 		region_state:BRK = {
 			create_pop = {
 				culture = haratin
-				size = 16263
+				size = 21141
 			}
 		}
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = bidan
-				size = 67600
+				size = 87880
 			}
 			create_pop = {
 				culture = haratin
-				size = 28600
+				size = 37180
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 13000
+				size = 16900
+			}
+		}
+	
+		region_state:MAL = {
+			create_pop = {
+				culture = bidan
+				size = 135200
+			}
+			create_pop = {
+				culture = haratin
+				size = 67600
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 6760
 			}
 		}
 	}
@@ -1132,36 +1323,36 @@
 		region_state:OUA = {
 			create_pop = {
 				culture = bidan
-				size = 31200
+				size = 40560
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 1457
+				size = 1894
 			}
 			create_pop = {
 				culture = mande
-				size = 15600
+				size = 20280
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = mande
-				size = 5720
+				size = 7436
 			}
 		}
 		region_state:RGB = {
 			create_pop = {
 				culture = bidan
-				size = 10532
+				size = 13691
 			}
 			create_pop = {
 				culture = berber
-				size = 1578
+				size = 2051
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 1690
+				size = 2197
 			}
 		}
 		
@@ -1169,41 +1360,142 @@
 		region_state:SHR = {
 			create_pop = {
 				culture = bidan
-				size = 31200
+				size = 40560
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 1457
+				size = 1894
 			}
 			create_pop = {
 				culture = mande
-				size = 15600
+				size = 20280
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = mande
-				size = 5720
+				size = 7436
 			}
 		}
 		region_state:SGU = {
 			create_pop = {
 				culture = bidan
-				size = 31200
+				size = 40560
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = haratin
-				size = 1457
+				size = 1894
 			}
 			create_pop = {
 				culture = mande
-				size = 15600
+				size = 20280
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = mande
-				size = 5720
+				size = 7436
+			}
+		}
+	
+		region_state:MAL = {
+			create_pop = {
+				culture = bidan
+				size = 40560
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 1894
+			}
+			create_pop = {
+				culture = mande
+				size = 20280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 7436
+			}
+		}
+		region_state:Y26 = {
+			create_pop = {
+				culture = bidan
+				size = 40560
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 1894
+			}
+			create_pop = {
+				culture = mande
+				size = 20280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 7436
+			}
+		}
+		region_state:TEK = {
+			create_pop = {
+				culture = bidan
+				size = 40560
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 1894
+			}
+			create_pop = {
+				culture = mande
+				size = 20280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 7436
+			}
+		}
+		region_state:Y29 = {
+			create_pop = {
+				culture = bidan
+				size = 40560
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 1894
+			}
+			create_pop = {
+				culture = mande
+				size = 20280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 7436
+			}
+		}
+		region_state:FTR = {
+			create_pop = {
+				culture = bidan
+				size = 40560
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = haratin
+				size = 1894
+			}
+			create_pop = {
+				culture = mande
+				size = 20280
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 7436
 			}
 		}
 	}
@@ -1211,24 +1503,48 @@
 		region_state:MSN = {
 			create_pop = {
 				culture = bambara
-				size = 565640
+				size = 735332
 			}
 			create_pop = {
 				culture = senufo
-				size = 41600
+				size = 54080
 			}
 			create_pop = {
 				culture = mande
-				size = 488794
+				size = 635432
 			}
 			create_pop = {
 				culture = fulbe
-				size = 145594
+				size = 189272
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bambara
-				size = 32500
+				size = 42250
+			}
+		}
+	
+		region_state:Y26 = {
+			create_pop = {
+				culture = bambara
+				size = 735332
+			}
+			create_pop = {
+				culture = senufo
+				size = 54080
+			}
+			create_pop = {
+				culture = mande
+				size = 635432
+			}
+			create_pop = {
+				culture = fulbe
+				size = 189272
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = bambara
+				size = 42250
 			}
 		}
 	}
@@ -1236,35 +1552,81 @@
 		region_state:SGU = {
 			create_pop = {
 				culture = fulbe
-				size = 52005
+				size = 67606
 			}
 			create_pop = {
 				culture = bambara
-				size = 88394
+				size = 114912
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = mande
-				size = 145600
+				size = 189280
 			}
 		}
 		region_state:KRT = {
 			create_pop = {
 				culture = fulbe
-				size = 182000
+				size = 236600
 			}
 			create_pop = {
 				culture = bambara
-				size = 88400
+				size = 114920
 			}
 			create_pop = {
 				culture = mande
-				size = 23400
+				size = 30420
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = mande
-				size = 18200
+				size = 23660
+			}
+		}
+	
+		region_state:Y26 = {
+			create_pop = {
+				culture = fulbe
+				size = 67606
+			}
+			create_pop = {
+				culture = bambara
+				size = 114912
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 189280
+			}
+		}
+		region_state:BND = {
+			create_pop = {
+				culture = fulbe
+				size = 67606
+			}
+			create_pop = {
+				culture = bambara
+				size = 114912
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 189280
+			}
+		}
+		region_state:FTR = {
+			create_pop = {
+				culture = fulbe
+				size = 67606
+			}
+			create_pop = {
+				culture = bambara
+				size = 114912
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = mande
+				size = 189280
 			}
 		}
 	}
@@ -1272,101 +1634,122 @@
 		region_state:ADG = {
 			create_pop = {
 				culture = songhai
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = songhai
-				size = 1300
+				size = 1690
 			}
 			create_pop = {
 				culture = fulbe
-				size = 13000
+				size = 16900
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = fulbe
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = tuareg
-				size = 52514
+				size = 68268
 			}
 		}
-		region_state:MSN = {
-			create_pop = {
-				culture = songhai
-				size = 193700
-			}
-			create_pop = {
-				culture = mande
-				size = 99320
-			}
-			create_pop = {
-				culture = fulbe
-				size = 32500
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = songhai
-				size = 22100
-			}
-		}
+		
 		region_state:ATR = {
 			create_pop = {
 				culture = tuareg
-				size = 11700
+				size = 15210
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tuareg
-				size = 1300
+				size = 1690
 			}
 			create_pop = {
 				culture = songhai
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				culture = fulbe
-				size = 2600
+				size = 3380
 			}
 		}
 		
 		
-		region_state:RGB = {
-			create_pop = {
-				culture = bidan
-				size = 11700
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = mande
-				size = 1300
-			}
-		}
+		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = songhai
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = songhai
-				size = 1300
+				size = 1690
 			}
 			create_pop = {
 				culture = fulbe
-				size = 13000
+				size = 16900
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = fulbe
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = tuareg
-				size = 52514
+				size = 68268
+			}
+		}
+	
+		region_state:Y26 = {
+			create_pop = {
+				culture = songhai
+				size = 8450
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = songhai
+				size = 1690
+			}
+			create_pop = {
+				culture = fulbe
+				size = 16900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 3380
+			}
+			create_pop = {
+				culture = tuareg
+				size = 68268
+			}
+		}
+		region_state:MAL = {
+			create_pop = {
+				culture = songhai
+				size = 8450
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = songhai
+				size = 1690
+			}
+			create_pop = {
+				culture = fulbe
+				size = 16900
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = fulbe
+				size = 3380
+			}
+			create_pop = {
+				culture = tuareg
+				size = 68268
 			}
 		}
 	}
@@ -1374,58 +1757,78 @@
 		region_state:AIR = {
 			create_pop = {
 				culture = tuareg
-				size = 83200
+				size = 108160
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tuareg
-				size = 5460
+				size = 7098
 			}
 			create_pop = {
 				culture = hausa
-				size = 32500
+				size = 42250
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = hausa
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				culture = fulbe
-				size = 13000
+				size = 16900
 			}
 		}
-		region_state:TBI = {
-			create_pop = {
-				culture = teda
-				size = 10400
-			}
-		}
+		
 		
 		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = tuareg
-				size = 83200
+				size = 108160
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tuareg
-				size = 5460
+				size = 7098
 			}
 			create_pop = {
 				culture = hausa
-				size = 32500
+				size = 42250
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = hausa
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				culture = fulbe
-				size = 13000
+				size = 16900
+			}
+		}
+	
+		region_state:BOR = {
+			create_pop = {
+				culture = tuareg
+				size = 108160
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = tuareg
+				size = 7098
+			}
+			create_pop = {
+				culture = hausa
+				size = 42250
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = hausa
+				size = 5070
+			}
+			create_pop = {
+				culture = fulbe
+				size = 16900
 			}
 		}
 	}
@@ -1433,87 +1836,93 @@
 		region_state:WAD = {
 			create_pop = {
 				culture = bedouin
-				size = 54600
+				size = 70980
 			}
 			create_pop = {
 				culture = equatorial_bantu
-				size = 63700
+				size = 82810
 			}
 			create_pop = {
 				culture = fur
-				size = 41678
+				size = 54181
 			}
 			create_pop = {
 				culture = tuareg
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 10400
+				size = 13520
 			}
 		}
 		region_state:TBI = {
 			create_pop = {
 				culture = teda
-				size = 141575
+				size = 184047
 			}
 			create_pop = {
 				culture = bedouin
-				size = 26000
+				size = 33800
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = teda
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 7800
+				size = 10140
 			}
 		}
-		region_state:BOR = {
-			create_pop = {
-				culture = kanuri
-				size = 36400
-			}
-			create_pop = {
-				culture = bedouin
-				size = 54600
-			}
-			create_pop = {
-				culture = tuareg
-				size = 6500
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = equatorial_bantu
-				size = 9100
-			}
-		}
+		
 	
 		region_state:SHR = {
 			create_pop = {
 				culture = bedouin
-				size = 54600
+				size = 70980
 			}
 			create_pop = {
 				culture = equatorial_bantu
-				size = 63700
+				size = 82810
 			}
 			create_pop = {
 				culture = fur
-				size = 41678
+				size = 54181
 			}
 			create_pop = {
 				culture = tuareg
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = equatorial_bantu
-				size = 10400
+				size = 13520
+			}
+		}
+	
+		region_state:COG = {
+			create_pop = {
+				culture = bedouin
+				size = 70980
+			}
+			create_pop = {
+				culture = equatorial_bantu
+				size = 82810
+			}
+			create_pop = {
+				culture = fur
+				size = 54181
+			}
+			create_pop = {
+				culture = tuareg
+				size = 5070
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = equatorial_bantu
+				size = 13520
 			}
 		}
 	}

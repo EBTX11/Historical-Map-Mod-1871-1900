@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:SAR ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		ig:ig_devout ?= {
 			add_ruling_interest_group = yes
 		}

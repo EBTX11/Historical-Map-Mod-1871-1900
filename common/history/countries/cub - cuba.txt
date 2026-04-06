@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:CUB ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		# set_next_election_date = ???
 		effect_starting_politics_conservative = yes
 		add_technology_researched = atmospheric_engine

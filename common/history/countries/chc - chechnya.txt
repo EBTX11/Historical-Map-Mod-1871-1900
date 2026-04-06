@@ -1,6 +1,6 @@
 ﻿COUNTRIES = {
 	c:CHC ?= {
-        effect_starting_technology_tier_3_tech = yes
+        effect_starting_technology_tier_4_tech = yes
 		add_primary_culture = cu:north_caucasian
 		activate_law = law_type:law_theocracy
 		activate_law = law_type:law_oligarchy

@@ -1,0 +1,9 @@
+﻿DIPLOMACY = {
+	c:FRA ?= {
+		create_bidirectional_truce = {
+			country = c:GER
+			months = 40
+		}
+	}
+}
+ 

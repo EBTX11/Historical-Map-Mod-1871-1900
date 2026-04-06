@@ -1,796 +1,244 @@
-﻿#REPLACE:
+﻿
+# REPLACE:je_schleswig_holstein_question = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+
+REPLACE:je_confederation_of_the_rhine = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_countdown = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_war = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_reconstruction = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_reincorporate = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_equality = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_acw_wild_wild_west = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_manifest_destiny_mexico = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_uneasy_raj = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_heavenly_kingdom_main = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_schleswig_holstein_question = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_german_unification_idea = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_north_german_unification = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_south_german_unification = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_german_unification = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_springtime_of_the_peoples = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_red_summer = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+REPLACE:je_metternich = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
+# REPLACE:je_trans_siberian_railway = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+REPLACE:je_conference_of_london = { 
+	complete = { 
+		game_date > 1800.0.0
+	}
+} 
  
-REPLACE:je_confederation_of_the_rhine = {
-	icon = "gfx/interface/icons/event_icons/waving_flag.dds"
-
-	group = je_group_france_expansion
-
-	is_shown_when_inactive = {
-		OR = {
-			any_subject_or_below = {
-				capital = {
-					OR = {
-						region = sr:region_rhine
-						region = sr:region_north_germany
-						region = sr:region_south_germany
-					}
-				}
-			}
-			any_scope_state = {
-				state_region = {
-					OR = {
-						is_homeland = cu:south_german
-						is_homeland = cu:north_german
-					}
-				}
-				OR = {
-					region = sr:region_rhine
-					region = sr:region_north_germany
-					region = sr:region_south_germany
-				}
-				is_incorporated = no
-				NOT = {
-					ROOT = {
-						has_claim = prev.state_region
-					}
-				}
-			}
-		}
-		NOR = {
-			country_has_primary_culture = cu:north_german
-			country_has_primary_culture = cu:south_german
-		}
+###########RUS
+REPLACE:je_the_eastern_border = { 
+	complete = { 
+		game_date > 1800.0.0
 	}
-
-	possible = {
-		always = no
+} 
+REPLACE:je_caucasian_war = { 
+	complete = { 
+		game_date > 1800.0.0
 	}
-
-	immediate = {
-		save_scope_as = rhine_overlord
-		cu:north_german = {
-			save_scope_as = north_german_scope
-		}
-		cu:south_german = {
-			save_scope_as = south_german_scope
-		}
+} 
+REPLACE:je_circassian_expulsions = { 
+	complete = { 
+		game_date > 1800.0.0
 	}
-
-	scripted_button = je_confederation_of_the_rhine_confederate_button
-	scripted_button = je_confederation_of_the_rhine_expand_button
-
-	invalid = {
-		NOR = {
-			any_country = {
-				is_subject_of = ROOT
-				capital = {
-					OR = {
-						region = sr:region_rhine
-						region = sr:region_north_germany
-						region = sr:region_south_germany
-					}
-				}
-			}
-			any_scope_state = {
-				state_region = {
-					OR = {
-						is_homeland = cu:south_german
-						is_homeland = cu:north_german
-					}
-				}
-				OR = {
-					region = sr:region_rhine
-					region = sr:region_north_germany
-					region = sr:region_south_germany
-				}
-				is_incorporated = no
-			}
-		}
+} 
+REPLACE:je_caucasian_war_circassia = { 
+	complete = { 
+		game_date > 1800.0.0
 	}
-
-	complete = {
-		custom_tooltip = {
-			text = no_german_great_powers_tt
-			NOT = {
-				any_country = {
-					OR = {
-						country_has_primary_culture = cu:north_german
-						country_has_primary_culture = cu:south_german
-					}
-					country_rank = rank_value:great_power
-				}
-			}
-		}
+} 
+REPLACE:je_caucasian_war_imamate = { 
+	complete = { 
+		game_date > 1800.0.0
 	}
+} 
+# REPLACE:je_pacify_the_steppes = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_the_last_kazakh_khan = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_conquest_of_central_asia = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_great_reformer = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_great_reforms_serfdom = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_great_reforms_military = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_great_reforms_bureaucratic = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }   
+###########
 
-	fail = {
-		exists = c:RHN
-		c:RHN ?= {
-			NOT = {
-				is_subject_of = ROOT
-			}
-		}
-	}
-
-	on_fail = {
-		add_modifier = {
-			name = modifier_fall_of_germany
-			days = normal_modifier_time
-			is_decaying = yes
-		}
-	}
-
-	should_be_pinned_by_default = yes
-
-	weight = 100
-}
-
-REPLACE:je_acw_countdown = {
-	icon = "gfx/interface/icons/event_icons/event_newspaper.dds"
-
-	group = je_group_usa_american_civil_war
-
-	immediate = {
-		set_variable = {
-			name = acw_progress_var
-			value = 0
-		}
-	}
-
-	complete = {
-		# scope:journal_entry = {
-		# 	is_goal_complete = yes
-		# }
-		has_law_or_variant = law_type:law_slavery_banned
-		game_date > 1862.4.12 
-	}
-
-	on_complete = {
-		set_variable = je_acw_countdown_complete
-		remove_modifier = missouri_compromise
-		trigger_event = { id = slavery_law_events.7 days = 0 popup = yes }
-	}
-
-	fail = { 
-		game_date > 1861.4.12 
-		# OR = {
-		# 	has_civil_war_from_movement_type = movement_type:movement_pro_slavery
-		# 	has_civil_war_from_movement_type = movement_type:movement_anti_slavery
-		# }
-	}
-
-	on_fail = {
-		if = {
-			limit = {
-				has_civil_war_from_movement_type = movement_type:movement_pro_slavery
-			}
-			set_variable = csa_will_spawn_var
-		}
-		custom_tooltip = {
-			text = acw_will_happen_tt
-			trigger_event = { id = acw_je_events.1 }
-		}
-	}
-
-	on_monthly_pulse = {
-		effect = {
-			if = {
-				limit = {
-					has_law_or_variant = law_type:law_slavery_banned
-				}
-				change_variable = {
-					name = acw_progress_var
-					add = 1
-				}
-			}
-		}
-		random_events = {
-			# American Civil War buildup
-			200 = 0
-			10 = acw_events.1 # The Abolitionist's Martyrdom
-			10 = acw_events.3 # The Wilmot Proviso
-		}
-	}
-	on_yearly_pulse = {
-		random_events = {
-			40 = 0
-			20 = acw_events.2 # The Fugitive Slave
-			20 = acw_events.5 # Bleeding Kansas
-			20 = acw_events.6 # The Caning of Charles Sumner
-		}
-	}
-
-	current_value = {
-		value = root.var:acw_progress_var
-	}
-
-	goal_add_value = {
-		value = 120
-	}
-
-	progressbar = yes
-
-	weight = 100
-
-	should_be_pinned_by_default = yes
-}
-
-REPLACE:je_manifest_destiny_mexico = {
-	icon = "gfx/interface/icons/event_icons/event_military.dds"
-
-	group = je_group_usa_manifest_destiny
-
-	# note that if you change this, also update the decision
-	complete = {
-		owns_entire_state_region = STATE_CALIFORNIA
-		# owns_entire_state_region = STATE_NEVADA
-		# owns_entire_state_region = STATE_UTAH
-		# owns_entire_state_region = STATE_ARIZONA
-		# owns_entire_state_region = STATE_NEW_MEXICO
-		# owns_entire_state_region = STATE_TEXAS 
-		exists = c:Y11
-		exists = c:Y12
-		exists = c:Y15  
  
-		# exists = c:Y16
-		# exists = c:Y14
-		# exists = c:Y13 
-	}
+# ###########TUR et balkan JE 
+# REPLACE:je_sick_man_main = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_syria = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_egypt = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_economy = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_education = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_separatism = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_army = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# } 
+# REPLACE:je_sick_man_bureaucracy = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_the_balkan_league = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_spoils_of_war = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_eastern_question_russia = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_eastern_question_austria = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }  
+# REPLACE:je_great_eastern_crisis = { 
+# 	complete = { 
+# 		game_date > 1800.0.0
+# 	}
+# }    
+# ###########
 
-	on_complete = {
-		trigger_event = { id = manifest_destiny.1 }
-	}
 
-	weight = 100
-	should_be_pinned_by_default = yes
-}   
-REPLACE:je_uneasy_raj = {
-	icon = "gfx/interface/icons/event_icons/event_protest.dds"
 
-	group = je_group_global_international_situations
 
-	should_be_involved = {
-		c:BIC ?= this
-	}
-
-	should_show_when_not_involved = {
-		OR = {
-			is_in_geographic_region = geographic_region_india
-			any_subject_or_below = {
-				is_in_geographic_region = geographic_region_india
-			}
-		}
-	}
-
-	scripted_progress_bar = sepoy_mutiny_progress_bar_bengal
-	scripted_progress_bar = sepoy_mutiny_progress_bar_bombay
-	scripted_progress_bar = sepoy_mutiny_progress_bar_madras
-
-	immediate = {
-		c:BIC ?= {
-			save_scope_as = raj_scope
-			set_global_variable = { name = bengal_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" }
-			set_global_variable = { name = bombay_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" }
-			set_global_variable = { name = madras_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" }
-			sr:region_bengal = {
-				save_scope_as = bengal_sr_scope
-			}
-			sr:region_bombay = {
-				save_scope_as = bombay_sr_scope
-			}
-			sr:region_madras = {
-				save_scope_as = madras_sr_scope
-			}
-			sr:region_punjab = {
-				save_scope_as = punjab_sr_scope
-			}
-			sr:region_central_india = {
-				save_scope_as = central_india_sr_scope
-			}
-			set_variable = {
-				name = sepoy_mutiny_timer_var
-				value = 0
-			}
-		}
-	}
-
-	custom_completion_header = je_uneasy_raj_complete_header
-
-	complete = {
-		game_date > 1860.1.2
-		# c:BIC ?= {
-		# 	custom_tooltip = {
-		# 		text = je_avert_sepoy_mutiny_tt_1
-		# 		has_variable = consolidated_colonial_rule
-		# 	}
-		# 	average_sol >= 10
-		# 	radical_fraction = {
-		# 		value <= 0.10
-		# 	}
-		# }
-	}
-
-	custom_failure_header = je_uneasy_raj_fail_header
-
-	fail = {
-		c:BIC ?= {
-			OR = {
-				custom_tooltip = {
-					text = je_uneasy_raj_tt_2
-					var:sepoy_mutiny_timer_var >= 100
-				}
-				custom_tooltip = {
-					text = time_has_run_out_tt
-					NOT = {
-						has_journal_entry = je_uneasy_raj
-					}
-				}
-			}
-		}
-	}
-
-	timeout = 9000
-
-	on_timeout = {
-		c:BIC ?= {
-			custom_tooltip = {
-				text = indian_uprising_triggered_tt
-				custom_tooltip = british_raj_later_tt
-				if = {
-					limit = {
-						NOT = {
-							has_variable = utilitarianism_done
-						}
-					}
-					custom_tooltip = no_more_utilitarianism_tt
-				}
-				add_journal_entry = { type = je_sepoy_mutiny }
-				trigger_event = { id = sepoy_mutiny_events.3 popup = yes }
-				remove_global_variable = bengal_presidency_stability
-				remove_global_variable = bombay_presidency_stability
-				remove_global_variable = madras_presidency_stability
-				# Bengal Presidency
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_low_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bengal_effect_critical
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_low_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_medium_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bengal_effect_high
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_medium_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bengal_effect_medium
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bengal_effect_low
-				}
-				# Bombay Presidency
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_low_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bombay_effect_critical
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_low_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_medium_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bombay_effect_high
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_medium_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bombay_effect_medium
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_bombay_effect_low
-				}
-				# Madras Presidency
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_low_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_madras_effect_critical
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_low_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_medium_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_madras_effect_high
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_medium_lower_bound
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_madras_effect_medium
-				}
-				if = {
-					limit = {
-						je:je_uneasy_raj ?= {
-							"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_high_lower_bound
-						}
-					}
-					set_variable = sepoy_mutiny_madras_effect_low
-				}
-			}
-		}
-	}
-
-	#event_outcome_timeout_desc = {
-	#	first_valid = {
-	#		triggered_desc = {
-	#			desc = event_effects_sepoy_mutiny_events.3_tt
-	#		}
-	#	}
-	#}
-
-	invalid = {
-	}
-
-	custom_on_completion_header = je_uneasy_raj_on_complete_header
-
-	on_complete = {
-		c:BIC ?= {
-			custom_tooltip = home_rule_unavailable_tt
-			custom_tooltip = end_company_rule_made_available_tt
-			trigger_event = { id = sepoy_mutiny_events.11 popup = yes }
-			remove_global_variable = bengal_presidency_stability
-			remove_global_variable = bombay_presidency_stability
-			remove_global_variable = madras_presidency_stability
-			set_variable = company_rule_enduring
-		}
-	}
-
-	event_outcome_completed_desc = {
-		first_valid = {
-			triggered_desc = {
-				desc = event_effects_sepoy_mutiny_events.11_tt
-			}
-		}
-	}
-
-	custom_on_failure_header = je_uneasy_raj_on_fail_header
-
-	on_fail = {
-		c:BIC ?= {
-			custom_tooltip = british_raj_later_tt
-			if = {
-				limit = {
-					NOT = {
-						has_variable = utilitarianism_done
-					}
-				}
-				custom_tooltip = no_more_utilitarianism_tt
-			}
-			add_journal_entry = { type = je_sepoy_mutiny }
-			trigger_event = { id = sepoy_mutiny_events.3 popup = yes }
-			# Bengal Presidency
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_low_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bengal_effect_critical
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_low_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_medium_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bengal_effect_high
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_medium_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" <= uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bengal_effect_medium
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" > uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bengal_effect_low
-			}
-			# Bombay Presidency
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_low_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bombay_effect_critical
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_low_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_medium_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bombay_effect_high
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_medium_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" <= uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bombay_effect_medium
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" > uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_bombay_effect_low
-			}
-			# Madras Presidency
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_low_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_madras_effect_critical
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_low_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_medium_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_madras_effect_high
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_medium_lower_bound
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" <= uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_madras_effect_medium
-			}
-			if = {
-				limit = {
-					je:je_uneasy_raj ?= {
-						"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" > uneasy_raj_stability_high_lower_bound
-					}
-				}
-				set_variable = sepoy_mutiny_madras_effect_low
-			}
-			remove_global_variable = bengal_presidency_stability
-			remove_global_variable = bombay_presidency_stability
-			remove_global_variable = madras_presidency_stability
-		}
-	}
-
-	event_outcome_failed_desc = {
-		first_valid = {
-			triggered_desc = {
-				desc = event_effects_sepoy_mutiny_events.3_tt
-			}
-		}
-	}
-
-	on_weekly_pulse = {
-		events = {
-		}
-		effect = {
-			c:BIC ?= {
-				set_global_variable = { name = bengal_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" }
-				set_global_variable = { name = bombay_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" }
-				set_global_variable = { name = madras_presidency_stability value = "scope:journal_entry.scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" }
-			}
-		}
-	}
-
-	on_monthly_pulse = {
-		effect = {
-			if = {
-				limit = {
-					c:BIC ?= {
-						OR = {
-							je:je_uneasy_raj ?= {
-								"scripted_bar_progress(sepoy_mutiny_progress_bar_bengal)" < uneasy_raj_stability_medium_upper_bound
-							}
-							je:je_uneasy_raj ?= {
-								"scripted_bar_progress(sepoy_mutiny_progress_bar_bombay)" < uneasy_raj_stability_medium_upper_bound
-							}
-							je:je_uneasy_raj ?= {
-								"scripted_bar_progress(sepoy_mutiny_progress_bar_madras)" < uneasy_raj_stability_medium_upper_bound
-							}
-						}
-					}
-				}
-				c:BIC ?= {
-					change_variable = {
-						name = sepoy_mutiny_timer_var
-						add = 1
-					}
-				}
-			}
-			c:BIC ?= {
-				random_list = {
-					11 = { }
-					1 = { trigger_event = sepoy_mutiny_events.6 }
-					1 = { trigger_event = raj.4 }
-					1 = { trigger_event = raj.5 }
-				}
-			}
-		}
-	}
-
-	weight = 100
-	should_be_pinned_by_default = yes
-}
- 
-REPLACE:je_heavenly_kingdom_main = {
-	icon = "gfx/interface/icons/event_icons/event_protest.dds"
-
-	group = je_group_qing
-
-	is_shown_when_inactive = {
-		exists = c:CHI
-		c:CHI ?= THIS
-	}
-
-	possible = {
-		custom_tooltip = {
-			text = missionaries_enough_time_tt
-			OR = {
-				AND = {
-					has_variable = missionary_works_counter
-					var:missionary_works_counter >= 5
-					game_date >= 1846
-				}
-				game_date >= 1856
-			}
-		}
-		is_subject = no
-
-		#hmm
-		# any_scope_state = {
-		# 	is_incorporated = yes
-		# 	religion_percent_state = {
-		# 		target = rel:protestant
-		# 		value >= 0.01
-		# 	}
-		# 	is_capital = no
-		# 	state_region = {
-		# 		OR = {
-		# 			is_homeland = cu:han
-		# 			is_homeland = cu:hakka
-		# 		}
-		# 	}
-		# 	turmoil > 0.15
-		# } 
-	}
-
-	immediate = {
-		random_scope_state = {
-			limit = {
-				is_incorporated = yes
-				religion_percent_state = {
-					target = rel:protestant
-					value >= 0.01
-				}
-				is_capital = no
-				state_region = {
-					OR = {
-						is_homeland = cu:han
-						is_homeland = cu:hakka
-					}
-				}
-				turmoil > 0.15
-			}
-			add_modifier = {
-				name = god_worshippers
-				days = short_modifier_time
-			}
-		}
-		trigger_event = {
-			id = heavenly.2
-		}
-	}
-
-	on_monthly_pulse = {
-		random_events = {
-			5 = 0
-			1 = heavenly.3
-		}
-	}
-
-	complete = {
-		NOT = {
-			any_scope_state = {
-				has_modifier = god_worshippers
-			}
-		}
-	}
-
-	fail = { 
-		#hmm
-		game_date > 1861.6.1
-		# any_scope_state = {
-		# 	has_modifier = god_worshippers
-		# 	count >= 4
-		# }
-		# any_scope_state = {
-		# 	AND = {
-		# 		has_modifier = god_worshippers
-		# 		religion_percent_state = {
-		# 			target = rel:protestant
-		# 			value >= 0.01
-		# 		}
-		# 		state_religious_acceptance = {
-	 	# 			target = rel:protestant
-		# 			value <= religious_acceptance_low
-		# 		}
-		# 		turmoil >= 0.15
-		# 	}
-		# }
-	}
-
-	on_fail = {
-		trigger_event = {
-			id = heavenly.4
-		}
-	}
-
-	weight = 10000
-	should_be_pinned_by_default = yes
-}
 

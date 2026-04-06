@@ -3,36 +3,36 @@
 		region_state:NEJ = {
 			create_pop = {
 				culture = bedouin
-				size = 122194
+				size = 158852
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 28600
+				size = 37180
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 9100
+				size = 11830
 			}
 		}
 	
 		region_state:AED = {
 			create_pop = {
 				culture = bedouin
-				size = 122194
+				size = 158852
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 28600
+				size = 37180
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 9100
+				size = 11830
 			}
 		}
 	}
@@ -41,41 +41,41 @@
 			create_pop = {
 				culture = bedouin
 				religion = ibadi
-				size = 205400
+				size = 267020
 			}
 			create_pop = {
 				culture = swahili
-				size = 10920
+				size = 14196
 			}
 			create_pop = {
 				culture = baluchi
-				size = 11960
+				size = 15548
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 49400
+				size = 64220
 			}
 			create_pop = {
 				culture = persian
 				religion = shiite
-				size = 5200
+				size = 6760
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 520
+				size = 676
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 9100
+				size = 11830
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 11700
+				size = 15210
 			}
 		}
 	
@@ -83,41 +83,41 @@
 			create_pop = {
 				culture = bedouin
 				religion = ibadi
-				size = 205400
+				size = 267020
 			}
 			create_pop = {
 				culture = swahili
-				size = 10920
+				size = 14196
 			}
 			create_pop = {
 				culture = baluchi
-				size = 11960
+				size = 15548
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 49400
+				size = 64220
 			}
 			create_pop = {
 				culture = persian
 				religion = shiite
-				size = 5200
+				size = 6760
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 520
+				size = 676
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 9100
+				size = 11830
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 11700
+				size = 15210
 			}
 		}
 	}
@@ -126,115 +126,88 @@
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 68770
+				size = 89401
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 4160
+				size = 5408
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				culture = persian
 				religion = shiite
-				size = 2470
+				size = 3211
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 156
+				size = 202
 			}
 		}
 		region_state:OMA = {
 			create_pop = {
 				culture = bedouin
 				religion = ibadi
-				size = 2080
+				size = 2704
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 3640
+				size = 4732
 			}
 			create_pop = {
 				culture = persian
 				religion = shiite
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				culture = baluchi
 				religion = ibadi
-				size = 299
+				size = 388
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 130
+				size = 169
 			}
 		}
 		region_state:BHN = {
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 15600
+				size = 20280
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 12220
+				size = 15886
 			}
 			create_pop = {
 				culture = persian
 				religion = shiite
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 3159
+				size = 4106
 			}
 			create_pop = {
 				culture = bedouin
 				religion = oriental_orthodox
-				size = 351
+				size = 456
 			}
 		}
 	
-		region_state:AED = {
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 68770
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = sudanese
-				religion = animist
-				size = 4160
-			}
-			create_pop = {
-				culture = bedouin
-				religion = shiite
-				size = 2600
-			}
-			create_pop = {
-				culture = persian
-				religion = shiite
-				size = 2470
-			}
-			create_pop = {
-				culture = sephardic
-				religion = jewish
-				size = 156
-			}
-		}
+		
 	}
 	s:STATE_YEMEN = {
 		region_state:ZAI = {
@@ -242,27 +215,27 @@
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 42640
+				size = 55432
 			}
 			create_pop = {
 				culture = yemenite
 				religion = shiite
-				size = 819000
+				size = 1064700
 			}
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 287300
+				size = 373490
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 62400
+				size = 81120
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 20800
+				size = 27040
 			}
 		}
 		region_state:HDJ = {
@@ -270,78 +243,78 @@
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 10660
+				size = 13858
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 21320
+				size = 27716
 			}
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 36400
+				size = 47320
 			}
 			create_pop = {
 				culture = yemenite
 				religion = shiite
-				size = 11700
+				size = 15210
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 2600
+				size = 3380
 			}
 		}
 		region_state:MAH = {
 			create_pop = {
 				culture = bedouin
-				size = 42900
+				size = 55770
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 4160
+				size = 5408
 			}
 		}
 		region_state:KAT = {
 			create_pop = {
 				culture = bedouin
-				size = 50700
+				size = 65910
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 6370
+				size = 8281
 			}
 		}
 		region_state:LAH = {
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 57200
+				size = 74360
 			}
 			create_pop = {
 				culture = yemenite
 				religion = shiite
-				size = 10400
+				size = 13520
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 15600
+				size = 20280
 			}
 			create_pop = {
 				culture = sephardic
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 10530
+				size = 13689
 			}
 		}
 	
@@ -350,27 +323,27 @@
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 42640
+				size = 55432
 			}
 			create_pop = {
 				culture = yemenite
 				religion = shiite
-				size = 819000
+				size = 1064700
 			}
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 287300
+				size = 373490
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 62400
+				size = 81120
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 20800
+				size = 27040
 			}
 		}
 		region_state:AED = {
@@ -378,27 +351,27 @@
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 42640
+				size = 55432
 			}
 			create_pop = {
 				culture = yemenite
 				religion = shiite
-				size = 819000
+				size = 1064700
 			}
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 287300
+				size = 373490
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 62400
+				size = 81120
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 20800
+				size = 27040
 			}
 		}
 	}
@@ -407,33 +380,33 @@
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 184600
+				size = 239980
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
 				religion = animist
-				size = 36400
+				size = 47320
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 3900
+				size = 5070
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 323960
+				size = 421148
 			}
 			create_pop = {
 				culture = yemenite
 				religion = sunni
-				size = 52780
+				size = 68614
 			}
 			create_pop = {
 				culture = sephardic # Najran Jews
 				religion = jewish
-				size = 390
+				size = 507
 			}
 		}
 	}
@@ -441,86 +414,86 @@
 		region_state:JAB = {
 			create_pop = {
 				culture = bedouin
-				size = 50044
+				size = 65057
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 2990
+				size = 3887
 			}
 		}
 		region_state:NEJ = {
 			create_pop = {
 				culture = bedouin
-				size = 40300
+				size = 52390
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 49452
+				size = 64287
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 260
+				size = 338
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 4680
+				size = 6084
 			}
 		}
 	
 		region_state:AED = {
 			create_pop = {
 				culture = bedouin
-				size = 50044
+				size = 65057
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 2990
+				size = 3887
 			}
 		}
 		region_state:Y03 = {
 			create_pop = {
 				culture = bedouin
-				size = 50044
+				size = 65057
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sudanese
-				size = 2990
+				size = 3887
 			}
 		}
 	}
@@ -528,109 +501,73 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 2158
+				size = 2062
 			}
 			create_pop = {
 				culture = greek
-				size = 4932
+				size = 4714
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 33
+				size = 30
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = catholic
-				size = 42
+				size = 39
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 17
+				size = 11
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 150
+				size = 143
 			}
 		}
 	}
 	s:STATE_TRANSJORDAN = {
 		
 	
-		region_state:Y03 = {
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 23920
-			}
-			create_pop = {
-				culture = bedouin
-				religion = orthodox
-				size = 1040
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = sunni
-				size = 17680
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = orthodox
-				size = 6760
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 2080
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 130
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 390
-			}
-		}
+		
 		region_state:TUR = {
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 907
+				size = 866
 			}
 			create_pop = {
 				culture = bedouin
 				religion = orthodox
-				size = 39
+				size = 36
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 670
+				size = 640
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 256
+				size = 244
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 78
+				size = 74
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 4
+				size = 3
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 18
+				size = 16
 			}
 		}
 	}
@@ -641,46 +578,46 @@
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 12231
+				size = 11692
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 394
+				size = 376
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 1262
+				size = 1205
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 2860
+				size = 2734
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 394
+				size = 376
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
-				size = 887
+				size = 847
 			}
 			create_pop = {
 				culture = armenian
-				size = 69
+				size = 65
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 59
+				size = 55
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 118
+				size = 112
 			}
 		}
 	}
@@ -691,141 +628,101 @@
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 4340
+				size = 4148
 			}
 			create_pop = {
 				culture = sephardic
-				size = 11736
+				size = 11218
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = catholic
-				size = 1282
+				size = 1225
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 6313
+				size = 6034
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 1775
+				size = 1696
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 3847
+				size = 3677
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 197
+				size = 188
 			}
 			create_pop = {
 				culture = armenian
-				size = 1956
+				size = 1869
 			}
 			create_pop = {
 				culture = greek
 				religion = orthodox
-				size = 295
+				size = 281
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 98
+				size = 93
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 153
+				size = 145
 			}
 		}
 	}
 	s:STATE_SYRIA = {
 		
 	
-		region_state:Y03 = {
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 32500
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = shiite
-				size = 41600
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = sunni
-				size = 405600
-			}
-			create_pop = {
-				culture = mashriqi
-				religion = orthodox
-				size = 192400
-			}
-			create_pop = {
-				culture = bedouin
-				religion = sunni
-				size = 10660
-			}
-			create_pop = {
-				culture = sephardic
-				size = 10400
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 3900
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = lacustrine_bantu
-				size = 5200
-			}
-		}
+		
 		region_state:TUR = {
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 1233
+				size = 1178
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 1578
+				size = 1508
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 610303
+				size = 583426
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 7299
+				size = 6977
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 16040
+				size = 15333
 			}
 			create_pop = {
 				culture = sephardic
-				size = 15648
+				size = 14958
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 147
+				size = 140
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 201
+				size = 191
 			}
 		}
 	}
@@ -836,60 +733,60 @@
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 336449
+				size = 321632
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 164312
+				size = 157075
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = shiite
-				size = 15648
+				size = 14958
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 62595
+				size = 59838
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = orthodox
-				size = 123234
+				size = 117807
 			}
 			create_pop = {
 				culture = kurdish
 				religion = sunni
-				size = 187785
+				size = 179515
 			}
 			create_pop = {
 				culture = armenian
-				size = 47356
+				size = 45270
 			}
 			create_pop = {
 				culture = turkish
 				religion = sunni
-				size = 140839
+				size = 134636
 			}
 			create_pop = {
 				culture = sephardic
-				size = 355173
+				size = 339531
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 23473
+				size = 22438
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 197
+				size = 188
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 449
+				size = 428
 			}
 		}
 	}
@@ -898,51 +795,51 @@
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 40023
+				size = 38259
 			}
 			create_pop = {
 				culture = mashriqi
-				size = 100921
+				size = 96476
 			}
 			create_pop = {
 				culture = bedouin
-				size = 57215
+				size = 54695
 			}
 			create_pop = {
 				culture = turkish
-				size = 51298
+				size = 49038
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 39112
+				size = 37389
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 13691
+				size = 13087
 			}
 			create_pop = {
 				culture = armenian
-				size = 3452
+				size = 3299
 			}
 			create_pop = {
 				culture = assyrian
-				size = 1825
+				size = 1744
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1576
+				size = 1506
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 9780
+				size = 9349
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 49344
+				size = 47170
 			}
 		}
 	}
@@ -950,44 +847,44 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = kurdish
-				size = 263905
+				size = 252283
 			}
 			create_pop = {
 				culture = assyrian
 				religion = oriental_orthodox
-				size = 67600
+				size = 64623
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 9100
+				size = 8699
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 252584
+				size = 241461
 			}
 			create_pop = {
 				culture = turkish
-				size = 6369
+				size = 6088
 			}
 			create_pop = {
 				culture = bedouin
-				size = 3697
+				size = 3534
 			}
 			create_pop = {
 				culture = sephardic
-				size = 524
+				size = 500
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 4160
+				size = 3976
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 1690
+				size = 1615
 			}
 		}
 	}
@@ -996,30 +893,30 @@
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 187200
+				size = 178956
 			}
 			create_pop = {
 				culture = assyrian
 				religion = oriental_orthodox
-				size = 57194
+				size = 54675
 			}
 			create_pop = {
 				culture = kurdish
-				size = 1442
+				size = 1378
 			}
 			create_pop = {
 				culture = bedouin
-				size = 1625
+				size = 1553
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 390
+				size = 372
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 260
+				size = 248
 			}
 		}
 	}
@@ -1027,88 +924,88 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = mashriqi
-				size = 353600
+				size = 338028
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 17425
+				size = 16657
 			}
 			create_pop = {
 				culture = bedouin
-				size = 439
+				size = 419
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 67605
+				size = 64627
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 2600
+				size = 2485
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 16900
+				size = 16155
 			}
 			create_pop = {
 				culture = sephardic
-				size = 426
+				size = 406
 			}
 			create_pop = {
 				culture = armenian
-				size = 39
+				size = 36
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 260
+				size = 248
 			}
 		}
 	
 		region_state:KUW = {
 			create_pop = {
 				culture = mashriqi
-				size = 353600
+				size = 459680
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 17425
+				size = 22652
 			}
 			create_pop = {
 				culture = bedouin
-				size = 93594
+				size = 121672
 			}
 			create_pop = {
 				culture = bedouin
 				religion = shiite
-				size = 67605
+				size = 87886
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 2600
+				size = 2485
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 16900
+				size = 21970
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1560
+				size = 2028
 			}
 			create_pop = {
 				culture = armenian
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 260
+				size = 338
 			}
 		}
 	}
@@ -1116,30 +1013,30 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 520070
+				size = 676091
 			}
 			create_pop = {
 				culture = turkmen # Qashqai
 				religion = shiite
-				size = 86320
+				size = 112216
 			}
 			create_pop = {
 				culture = luri
-				size = 66619
+				size = 86604
 			}
 			create_pop = { # Shiraz, Bushehr
 				culture = sephardic
-				size = 7183
+				size = 9337
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 3913
+				size = 5086
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 15860
+				size = 20618
 			}
 		}
 	}
@@ -1147,66 +1044,66 @@
 		region_state:PER = {
 			create_pop = {
 				culture = bedouin
-				size = 13351
+				size = 17356
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 7801
+				size = 10141
 			}
 			create_pop = {
 				culture = persian
-				size = 26065
+				size = 33884
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 4160
+				size = 5408
 			}
 		
 
 			create_pop = {
 				culture = persian
-				size = 52130
+				size = 67769
 			}
 			create_pop = {
 				culture = bedouin
 				religion = ibadi
-				size = 10415
+				size = 13539
 			}
 			create_pop = {
 				culture = baluchi
-				size = 6502
+				size = 8452
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 2607
+				size = 3389
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1183
+				size = 1537
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 10660
+				size = 13858
 			}
 		
 
 
 			create_pop = {
 				culture = bedouin
-				size = 6502
+				size = 8452
 			}
 			create_pop = {
 				culture = persian
-				size = 2607
+				size = 3389
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 299
+				size = 388
 			}
 		
 }
@@ -1218,22 +1115,22 @@
 		region_state:OMA = {
 			create_pop = {
 				culture = baluchi
-				size = 6632
+				size = 8621
 			}
 			create_pop = {
 				culture = bedouin
 				religion = ibadi
-				size = 137
+				size = 178
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 130
+				size = 169
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = baluchi
-				size = 276
+				size = 358
 			}
 		}
 		
@@ -1241,49 +1138,49 @@
 		region_state:PER = {
 			create_pop = {
 				culture = baluchi
-				size = 131302
+				size = 118731
 			}
 			create_pop = {
 				culture = persian
-				size = 10406
+				size = 9409
 			}
 			create_pop = {
 				culture = kurdish
-				size = 6505
+				size = 5881
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 6760
+				size = 6112
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = baluchi
-				size = 10660
+				size = 9639
 			}
 		}
 		region_state:AFG = {
 			create_pop = {
 				culture = baluchi
-				size = 131302
+				size = 170692
 			}
 			create_pop = {
 				culture = persian
-				size = 10406
+				size = 13527
 			}
 			create_pop = {
 				culture = kurdish
-				size = 6505
+				size = 8456
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = baluchi
-				size = 10660
+				size = 13858
 			}
 		}
 	}
@@ -1291,41 +1188,41 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 793952
+				size = 1032137
 			}
 			create_pop = {
 				culture = kurdish
-				size = 93615
+				size = 121699
 			}
 			create_pop = {
 				culture = baluchi
-				size = 7959
+				size = 10346
 			}
 			create_pop = {
 				culture = mazanderani
-				size = 2654
+				size = 3450
 			}
 			create_pop = {
 				culture = hazara
-				size = 3901
+				size = 5071
 			}
 			create_pop = {
 				culture = turkmen
-				size = 15654
+				size = 20350
 			}
 			create_pop = { # Mashad
 				culture = sephardic
-				size = 4509
+				size = 5861
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = baluchi
-				size = 260
+				size = 338
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = persian
-				size = 8060
+				size = 10478
 			}
 		}
 	}
@@ -1333,33 +1230,33 @@
 		region_state:ARB = {
 			create_pop = {
 				culture = mashriqi
-				size = 509597
+				size = 662476
 			}
 			create_pop = {
 				culture = persian
-				size = 44332
+				size = 57631
 			}
 			create_pop = {
 				culture = luri
-				size = 26015
+				size = 33819
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 2696
+				size = 3504
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 10660
+				size = 13858
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1112
+				size = 1445
 			}
 			create_pop = {
 				culture = assyrian
-				size = 1632
+				size = 2121
 			}
 		}
 	}
@@ -1367,44 +1264,44 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 533660
+				size = 693758
 			}
 			create_pop = { # Isfahan, Yazd, Kashan
 				culture = sephardic
-				size = 16006
+				size = 20807
 			}
 			create_pop = {
 				culture = luri
-				size = 37869
+				size = 49229
 			}
 			create_pop = {
 				culture = armenian
-				size = 24869
+				size = 32329
 			}
 			create_pop = {
 				culture = georgian
 				religion = shiite
-				size = 9101
+				size = 11831
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 520
+				size = 676
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 8450
+				size = 10985
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 13260
+				size = 17238
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 5460
+				size = 7098
 			}
 		}
 	}
@@ -1412,37 +1309,37 @@
 		region_state:PER = {
 			create_pop = {
 				culture = mazanderani
-				size = 1135243
+				size = 1475815
 			}
 			create_pop = {
 				culture = turkmen
-				size = 76961
+				size = 100049
 			}
 			create_pop = {
 				culture = kurdish
-				size = 6110
+				size = 7943
 			}
 			create_pop = {
 				culture = azerbaijani
-				size = 6500
+				size = 8450
 			}
 			create_pop = {
 				culture = persian
-				size = 95032
+				size = 123541
 			}
 			create_pop = { # Barforush
 				culture = sephardic
-				size = 1898
+				size = 2467
 			}
 			create_pop = {
 				culture = georgian
 				religion = shiite
-				size = 5211
+				size = 6774
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 8060
+				size = 10478
 			}
 		}
 	}
@@ -1450,33 +1347,33 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 1826500
+				size = 2374450
 			}
 			create_pop = {
 				culture = azerbaijani
-				size = 104015
+				size = 135219
 			}
 			create_pop = { # Teheran, Hamadan
 				culture = sephardic
-				size = 11453
+				size = 14888
 			}
 			create_pop = {
 				culture = armenian
-				size = 4095
+				size = 5323
 			}
 			create_pop = {
 				culture = assyrian
-				size = 1743
+				size = 2265
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 6760
+				size = 8788
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 8060
+				size = 10478
 			}
 		}
 	}
@@ -1484,21 +1381,21 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 70590
+				size = 91767
 			}
 			create_pop = {
 				culture = mazanderani
-				size = 5213
+				size = 6776
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 911
+				size = 1184
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 390
+				size = 507
 			}
 		}
 	}
@@ -1506,37 +1403,37 @@
 		region_state:PER = {
 			create_pop = {
 				culture = azerbaijani
-				size = 949520
+				size = 1234376
 			}
 			create_pop = {
 				culture = persian
-				size = 130079
+				size = 169102
 			}
 			create_pop = { # Tabriz
 				culture = sephardic
-				size = 2353
+				size = 3058
 			}
 			create_pop = {
 				culture = luri
-				size = 13015
+				size = 16919
 			}
 			create_pop = {
 				culture = armenian
-				size = 75922
+				size = 98698
 			}
 			create_pop = {
 				culture = mazanderani
-				size = 5460
+				size = 7098
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 1301
+				size = 1691
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 10660
+				size = 13858
 			}
 		}
 	}
@@ -1544,25 +1441,25 @@
 		region_state:PER = {
 			create_pop = {
 				culture = persian
-				size = 265640
+				size = 345332
 			}
 			create_pop = { # Kerman
 				culture = sephardic
-				size = 3796
+				size = 4934
 			}
 			create_pop = {
 				culture = baluchi
-				size = 13039
+				size = 16950
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 5460
+				size = 7098
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = baluchi
-				size = 8060
+				size = 10478
 			}
 		}
 	}
@@ -1570,37 +1467,37 @@
 		region_state:PER = {
 			create_pop = {
 				culture = kurdish
-				size = 201561
+				size = 262029
 			}
 			create_pop = {
 				culture = azerbaijani
-				size = 156130
+				size = 202969
 			}
 			create_pop = { # Urmia
 				culture = sephardic
-				size = 2030
+				size = 2639
 			}
 			create_pop = {
 				culture = armenian
-				size = 15665
+				size = 20364
 			}
 			create_pop = {
 				culture = persian
-				size = 26132
+				size = 33971
 			}
 			create_pop = {
 				culture = assyrian
-				size = 59852
+				size = 77807
 			}
 			create_pop = { # Salamas
 				culture = assyrian
 				religion = catholic
-				size = 2392
+				size = 3109
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 5460
+				size = 7098
 			}
 		}
 	}
@@ -1608,33 +1505,33 @@
 		region_state:PER = {
 			create_pop = {
 				culture = kurdish
-				size = 418680
+				size = 544284
 			}
 			create_pop = {
 				culture = persian
-				size = 58513
+				size = 76066
 			}
 			create_pop = {
 				culture = luri
-				size = 26015
+				size = 33819
 			}
 			create_pop = { # Kermanshah, Sanadaj
 				culture = sephardic
-				size = 6468
+				size = 8408
 			}
 			create_pop = {
 				culture = armenian
-				size = 5083
+				size = 6607
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 4160
+				size = 5408
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 2860
+				size = 3718
 			}
 		}
 	}
@@ -1642,38 +1539,38 @@
 		region_state:PER = {
 			create_pop = {
 				culture = luri
-				size = 299490
+				size = 389337
 			}
 			create_pop = {
 				culture = kurdish
-				size = 26015
+				size = 33819
 			}
 			create_pop = {
 				culture = persian
-				size = 73999
+				size = 96198
 			}
 			create_pop = {
 				culture = armenian
-				size = 650
+				size = 845
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1171
+				size = 1522
 			}
 			create_pop = {
 				culture = circassian
 				religion = shiite
-				size = 5315
+				size = 6909
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = circassian
-				size = 4160
+				size = 5408
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = luri
-				size = 11960
+				size = 15548
 			}
 		}
 	}
@@ -1681,38 +1578,38 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 1090042
+				size = 1042040
 			}
 			create_pop = {
 				culture = sephardic
-				size = 27485
+				size = 26274
 			}
 			create_pop = {
 				culture = armenian
-				size = 65
+				size = 61
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 2074
+				size = 1982
 			}
 			create_pop = {
 				culture = greek
-				size = 30
+				size = 28
 			}
 			create_pop = {
 				culture = greek
 				religion = catholic
-				size = 4148730
+				size = 3966035
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 2600
+				size = 3380
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 3900
+				size = 3728
 			}
 		}
 	}
@@ -1720,42 +1617,42 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 777567
+				size = 743325
 			}
 			create_pop = {
 				culture = armenian
-				size = 19606
+				size = 18742
 			}
 			create_pop = {
 				culture = greek
-				size = 241
+				size = 230
 			}
 			create_pop = {
 				culture = greek
 				religion = catholic
-				size = 12263
+				size = 11722
 			}
 			create_pop = {
 				culture = sephardic
-				size = 20
+				size = 19
 			}
 			create_pop = {
 				culture = bulgarian
-				size = 460
+				size = 439
 			}
 			create_pop = { # "Latins"
 				culture = north_italian
-				size = 7
+				size = 6
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 3120
+				size = 2982
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 7930
+				size = 7580
 			}
 		}
 	}
@@ -1763,33 +1660,33 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 936265
+				size = 895035
 			}
 			create_pop = {
 				culture = kurdish
-				size = 23608
+				size = 22568
 			}
 			create_pop = {
 				culture = armenian
-				size = 658
+				size = 628
 			}
 			create_pop = {
 				culture = sephardic
-				size = 295
+				size = 281
 			}
 			create_pop = {
 				culture = greek
-				size = 4
+				size = 3
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 167030
+				size = 159674
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 1560
+				size = 1491
 			}
 		}
 	}
@@ -1797,25 +1694,25 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 979921
+				size = 936768
 			}
 			create_pop = {
 				culture = greek
-				size = 24708
+				size = 23619
 			}
 			create_pop = {
 				culture = armenian
-				size = 538
+				size = 514
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 13
+				size = 16
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 980
+				size = 936
 			}
 		}
 	}
@@ -1823,41 +1720,41 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = kurdish
-				size = 33892
+				size = 32399
 			}
 			# Alevis, Bektashis, Zazaki and the more heterodox end of Anatolian folk Islam
 			create_pop = {
 				culture = kurdish
-				size = 1783
+				size = 1703
 				religion = shiite
 			}
 			create_pop = {
 				culture = assyrian
 				religion = oriental_orthodox
-				size = 449787
+				size = 429980
 			}
 			create_pop = {
 				culture = turkish
-				size = 961
+				size = 918
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 2503
+				size = 2392
 			}
 			create_pop = {
 				culture = armenian
-				size = 954
+				size = 911
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 7194
+				size = 6877
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 163
+				size = 155
 			}
 		}
 	}
@@ -1866,25 +1763,25 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 39015
+				size = 37296
 			}
 			create_pop = {
 				culture = armenian
-				size = 1960
+				size = 1873
 			}
 			create_pop = {
 				culture = greek
-				size = 195
+				size = 186
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 4
+				size = 3
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 19
+				size = 17
 			}
 		}
 	}
@@ -1892,40 +1789,40 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 882325
+				size = 843470
 			}
 			create_pop = {
 				culture = armenian
-				size = 46803
+				size = 44741
 			}
 			create_pop = { # Hemshin
 				culture = armenian
 				religion = sunni
-				size = 1180
+				size = 1128
 			}
 			create_pop = {
 				culture = greek
-				size = 331
+				size = 316
 			}
 			create_pop = { # Laz
 				culture = georgian
 				religion = sunni
-				size = 4428
+				size = 4232
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 1321
+				size = 1262
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 286
+				size = 272
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = georgian
-				size = 214
+				size = 204
 			}
 		}
 	}
@@ -1933,108 +1830,71 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 196080
+				size = 187445
 			}
 			create_pop = {
 				culture = kurdish
-				size = 216074
+				size = 206558
 			}
 			# Alevis, Bektashis, Zazaki and the more heterodox end of Anatolian folk Islam
 			create_pop = {
 				culture = turkish
-				size = 121178
+				size = 115841
 				religion = shiite
 			}
 			create_pop = {
 				culture = kurdish
-				size = 3055
+				size = 2920
 				religion = shiite
 			}
 			create_pop = {
 				culture = greek
-				size = 6689
+				size = 6393
 			}
 			create_pop = {
 				culture = sephardic
-				size = 500370
+				size = 478335
 			}
 			create_pop = {
 				culture = armenian
-				size = 332540
+				size = 317896
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 8384
+				size = 8014
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 212
+				size = 202
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 24
+				size = 22
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = georgian
-				size = 34
+				size = 32
 			}
 		}
 	}
 	s:STATE_KARS = {
-		region_state:TUR = {
-			create_pop = {
-				culture = turkish
-				size = 2914
-			}
-			create_pop = {
-				culture = georgian
-				religion = sunni
-				size = 1331
-
-			}
-			create_pop = {
-				culture = georgian
-				size = 221
-			}
-			create_pop = {
-				culture = kurdish
-				size = 55748
-			}
-			create_pop = {
-				culture = armenian
-				size = 29341
-			}
-			create_pop = {
-				culture = greek
-				size = 4499
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = north_caucasian
-				size = 113
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = georgian
-				size = 69
-			}
-		}
+		
 		region_state:RUS = {
 			create_pop = {
 				culture = azerbaijani
-				size = 50
+				size = 65
 			}
 			create_pop = {
 				culture = kurdish
-				size = 9100
+				size = 11830
 			}
 			create_pop = {
 				culture = armenian
-				size = 14300
+				size = 18590
 			}
 		}
 	}
@@ -2042,54 +1902,54 @@
 		region_state:TUR = {
 			create_pop = {
 				culture = turkish
-				size = 1124619
+				size = 1075094
 			}
 			create_pop = {
 				culture = kurdish
-				size = 130029
+				size = 124302
 			}
 			# Alevis, Bektashis, Zazaki and the more heterodox end of Anatolian folk Islam
 			create_pop = {
 				culture = turkish
-				size = 443654
+				size = 424117
 				religion = shiite
 			}
 			create_pop = {
 				culture = kurdish
-				size = 31781
+				size = 30381
 				religion = shiite
 			}
 			create_pop = {
 				culture = greek
-				size = 115943
+				size = 110836
 			}
 			create_pop = {
 				culture = armenian
-				size = 8019240
+				size = 7666103
 			}
 			create_pop = {
 				culture = armenian
 				religion = catholic
-				size = 5025
+				size = 4803
 			}
 			create_pop = {
 				culture = sephardic
-				size = 1956
+				size = 1869
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = north_caucasian
-				size = 49
+				size = 46
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 14
+				size = 13
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = georgian
-				size = 19
+				size = 17
 			}
 		}
 	}
