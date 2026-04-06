@@ -4675,21 +4675,27 @@ STATES = {
 	}
 	s:STATE_NORTH_BORNEO = {
 		create_state = {
-			country = c:BRU
-			owned_provinces = {
-				x800170 xE9FB27 x91B40F x0141B0 x278E1E x6D3CF9 xF61121 x905338 x242519 x26DE63 xEF6FBE xFC8025 x9E0616 x1C6623 x8041B0 xC65120 x0F01DC x762FBA xE66512 x002310 x61FE7A xFB18B8 xDD9CFE xF2BC79 x6FEE71 x763646 x965EF0 xC531AE xB689E6 xD0AC5F
-			}
-		}
-		create_state = {
-			country = c:SUL
-			owned_provinces = {
-				x2EE734 xD78953 x3CCBAA xC0B7FD xCED863 x808070 x461E0E
-			}
-		}
-		create_state = {
 			country = c:BLG
 			owned_provinces = {
 				x75D5D2 x821B67
+			}
+		}
+		create_state = {
+			country = c:SRW
+			owned_provinces = {
+				xE9FB27 x91B40F x0141B0 x278E1E x6D3CF9 xF61121 x905338 x242519 x26DE63 xEF6FBE xFC8025 x9E0616 x1C6623 x8041B0 xC65120 x0F01DC x762FBA xE66512 x002310 x61FE7A xFB18B8 xDD9CFE xF2BC79 x6FEE71 x763646 x965EF0 xB689E6
+			}
+		}
+		create_state = {
+			country = c:BRU
+			owned_provinces = {
+				x800170
+			}
+		}
+		create_state = {
+			country = c:NRB
+			owned_provinces = {
+				xD0AC5F x3CCBAA xCED863 x808070 x461E0E xC0B7FD xD78953 x2EE734 xC531AE
 			}
 		}
 		add_homeland = cu:bornean

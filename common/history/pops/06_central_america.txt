@@ -1,128 +1,130 @@
 ﻿POPS = {
 	s:STATE_SAN_SALVADOR = {
-		
-	
 		region_state:ELS = {
 			create_pop = {
 				culture = central_american
-				size = 723664
+				size = 428204
 			}
 		}
 	}
 	s:STATE_GUATEMALA = {
-		
-		region_state:GBR = {
-			create_pop = {
-				culture = afro_caribbean
-				size = 9384
-			}
-			create_pop = {
-				culture = british
-				size = 136
-			}
-		}
-	
 		region_state:GUA = {
 			create_pop = {
 				culture = central_american
-				size = 277842
+				size = 164404
 			}
 			create_pop = {
 				culture = mayan
-				size = 527280
+				size = 312000
+			}
+		}
+		region_state:BLZ = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 7104
+			}
+			create_pop = {
+				culture = british
+				size = 104
 			}
 		}
 	}
 	s:STATE_HONDURAS = {
-		
-	
 		region_state:HON = {
 			create_pop = {
 				culture = central_american
-				size = 650994
+				size = 385204
 			}
 			create_pop = {
 				culture = miskito # Cape of Gracias a Dios Miskito
-				size = 5070
+				size = 3000
 			}
 		}
 	}
 	s:STATE_NICARAGUA = {
-		
-		region_state:MKT = {
-			create_pop = {
-				culture = miskito # Tawira Miskito
-				size = 50700
-			}
-			create_pop = {
-				culture = miskito
-				religion = protestant
-				size = 16900
-			}
-			create_pop = {
-				culture = afro_caribbean # Miskito Sambu
-				size = 33800
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 845
-			}
-			create_pop = {
-				culture = british
-				size = 845
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 1690
-			}
-		}
-	
 		region_state:NIC = {
 			create_pop = {
 				culture = central_american
-				size = 479960
+				size = 284000
 			}
 			create_pop = {
 				culture = miskito # Miskito pop. across the 'borders'
-				size = 6760
+				size = 4000
 			}
 		}
+		# region_state:MKT = {
+		# 	create_pop = {
+		# 		culture = miskito # Tawira Miskito
+		# 		size = 30000
+		# 	}
+		# 	create_pop = {
+		# 		culture = miskito
+		# 		religion = protestant
+		# 		size = 10000
+		# 	}
+		# 	create_pop = {
+		# 		culture = afro_caribbean # Miskito Sambu
+		# 		size = 20000
+		# 	}
+		# 	create_pop = {
+		# 		culture = afro_caribeno
+		# 		size = 500
+		# 	}
+		# 	create_pop = {
+		# 		culture = british
+		# 		size = 500
+		# 	}
+		# 	create_pop = {
+		# 		pop_type = slaves
+		# 		culture = afro_caribeno
+		# 		size = 1000
+		# 	}
+		# }
 	}
 	s:STATE_COSTA_RICA = {
-		
-	
 		region_state:COS = {
 			create_pop = {
 				culture = central_american
-				size = 141945
+				size = 83992
 			}
 		}
 	}
 	s:STATE_PANAMA = {
-		
-	
 		region_state:PNM = {
 			create_pop = {
 				culture = central_american
-				size = 148367
+				size = 87792
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 47827
+				size = 28300
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 6929
+				size = 4100
 			}
 			create_pop = {
 				culture = north_andean
-				size = 6760
+				size = 4000
 			}
 			create_pop = {
 				culture = cariban
-				size = 6760
+				size = 4000
+			}
+		}
+		region_state:USA = {
+			create_pop = {
+				culture = central_american
+				size = 8779
+			} 
+			create_pop = {
+				culture = north_andean
+				size = 400
+			}
+			create_pop = {
+				culture = cariban
+				size = 400
 			}
 		}
 	}
@@ -131,107 +133,105 @@
 		region_state:HAI = {
 			create_pop = { # Includes mulatto population.
 				culture = afro_antillean
-				size = 1404092
+				size = 830824
 			}
 			create_pop = { # A small number of protestants existed in Haiti since the early 19th century.
 				culture = afro_antillean
-				size = 13621
+				size = 8060
 			}
 			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. Black.
 				culture = afro_caribeno
-				size = 22886
+				size = 13543
 			}
 			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. Mulatto.
 				culture = caribeno
-				size = 8652
+				size = 5120
 			}
 			create_pop = { # Spanish speaking population mainly inhabiting the area surrounding Hincha. White.
 				culture = spanish
-				size = 204
+				size = 121
 			}
 			create_pop = { # Polish population centered mainly on Cazale. About 400 Poles stayed behind in Haiti after the war.
 				culture = polish
-				size = 659
+				size = 390
 			}
 			create_pop = { # Remnants of the 1824 migration scheme
 				culture = afro_american
-				size = 357
+				size = 212
 			}
 		}
 	}
 	s:STATE_SANTO_DOMINGO = {
-		
-	
 		region_state:DOM = {
 			create_pop = { # Haitians.
 				culture = afro_antillean
-				size = 6771
+				size = 4007
 			}
 			create_pop = { # Mulatto.
 				culture = caribeno
-				size = 142171
+				size = 84126
 			}
 			create_pop = { # Mulatto.
 				culture = caribeno
 				pop_type = clergymen
-				size = 3380
+				size = 2000
 			}
 			create_pop = { # Mulatto.
 				culture = caribeno
 				pop_type = bureaucrats
-				size = 3380
+				size = 2000
 			}
 			create_pop = { # Mulatto.
 				culture = caribeno
 				pop_type = soldiers
-				size = 16900
+				size = 10000
 			}
 			create_pop = { # Mulatto.
 				culture = caribeno
 				pop_type = clerks
-				size = 4225
+				size = 2500
 			}
 			create_pop = { # A small number of protestants existed in the early 19th century.
 				culture = caribeno
 				religion = protestant
-				size = 1710
+				size = 1013
 			}
 			create_pop = { # Black.
 				culture = afro_caribeno
-				size = 25173
+				size = 14896
 			}
 			create_pop = { # Black.
 				culture = afro_caribeno
 				pop_type = soldiers
-				size = 8450
+				size = 5000
 			}
 			create_pop = { # White.
 				culture = spanish
-				size = 1747
+				size = 1034
 			}
 			create_pop = { # White.
 				culture = spanish
 				pop_type = bureaucrats
-				size = 1690
+				size = 1000
 			}
 			create_pop = { # White.
 				culture = spanish
 				pop_type = aristocrats
-				size = 1183
+				size = 700
 			}
 			create_pop = { # White.
 				culture = spanish
 				pop_type = officers
-				size = 1014
+				size = 600
 			}
 			create_pop = { # White.
 				culture = spanish
 				pop_type = clergymen
-				size = 845
+				size = 500
 			}
 			create_pop = { # Remnants of the 1824 migration scheme. Samaná Americans.
 				culture = afro_american
-				size = 3640
+				size = 2154
 			}
 		}
 	}
@@ -239,20 +239,20 @@
 		region_state:PCO = {
 			create_pop = {
 				culture = caribeno
-				size = 230942
+				size = 136653
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 202983
+				size = 120109
 			}
 			create_pop = {
 				culture = spanish
-				size = 9977
+				size = 5904
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 54082
+				size = 32002
 			}
 		}
 	}
@@ -260,11 +260,11 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 25365
+				size = 16731
 			}
 			create_pop = {
 				culture = afro_caribbean
-				size = 132646
+				size = 87491
 			}
 		}
 	}
@@ -272,35 +272,35 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 25290
+				size = 20456
 			}
 			create_pop = {
 				culture = afro_antillean
-				size = 246216
+				size = 199134
 			}
 		}
 		region_state:DEN = {
 			create_pop = {
 				culture = danish
-				size = 6745
+				size = 3992
 			}
 			create_pop = {
 				culture = afro_caribbean
-				size = 67592
+				size = 39996
 			}
 		}
 		region_state:GBR = {
 			create_pop = {
 				culture = british
-				size = 45849
+				size = 30242
 			}
 			create_pop = {
 				culture = afro_caribbean
-				size = 310170
+				size = 204583
 			}
 			create_pop = {
 				culture = dutch
-				size = 523
+				size = 345
 			}
 		}
 		region_state:NET = {
@@ -308,35 +308,35 @@
 			create_pop = {
 				culture = afro_brazilian # Papiamento-speakers
 				# pop_type = slaves
-				size = 17257
+				size = 7822
 			}
 			create_pop = {
 				culture = afro_brazilian # Papiamento-speakers
-				size = 14046
+				size = 6366
 			}
 			create_pop = {
 				culture = dutch
-				size = 1878
+				size = 851
 			}
 			create_pop = {
 				culture = sephardic
-				size = 2030
+				size = 920
 			}
 		}
 		region_state:VNZ = {
 			# Very rough backwards calculation of Nueva Esparta's population in 1921
 			create_pop = {
 				culture = north_andean
-				size = 28936
+				size = 17123
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 2213
+				size = 1310
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 1709
+				size = 1012
 			}
 		}
 	}
@@ -344,11 +344,11 @@
 		region_state:GBR = {
 			create_pop = {
 				culture = afro_caribbean
-				size = 473767
+				size = 312491
 			}
 			create_pop = {
 				culture = british
-				size = 30440
+				size = 20077
 			}
 		}
 	}
@@ -357,37 +357,37 @@
 			# 896400
 			create_pop = {
 				culture = caribeno
-				size = 269743
+				size = 159612
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 66115
+				size = 39122
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 303414
+				size = 179536
 			}
 			##Adding these for now to help with diversity and migration
 			create_pop = {
 				culture = spanish
-				size = 25350
+				size = 15000
 			}
 			create_pop = {
 				culture = galician
-				size = 10140
+				size = 6000
 			}
 			create_pop = {
 				culture = catalan
-				size = 3380
+				size = 2000
 			}
 			create_pop = { 
 				culture = basque
-				size = 5070
+				size = 3000
 			}
 			create_pop = { #see Cuba, A history, by Hugh Thomas book pg 88, some Chinese were here already, which is probably where the idea of bringing them en masse to work sugar came from 
 				culture = han
-				size = 2028
+				size = 1200
 			}
 		}
 	}
@@ -396,20 +396,20 @@
 			# 896400
 			create_pop = {
 				culture = caribeno
-				size = 132649
+				size = 78491
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 66115
+				size = 39122
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 155103
+				size = 91777
 			}
 			create_pop = {
 				culture = spanish
-				size = 13520
+				size = 8000
 			}
 		}
 	}
@@ -418,20 +418,20 @@
 			# 896400
 			create_pop = {
 				culture = caribeno
-				size = 170040
+				size = 100616
 			}
 			create_pop = {
 				culture = afro_caribeno
-				size = 54255
+				size = 32104
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = afro_caribeno
-				size = 231864
+				size = 137198
 			}
 			create_pop = {
 				culture = spanish
-				size = 20280
+				size = 12000
 			}
 		}
 	}

@@ -1,1614 +1,865 @@
 ﻿# REGARDING BRAZIL: There are several varying estimates for Brazil's population overall in the 1830s. There's no good censuses for 1836 specifically, and provincial censuses are all over the place in terms of quality and distance in time from 1836. Everything will be drawn from estimates of estimates and probably have some issues with accuracy. I can do nothing but apologize, and encourage students of history to go forth and write a book I can steal data from in the future.
 
 POPS = {
-	s:STATE_ECUADOR = {
-		region_state:ECU = {
-			create_pop = {
-				culture = north_andean
-				size = 561249
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 122694
-			}
-			create_pop = {
-				culture = quechua
-				size = 722636
-			}
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 142684
-			}
-		}
-	}
-	s:STATE_GUAYANA = {
-		region_state:NET = {
-			create_pop = {
-				culture = afro_caribbean
-				religion = animist
-				size = 60840
-			}
-			create_pop = {
-				culture = dutch
-				size = 1067
-			}
-			create_pop = {
-				culture = amazonian
-				size = 13174
-			}
-			create_pop = {
-				culture = afro_caribbean
-				size = 20280
-			}
-		}
-		region_state:FRA = {
-			create_pop = {
-				culture = french
-				size = 1810
-			}
-			create_pop = {
-				culture = amazonian
-				size = 4556
-			}
-			create_pop = {
-				culture = afro_antillean
-				size = 16407
-			}
-		}
-		region_state:GBR = {
-			create_pop = {
-				culture = afro_caribbean
-				size = 121546
-			}
-			create_pop = {
-				culture = british
-				size = 4738
-			}
-			create_pop = {
-				culture = amazonian
-				size = 10568
-			}
-		}
-	}
-	s:STATE_ZULIA = {
-		region_state:VNZ = {
-			create_pop = {
-				culture = north_andean
-				size = 550277
-			}
-			create_pop = {
-				culture = cariban
-				religion = catholic
-				size = 6766
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 122018
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 42757
-			}
-			create_pop = {
-				culture = guajiro
-				size = 6766
-			}
-
-		}
-	
-		region_state:CLM = {
-			create_pop = {
-				culture = north_andean
-				size = 550277
-			}
-			create_pop = {
-				culture = cariban
-				religion = catholic
-				size = 6766
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 122018
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 42757
-			}
-			create_pop = {
-				culture = guajiro
-				size = 6766
-			}
-
-		}
-	}
-	s:STATE_MIRANDA = {
-		region_state:VNZ = {
-			create_pop = {
-				culture = north_andean
-				size = 451074
-			}
-			create_pop = {
-				culture = cariban
-				religion = catholic
-				size = 13526
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 101751
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 40566
-			}
-		
-
-			create_pop = {
-				culture = north_andean
-				size = 451074
-			}
-			create_pop = {
-				culture = cariban
-				religion = catholic
-				size = 13526
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 101751
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 40566
-			}
-		
-}
-	
-		
-	}
-	s:STATE_BOLIVAR = {
-		region_state:VNZ = {
-			create_pop = {
-				culture = north_andean
-				size = 244021
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 35726
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 7824
-			}
-			create_pop = {
-				culture = amazonian
-				size = 47320
-			}
-		
-
-			create_pop = {
-				culture = north_andean
-				size = 244021
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 35726
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 7824
-			}
-			create_pop = {
-				culture = amazonian
-				size = 47320
-			}
-		
-}
-	
-		
-	}
-	s:STATE_ANTIOQUIA = {
-		region_state:CLM = {
-			create_pop = {
-				culture = north_andean
-				size = 455968
-			}
-			create_pop = {
-				culture = guajiro
-				size = 20280
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 273786
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 104780
-			}
-			create_pop = {
-				culture = muisca
-				religion = catholic
-				size = 54086
-			}
-		
-
-			create_pop = {
-				culture = north_andean
-				size = 455968
-			}
-			create_pop = {
-				culture = guajiro
-				size = 20280
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 273786
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 104780
-			}
-			create_pop = {
-				culture = muisca
-				religion = catholic
-				size = 54086
-			}
-		
-}
-	
-		
-	}
-	s:STATE_GUAVIARE = {
-		region_state:CLM = {
-			create_pop = {
-				culture = amazonian
-				size = 148720
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 16892
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 4056
-			}
-			create_pop = {
-				culture = north_andean
-				size = 47312
-			}
-		
-
-			create_pop = {
-				culture = amazonian
-				size = 148720
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 16892
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 4056
-			}
-			create_pop = {
-				culture = north_andean
-				size = 47312
-			}
-		
-
-
-			create_pop = {
-				culture = amazonian
-				size = 148720
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 16892
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 4056
-			}
-			create_pop = {
-				culture = north_andean
-				size = 47312
-			}
-		
-}
-	
-		
-		
-	}
-	s:STATE_CUNDINAMARCA = {
-		region_state:CLM = {
-			create_pop = {
-				culture = north_andean
-				size = 783138
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 28730
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 5070
-			}
-			create_pop = {
-				culture = muisca
-				religion = catholic
-				size = 74704
-			}
-		
-
-			create_pop = {
-				culture = north_andean
-				size = 783138
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 28730
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 5070
-			}
-			create_pop = {
-				culture = muisca
-				religion = catholic
-				size = 74704
-			}
-		
-}
-	
-		
-	}
-	s:STATE_CAUCA = {
-		region_state:CLM = {
-			create_pop = {
-				culture = north_andean
-				size = 277836
-			}
-			create_pop = {
-				culture = muisca
-				size = 20280
-			}
-			create_pop = {
-				culture = quechua
-				size = 114920
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 54080
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 13520
-			}
-		}
-	}
-	s:STATE_PASTAZA = {
-		
-		region_state:ECU = {
-			create_pop = {
-				culture = amazonian
-				size = 54080
-			}
-			create_pop = {
-				culture = south_andean
-				size = 2873
-			}
-			create_pop = {
-				culture = quechua
-				size = 5408
-			}
-		
-
-			create_pop = {
-				culture = amazonian
-				size = 67600
-			}
-			create_pop = {
-				culture = south_andean
-				size = 20272
-			}
-			create_pop = {
-				culture = quechua
-				size = 6766
-			}
-		
-}
-	
-		region_state:PEU = {
-			create_pop = {
-				culture = amazonian
-				size = 67600
-			}
-			create_pop = {
-				culture = south_andean
-				size = 20272
-			}
-			create_pop = {
-				culture = quechua
-				size = 6766
-			}
-		}
-		
-	}
-	s:STATE_TARAPACA = {
-		
-	
-		region_state:PEU = {
-			create_pop = {
-				culture = south_andean
-				size = 20280
-			}
-			create_pop = {
-				culture = aimara
-				size = 65065
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 2028
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 507
-			}
-		}
-	}
-	s:STATE_ANTOFAGASTA = {
-		
-	
-		
-	
-		region_state:BOL = {
-			create_pop = {
-				culture = south_andean
-				size = 130319
-			}
-			create_pop = {
-				culture = aimara
-				size = 190169
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 1777
-			}
-			create_pop = {
-				culture = quechua
-				size = 10072
-			}
-		
-
-			create_pop = {
-				culture = south_andean
-				size = 74352
-			}
-			create_pop = {
-				culture = aimara
-				size = 108498
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 1014
-			}
-			create_pop = {
-				culture = quechua
-				size = 5746
-			}
-		
-}
-	}
-	s:STATE_SANTA_CRUZ = {
-		region_state:BOL = {
-			create_pop = {
-				culture = south_andean
-				size = 47658
-			}
-			create_pop = {
-				culture = amazonian
-				size = 13520
-			}
-			create_pop = {
-				culture = quechua
-				size = 173732
-			}
-			create_pop = {
-				culture = guarani
-				size = 54080
-			}
-		}
-	}
-	s:STATE_LA_PAZ = {
-		region_state:BOL = {
-			create_pop = {
-				culture = south_andean
-				size = 373137
-			}
-			create_pop = {
-				culture = quechua
-				size = 537420
-			}
-			create_pop = {
-				culture = aimara
-				size = 452926
-			}
-			create_pop = {
-				culture = amazonian
-				size = 79430
-			}
-			create_pop = {
-				culture = afro_caribeno	# Yungas Afro-Bolivians
-				size = 5408
-			}
-		
-
-			create_pop = {
-				culture = south_andean
-				size = 373137
-			}
-			create_pop = {
-				culture = quechua
-				size = 537420
-			}
-			create_pop = {
-				culture = aimara
-				size = 452926
-			}
-			create_pop = {
-				culture = amazonian
-				size = 79430
-			}
-			create_pop = {
-				culture = afro_caribeno	# Yungas Afro-Bolivians
-				size = 5408
-			}
-		
-}
-	
-		
-	}
-	s:STATE_POTOSI = {
-		region_state:BOL = {
-			create_pop = {
-				culture = south_andean
-				size = 40560
-			}
-			create_pop = {
-				culture = aimara
-				size = 206172
-			}
-			create_pop = {
-				culture = quechua
-				size = 23660
-			}
-		}
-	}
-	s:STATE_CAJAMARCA = {
-		
-	
-		region_state:PEU = {
-			create_pop = {
-				culture = south_andean
-				size = 155148
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 20280
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 6760
-			}
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				culture = quechua
-				size = 315515
-			}
-		}
-	}
-	s:STATE_LIMA = {
-		
-	
-		
-		region_state:PEU = {
-			create_pop = {
-				culture = south_andean
-				size = 419120
-			}
-			create_pop = {
-				culture = quechua
-				size = 358280
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 37011
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 10478
-			}
-			create_pop = {
-				culture = amazonian
-				size = 27040
-			}
-		
-
-			create_pop = {
-				culture = south_andean
-				size = 419120
-			}
-			create_pop = {
-				culture = quechua
-				size = 358280
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 37011
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 10478
-			}
-			create_pop = {
-				culture = amazonian
-				size = 27040
-			}
-		
-
-
-			create_pop = {
-				culture = south_andean
-				size = 419120
-			}
-			create_pop = {
-				culture = quechua
-				size = 358280
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 37011
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 10478
-			}
-			create_pop = {
-				culture = amazonian
-				size = 27040
-			}
-		
-}
-		
-	}
-	s:STATE_ICA = {
-		
-		region_state:IQU = {
-			create_pop = {
-				culture = quechua
-				size = 92950
-			}
-		}
-	
-		region_state:PEU = {
-			create_pop = {
-				culture = south_andean
-				size = 157007
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 5661
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 1098
-			}
-			create_pop = {
-				culture = quechua
-				size = 410338
-			}
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-		
-
-			create_pop = {
-				culture = south_andean
-				size = 157007
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 5661
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 1098
-			}
-			create_pop = {
-				culture = quechua
-				size = 410338
-			}
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-		
-}
-		
-		
-	}
-	s:STATE_AREQUIPA = {
-		
-	
-		region_state:PEU = {
-			create_pop = {
-				culture = south_andean
-				size = 81120
-			}
-			create_pop = {
-				culture = aimara
-				size = 135876
-			}
-			create_pop = {
-				culture = quechua
-				size = 247585
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 3380
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 845
-			}
-		}
-	}
-	s:STATE_URUGUAY = {
-		region_state:URU = {
-			create_pop = {
-				culture = platinean
-				size = 160873
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 33792
-			}
-			create_pop = {
-				culture = brazilian
-				size = 27040
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 14665
-			}
-		}
-	}
-	s:STATE_JUJUY = {
-		
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 41397
-			}
-			create_pop = {
-				culture = quechua
-				size = 3701
-			}
-		
-
-			create_pop = {
-				culture = south_andean
-				size = 6760
-			}
-			create_pop = {
-				culture = quechua
-				size = 86190
-			}
-			create_pop = {
-				culture = platinean
-				size = 6760
-			}
-		
-}
-
-	
-		
-	}
-	s:STATE_ALTO_PARAGUAY = {
-		region_state:PRG = {
-			create_pop = {
-				culture = guarani
-				size = 18590
-			}
-			create_pop = {
-				culture = platinean
-				size = 1740
-			}
-		
-
-			create_pop = {
-				culture = guarani
-				size = 18590
-			}
-			create_pop = {
-				culture = platinean
-				size = 1740
-			}
-		
-}
-	
-		
-	}
-	# Population estaimates comes from a mix of estimates by Rengger and Longcharaps and the Paraguayan census of 1839-40.
-	s:STATE_BAJO_PARAGUAY = {
-		region_state:PRG = {
-			create_pop = { # Creoles + Mixed (~3/4)
-				culture = platinean
-				size = 212540
-			}
-			create_pop = {
-				culture = spanish
-				size = 1363
-			}
-			create_pop = { # Creoles (~1/4)
-				culture = guarani
-				religion = catholic
-				size = 82113
-			}
-			create_pop = { # Indians
-				culture = guarani
-				religion = catholic
-				size = 37264
-			}
-			create_pop = { # Black (enslaved)
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 19965
-			}
-			create_pop = { # Black (free)
-				culture = afro_caribeno
-				size = 28477
-			}
-			create_pop = { # Indians (non census)
-				culture = guarani
-				size = 40579
-			}
-		}
-	}
-	s:STATE_BUENOS_AIRES = {
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 695124
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 69982
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 44411
-			}
-			create_pop = {
-				culture = patagonian
-				size = 6731
-			}
-		}
-		
-	}
-	s:STATE_PATAGONIA = {
-		region_state:THL = {
-			create_pop = {
-				culture = patagonian
-				size = 42419
-			}
-		}
-		
-	
-		region_state:Y02 = {
-			create_pop = {
-				culture = patagonian
-				size = 42419
-			}
-		}
-		region_state:SLK = {
-			create_pop = {
-				culture = patagonian
-				size = 42419
-			}
-		}
-	
-		region_state:ARG = {
-			create_pop = {
-				culture = patagonian
-				size = 42419
-			}
-		}
-	}
-	s:STATE_RIO_NEGRO = {
-		region_state:ARG = {
-			create_pop = {
-				culture = patagonian
-				size = 23147
-			}
-			create_pop = {
-				culture = platinean
-				size = 20507
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 335
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 68
-			}
-		}
-		
-	}
-	s:STATE_LA_PAMPA = {
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 537459
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 672
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 201
-			}
-			create_pop = {
-				culture = patagonian
-				size = 53835
-			}
-		
-
-			create_pop = {
-				culture = platinean
-				size = 269960
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 338
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 101
-			}
-			create_pop = {
-				culture = patagonian
-				size = 27040
-			}
-		
-}
-	
-		
-	}
-	s:STATE_SANTA_FE = {
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 318484
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 3027
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 1514
-			}
-		
-
-			create_pop = {
-				culture = guarani
-				size = 13520
-			}
-		
-}
-		
-	}
-	s:STATE_CORRIENTES = {
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 341376
-			}
-			create_pop = {
-				culture = brazilian
-				size = 53846
-			}
-			create_pop = {
-				culture = guarani
-				size = 121109
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 7065
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 2121
-			}
-		}
-	}
-	s:STATE_TUCUMAN = {
-		region_state:ARG = {
-			create_pop = {
-				culture = platinean
-				size = 255975
-			}
-			create_pop = {
-				culture = afro_caribeno
-				size = 841
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_caribeno
-				size = 269
-			}
-			create_pop = {
-				culture = quechua
-				size = 8749
-			}
-		}
-	}
-	s:STATE_CHACO = {
-		region_state:ARG = {
-			create_pop = {
-				culture = guarani
-				size = 15210
-			}
-			create_pop = {
-				culture = quechua # Santiagueño Quechua
-				size = 676
-			}
-		}
-		
-	}
-	s:STATE_SANTIAGO = {
-		region_state:CHL = {
-			create_pop = {
-				culture = south_andean
-				size = 1942005
-			}
-			create_pop = {
-				culture = afro_caribeno	# Afro Chileans
-				size = 3555
-			}
-		}
-	}
-	s:STATE_LOS_RIOS = {
-		region_state:CHL = {
-			create_pop = {
-				culture = south_andean
-				size = 606919
-			}
-			create_pop = {
-				culture = patagonian
-				size = 142183
-			}
-		}
-	}
-	s:STATE_ARAUCANIA = {
-		
-		
-		region_state:SLK = {
-			create_pop = {
-				culture = patagonian
-				size = 20280
-			}
-		}
-	
-		
-	
-		region_state:CHL = {
-			create_pop = {
-				culture = patagonian
-				size = 20280
-			}
-		}
-	}
-	s:STATE_SOUTH_ATLANTIC_ISLANDS = {
-		region_state:GBR = {
-			create_pop = {
-				culture = british
-				size = 19208
-			}
-		}
-	}
-	s:STATE_ACRE={
-		
-	
-		region_state:BRZ = { # sources indicate existence of small numbers of both peruvians and brazilians
-			create_pop = {
-				culture = amazonian
-				size = 27209
-			}
-			create_pop = {
-				culture = south_andean
-				size = 270
-			}
-			create_pop = {
-				culture = amazonic
-				size = 152
-			}
-		}
-	}
-	s:STATE_AMAZONAS = {
-		region_state:BRZ = {
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				culture = north_andean
-				size = 354
-			}
-		
-
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				culture = north_andean
-				size = 354
-			}
-		
-}
-		
-		
-	
-		
-	
-		region_state:AMZ = {
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				culture = north_andean
-				size = 354
-			}
-		
-
-			create_pop = {
-				culture = amazonian
-				size = 20280
-			}
-			create_pop = {
-				culture = north_andean
-				size = 354
-			}
-		
-}
-	}
-	s:STATE_MATO_GROSSO = {
-		
-		region_state:BRZ = {
-			create_pop = {
-				culture = paulista
-				size = 2362 # 1828 census
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 5588 # 1828 census
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 8576 # 1828 census
-			}
-			create_pop = {
-				culture = guarani
-				size = 16565
-			}
-			create_pop = {
-				culture = amazonian
-				size = 24302
-			}
-		}
-		
-	
-		region_state:AMZ = {
-			create_pop = {
-				culture = guarani
-				size = 33800
-			}
-			create_pop = {
-				culture = guarani
-				religion = catholic
-				size = 11323
-			}
-			create_pop = {
-				culture = platinean
-				size = 6760
-			}
-		}
-	}
-	s:STATE_RIO_GRANDE_DO_SUL = {
-		
-	
-		region_state:BRZ = {
-			create_pop = {
-				culture = sulista
-				size = 64435
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 23290
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 2255
-			}
-			create_pop = {
-				culture = guarani
-				size = 22092
-			}
-		}
-	}
-	s:STATE_PARANA = { # Parana, 1830. 36566 total.
-		region_state:BRZ = {
-			create_pop = {
-				culture = paulista
-				size = 5643
-			}
-			create_pop = {
-				culture = sulista
-				size = 5643
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 3381
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 5523
-			}
-		}
-	}
-	s:STATE_SANTA_CATARINA = { # 1836 estimate. 61753 total.
-		region_state:BRZ = {
-			create_pop = {
-				culture = sulista
-				size = 19648
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 7185
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 7268
-			}
-		}
-	}
-	s:STATE_SAO_PAULO = {
-		region_state:BRZ = {
-			create_pop = {
-				culture = paulista
-				size = 95472 # 1836 census
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 48007 # 1836 census
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 36593 # 1836 census
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 4420
-			}
-		}
-	}
-	s:STATE_MINAS_GERAIS = {
-		region_state:BRZ = {
-			create_pop = {
-				culture = brazilian
-				size = 202842
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 100122
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 100124
-			}
-		}
-	}
-	s:STATE_RIO_DE_JANEIRO = {
-		# Rio de Janeiro not including city, 1840: 	401577
-		# City of Rio de Janeiro, 1799+1872 avg:	158669
-		# Espirito Santo, 1839: 					22562
-		# total:									582808
-		region_state:BRZ = {
-			create_pop = {
-				culture = brazilian
-				size = 113426
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 146429
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 61999
-			}
-		}
-	}
-	s:STATE_BAHIA = {
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 185279
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 81325
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 137365
-			}
-		}
-	}
-	s:STATE_RIO_GRANDE_DO_NORTE = { # Rio Grande do Norte, 1835 estimate. Total population of 87948.
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 16512
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 2730
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 5655
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 23670
-			}
-		}
-	}
-	s:STATE_CEARA = { # Ceara, 1835 estimate. Total population of 211451
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 3853515
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 110433
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 1402805
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 6310616
-			}
-		}
-	}
-	s:STATE_PIAUI = { # Piaui, 1835 estimate. Total population of 94932.
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 9523
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 897
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 7043
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 10934
-			}
-		}
-	}
-	s:STATE_PERNAMBUCO = { # Pernambuco proper (1829) + Alagoas (1849), Sergipe (1849) (estimate from average of 1811 and 1872 censii)
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 56518
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 50564
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 49303
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 96957
-			}
-		}
-	}
-	s:STATE_PARAIBA = { # Paraiba, 1835 estimate. Total population of 135764.
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 76242
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 12581
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 6568
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 18322
-			}
-		}
-	}
-	s:STATE_MARANHAO = {
-		region_state:BRZ = {
-			create_pop = {
-				culture = amazonic
-				size = 71984
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 12326
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 11150
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 18275
-			}
-		}
-	}
-	s:STATE_GOIAS = { # total ballpark figure: 73918
-		region_state:BRZ = {
-			create_pop = {
-				culture = nordestino
-				size = 37046
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 3100 # 1825 estimate
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 3621
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 65731
-			}
-		}
-	}
-	s:STATE_PARA = { # historical total sum is 143573
-
-		
-	
-		region_state:AMZ = {
-			create_pop = {
-				culture = amazonic
-				size = 188091
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 111095
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 131214
-			}
-			create_pop = {
-				culture = amazonian
-				size = 74022
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 6160
-			}
-			create_pop = {
-				culture = french
-				size = 702
-			}
-		}
-		region_state:BRZ = {
-			create_pop = {
-				culture = amazonic
-				size = 188091
-			}
-			create_pop = {
-				pop_type = slaves
-				culture = afro_brazilian
-				size = 19666
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 131214
-			}
-			create_pop = {
-				culture = amazonian
-				size = 74022
-			}
-			create_pop = {
-				culture = tupinamba
-				size = 6160
-			}
-			create_pop = {
-				culture = french
-				size = 702
-			}
-		}
-	}
+ 	s:STATE_ECUADOR = { 
+ 		region_state:ECU = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 332216
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 157103
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 427886
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 11984
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 24
+ 			}
+ 		}
+ 	}
+ 	s:STATE_GUAYANA = { 
+ 		region_state:NET = { 
+ 			create_pop = {
+ 				culture = afro_caribbean
+ 				size = 9266
+ 			}
+ 			create_pop = {
+ 				culture = dutch
+ 				size = 484
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribbean
+ 				religion = animist
+ 				size = 27507
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 5955
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = protestant
+ 				size = 9
+ 			}
+ 		}
+ 		region_state:FRA = { 
+ 			create_pop = {
+ 				culture = french
+ 				size = 1466
+ 			}
+ 			create_pop = {
+ 				culture = afro_antillean
+ 				size = 13269
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 3656
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 27
+ 			}
+ 		}
+ 		region_state:GBR = { 
+ 			create_pop = {
+ 				culture = british
+ 				size = 3339
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribbean
+ 				size = 80368
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 6951
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = protestant
+ 				size = 16
+ 			}
+ 			create_pop = {
+ 				culture = british
+ 				religion = catholic
+ 				size = 1
+ 			}
+ 			create_pop = {
+ 				culture = australian
+ 				size = 20
+ 			}
+ 			create_pop = {
+ 				culture = anglo_canadian
+ 				size = 4
+ 			}
+ 			create_pop = {
+ 				culture = scottish
+ 				size = 40
+ 			}
+ 			create_pop = {
+ 				culture = scottish
+ 				religion = catholic
+ 				size = 1
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ZULIA = { 
+ 		region_state:VNZ = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 825671
+ 			}
+ 			create_pop = {
+ 				culture = cariban
+ 				religion = catholic
+ 				size = 4004
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 97500
+ 			}
+ 			create_pop = {
+ 				culture = guajiro
+ 				size = 4004
+ 			}
+ 		}
+ 		region_state:NET = { 
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 7469
+ 			}
+ 		}
+ 	}
+ 	s:STATE_MIRANDA = { 
+ 		region_state:VNZ = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 766991
+ 			}
+ 			create_pop = {
+ 				culture = cariban
+ 				religion = catholic
+ 				size = 8008
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 84248
+ 			}
+ 		}
+ 	}
+ 	s:STATE_BOLIVAR = { 
+ 		region_state:VNZ = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 644463
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 27958
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 56
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 25778
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ANTIOQUIA = { 
+ 		region_state:CLM = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 1020131
+ 			}
+ 			create_pop = {
+ 				culture = guajiro
+ 				size = 12009
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 224142
+ 			}
+ 			create_pop = {
+ 				culture = muisca
+ 				religion = catholic
+ 				size = 32030
+ 			}
+ 		}
+ 	}
+ 	s:STATE_GUAVIARE = { 
+ 		region_state:CLM = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 777992
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 12396
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 88000
+ 			}
+ 		}
+ 	}
+ 	s:STATE_CUNDINAMARCA = { 
+ 		region_state:CLM = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 1213589
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 20010
+ 			}
+ 			create_pop = {
+ 				culture = muisca
+ 				religion = catholic
+ 				size = 44233
+ 			}
+ 		}
+ 	}
+ 	s:STATE_CAUCA = { 
+ 		region_state:CLM = { 
+ 			create_pop = {
+ 				culture = north_andean
+ 				size = 914556
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 68057
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 40037
+ 			}
+ 			create_pop = {
+ 				culture = muisca
+ 				religion = catholic
+ 				size = 24
+ 			}
+ 			create_pop = {
+ 				culture = muisca
+ 				size = 11989
+ 			}
+ 		}
+ 	}
+ 	s:STATE_PASTAZA = { 
+ 		region_state:PEU = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 13718
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 7213
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 71952
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 144
+ 			}
+ 		}
+ 	}
+ 	s:STATE_TARAPACA = { 
+ 		region_state:CHL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 11996
+ 			}
+ 			create_pop = {
+ 				culture = aimara
+ 				size = 38500
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 1498
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ANTOFAGASTA = { 
+ 		region_state:CHL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 44033
+ 			}
+ 			create_pop = {
+ 				culture = aimara
+ 				size = 64070
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 3396
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 585
+ 			}
+ 		}
+ 	}
+ 	s:STATE_SANTA_CRUZ = { 
+ 		region_state:BOL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 28200
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 102850
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 7997
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 31981
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 16
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				religion = catholic
+ 				size = 73
+ 			}
+ 		}
+ 	}
+ 	s:STATE_LA_PAZ = { 
+ 		region_state:BOL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 221032
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 320850
+ 			}
+ 			create_pop = {
+ 				culture = aimara
+ 				size = 268185
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 3201
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 47936
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 96
+ 			}
+ 		}
+ 	}
+ 	s:STATE_POTOSI = { 
+ 		region_state:BOL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 23869
+ 			}
+ 			create_pop = {
+ 				culture = aimara
+ 				size = 121869
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 14008
+ 			}
+ 		}
+ 	}
+ 	s:STATE_CAJAMARCA = { 
+ 		region_state:PEU = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 91865
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 186807
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 15986
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 11984
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 24
+ 			}
+ 		}
+ 	}
+ 	s:STATE_LIMA = { 
+ 		region_state:PEU = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 248085
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 212000
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 28100
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 16000
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ICA = { 
+ 		region_state:PEU = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 92928
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 302800
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 4003
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 24
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 11984
+ 			}
+ 		}
+ 	}
+ 	s:STATE_AREQUIPA = { 
+ 		region_state:PEU = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 48032
+ 			}
+ 			create_pop = {
+ 				culture = aimara
+ 				size = 80380
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 146598
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 2501
+ 			}
+ 		}
+ 	}
+ 	s:STATE_URUGUAY = { 
+ 		region_state:URU = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 95346
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 28686
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 16000
+ 			}
+ 		}
+ 	}
+ 	s:STATE_JUJUY = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 4000
+ 			}
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 383244
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 51100
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ALTO_PARAGUAY = { 
+ 		region_state:PRG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 1032
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 11000
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				religion = catholic
+ 				size = 22
+ 			}
+ 		}
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 351032
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 10995
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				religion = catholic
+ 				size = 22
+ 			}
+ 		}
+ 	}
+ 	s:STATE_BAJO_PARAGUAY = { 
+ 		region_state:PRG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 308454
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				religion = catholic
+ 				size = 282240
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 32560
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 24000
+ 			}
+ 		}
+ 	}
+ 	s:STATE_BUENOS_AIRES = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 456917
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 34050
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 10
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 3
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 1994
+ 			}
+ 		}
+ 	}
+ 	s:STATE_PATAGONIA = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 358096
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 5
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 56213
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 113
+ 			}
+ 		}
+ 	}
+ 	s:STATE_RIO_NEGRO = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 356183
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 4
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 120
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 6882
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 14
+ 			}
+ 		}
+ 	}
+ 	s:STATE_LA_PAMPA = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 410096
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 15997
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 4
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 260
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 32
+ 			}
+ 		}
+ 	}
+ 	s:STATE_SANTA_FE = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 444740
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 1353
+ 			}
+ 		}
+ 	}
+ 	s:STATE_CORRIENTES = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 451557
+ 			}
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 16014
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 2733
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 35964
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				religion = catholic
+ 				size = 73
+ 			}
+ 		}
+ 	}
+ 	s:STATE_TUCUMAN = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 426041
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 332
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 2600
+ 			}
+ 		}
+ 	}
+ 	s:STATE_CHACO = { 
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 384783
+ 			}
+ 			create_pop = {
+ 				culture = quechua
+ 				size = 1200
+ 			}
+ 			create_pop = {
+ 				culture = guarani
+ 				size = 1500
+ 			}
+ 		}
+ 	}
+ 	s:STATE_SANTIAGO = { 
+ 		region_state:CHL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 655842
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 1188
+ 			}
+ 		}
+ 	}
+ 	s:STATE_LOS_RIOS = { 
+ 		region_state:CHL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 204915
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 47927
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 84
+ 			}
+ 		}
+ 	}
+ 	s:STATE_ARAUCANIA = { 
+ 		region_state:CHL = { 
+ 			create_pop = {
+ 				culture = south_andean
+ 				size = 52172
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 3181
+ 			}
+ 			create_pop = {
+ 				culture = patagonian
+ 				religion = catholic
+ 				size = 20
+ 			}
+ 			create_pop = {
+ 				culture = afro_caribeno
+ 				size = 9
+ 			}
+ 		}
+ 		region_state:ARG = { 
+ 			create_pop = {
+ 				culture = patagonian
+ 				size = 40167
+ 			}
+ 			create_pop = {
+ 				culture = platinean
+ 				size = 750000
+ 			}
+ 		}
+ 	}
+ 	s:STATE_SOUTH_ATLANTIC_ISLANDS = { 
+ 		region_state:GBR = { 
+ 			create_pop = {
+ 				culture = british
+ 				size = 12943
+ 			}
+ 			create_pop = {
+ 				culture = british
+ 				religion = catholic
+ 				size = 3
+ 			}
+ 			create_pop = {
+ 				culture = australian
+ 				size = 20
+ 			}
+ 			create_pop = {
+ 				culture = british
+ 				religion = theravada
+ 				size = 0
+ 			}
+ 			create_pop = {
+ 				culture = anglo_canadian
+ 				size = 4
+ 			}
+ 			create_pop = {
+ 				culture = scottish
+ 				size = 40
+ 			}
+ 			create_pop = {
+ 				culture = scottish
+ 				religion = catholic
+ 				size = 1
+ 			}
+ 			create_pop = {
+ 				culture = british
+ 				religion = jewish
+ 				size = 1
+ 			}
+ 		}
+ 	}
+ 	s:STATE_PARA = { 
+ 		region_state:BRZ = { 
+ 			create_pop = {
+ 				culture = brazilian
+ 				size = 56338
+ 			}
+ 			create_pop = {
+ 				culture = french
+ 				size = 205
+ 			}
+ 			create_pop = {
+ 				culture = afro_brazilian
+ 				size = 72554
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				size = 22121
+ 			}
+ 			create_pop = {
+ 				culture = tupinamba
+ 				size = 1840
+ 			}
+ 			create_pop = {
+ 				culture = amazonian
+ 				religion = catholic
+ 				size = 44
+ 			}
+ 			create_pop = {
+ 				culture = tupinamba
+ 				religion = catholic
+ 				size = 5
+ 			}
+ 		}
+ 	}
 }
