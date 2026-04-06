@@ -1,131 +1,225 @@
 ﻿POPS = {
  	s:STATE_NEW_SOUTH_WALES = { 
- 		region_state:AST = { 
+ 		
+ 	
+		region_state:NSW = { 
  			create_pop = { 
  				culture = australian
- 				size = 1000000
+ 				size = 1300000
  			}
  			create_pop = { 
  				culture = irish
- 				size = 16026
+ 				size = 20833
  			}
  			create_pop = { 
  				culture = aborigine
- 				size = 62994
+ 				size = 81892
  			}
  			create_pop = { 
  				culture = aborigine
  				religion = protestant
- 				size = 38
+ 				size = 49
  			}
  		}
- 	}
+	}
  	s:STATE_VICTORIA = { 
- 		region_state:AST = { 
+ 		
+ 	
+		region_state:Y18 = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
- 				size = 30991
+ 				size = 40288
  			}
  			create_pop = { 
  				culture = aborigine
  				religion = protestant
- 				size = 75
+ 				size = 97
  			}
  		}
- 	}
+	}
  	s:STATE_TASMANIA = { 
- 		region_state:AST = { 
+ 		
+ 	
+		region_state:Y18 = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
  				religion = protestant
- 				size = 36
+ 				size = 46
  			}
  			create_pop = { 
  				culture = aborigine
- 				size = 12149
+ 				size = 15793
  			}
  		}
- 	}
+	}
  	s:STATE_QUEENSLAND = { 
- 		region_state:AST = { 
+ 		
+ 	
+		region_state:ASD = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
- 				size = 58914
+ 				size = 76588
  			}
  			create_pop = { 
  				culture = aborigine
  				religion = protestant
- 				size = 153
+ 				size = 198
  			}
  		}
- 	}
+		region_state:GML = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 76588
+ 			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				religion = protestant
+ 				size = 198
+ 			}
+ 		}
+		region_state:Y17 = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 76588
+ 			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				religion = protestant
+ 				size = 198
+ 			}
+ 		}
+	}
  	s:STATE_SOUTH_AUSTRALIA = { 
- 		region_state:AST = { 
+ 		
+ 	
+		region_state:SAS = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
- 				size = 31956
+ 				size = 41542
  			}
  		}
- 	}
- 	s:STATE_WESTERN_AUSTRALIA = { 
- 		region_state:AST = { 
+		region_state:ASD = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
- 				size = 59242
+ 				size = 41542
+ 			}
+ 		}
+	}
+ 	s:STATE_WESTERN_AUSTRALIA = { 
+ 		
+ 	
+		region_state:ASD = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 77014
  			}
  			create_pop = { 
  				culture = aborigine
  				religion = protestant
- 				size = 151
+ 				size = 196
  			}
  		}
- 	}
- 	s:STATE_NORTHERN_TERRITORY = { 
- 		region_state:AST = { 
+		region_state:WAS = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = aborigine
- 				size = 31760
+ 				size = 77014
+ 			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				religion = protestant
+ 				size = 196
  			}
  		}
- 	}
+		region_state:WTI = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 77014
+ 			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				religion = protestant
+ 				size = 196
+ 			}
+ 		}
+	}
+ 	s:STATE_NORTHERN_TERRITORY = { 
+ 		
+ 	
+		region_state:ASD = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 41288
+ 			}
+ 		}
+		region_state:SAS = { 
+			create_pop = { 
+				culture = australian
+				size = 1300000
+			}
+ 			create_pop = { 
+ 				culture = aborigine
+ 				size = 41288
+ 			}
+ 		}
+	}
  	s:STATE_NORTH_ISLAND = { 
  		region_state:NZL = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = maori
  				religion = protestant
- 				size = 30000
+ 				size = 39000
  			}
  			create_pop = { 
  				culture = maori
- 				size = 62000
+ 				size = 80600
  			}
  		}
  	}
@@ -133,11 +227,11 @@
  		region_state:NZL = { 
 			create_pop = { 
 				culture = australian
-				size = 1000000
+				size = 1300000
 			}
  			create_pop = { 
  				culture = maori
- 				size = 12000
+ 				size = 15600
  			}
  		}
  	}

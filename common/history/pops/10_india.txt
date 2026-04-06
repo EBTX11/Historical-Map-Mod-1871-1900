@@ -4,33 +4,33 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = bihari
-				size = 13186851
+				size = 13798145
 			}
 			create_pop = {
 				culture = british
 				pop_type = bureaucrats
-				size = 253
+				size = 264
 			}
 			create_pop = {
 				culture = bihari
 				religion = sunni
-				size = 1908569
+				size = 1997042
 			}
 			create_pop = {
 				culture = bihari
 				religion = theravada
-				size = 134929
+				size = 141183
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bihari
-				size = 790409
+				size = 827048
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bihari
 				religion = sunni
-				size = 170499
+				size = 178402
 			}
 		}
 	}
@@ -39,53 +39,53 @@ POPS = {
 			create_pop = {
 				culture = bengali
 				religion = hindu
-				size = 16693752
+				size = 17467612
 			}
 			create_pop = {
 				culture = bengali
-				size = 4724680
+				size = 4943698
 			}
 			create_pop = {
 				culture = pashtun
-				size = 53042
+				size = 55500
 			}
 			create_pop = {
 				culture = nepali
-				size = 39839
+				size = 41685
 			}
 			create_pop = {
 				culture = bengali
 				religion = theravada
-				size = 476451
+				size = 498537
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
 				religion = hindu
-				size = 555663
+				size = 581420
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
-				size = 277768
+				size = 290643
 			}
 			create_pop = {
 				culture = armenian
-				size = 1191
+				size = 1245
 			}
 			create_pop = {
 				culture = british # including Irish
-				size = 16258
+				size = 17011
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = british
-				size = 1058
+				size = 1106
 				pop_type = capitalists
 			}
 			create_pop = {
 				culture = scottish
-				size = 2264
+				size = 2368
 				pop_type = officers
 			}
 		
@@ -93,22 +93,22 @@ POPS = {
 			create_pop = {
 				culture = bengali
 				religion = hindu
-				size = 189161
+				size = 197929
 			}
 			create_pop = {
 				culture = bengali
-				size = 104508
+				size = 109352
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
 				religion = hindu
-				size = 16337
+				size = 17094
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
-				size = 11920
+				size = 12472
 			}
 		
 }
@@ -119,40 +119,40 @@ POPS = {
 			create_pop = {
 				culture = bengali
 				religion = hindu
-				size = 7529305
+				size = 7878335
 			}
 			create_pop = {
 				culture = bengali
-				size = 19334616
+				size = 20230897
 			}
 			create_pop = {
 				culture = pashtun
-				size = 26588
+				size = 27820
 			}
 			create_pop = {
 				culture = bengali
 				religion = theravada
-				size = 203800
+				size = 213247
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
 				religion = hindu
-				size = 396279
+				size = 414648
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = bengali
-				size = 1019003
+				size = 1066239
 			}
 			create_pop = {
 				culture = british # including Irish
-				size = 2898
+				size = 3032
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = scottish
-				size = 398
+				size = 416
 				pop_type = bureaucrats
 			}
 		}
@@ -161,108 +161,108 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = assamese
-				size = 451305
+				size = 472225
 			}
 			create_pop = {
 				culture = manipuri
-				size = 13229
+				size = 13841
 			}
 			create_pop = {
 				culture = assamese
 				pop_type = slaves
-				size = 67483
+				size = 70610
 			}
 			create_pop = {
 				culture = bengali
-				size = 105950
+				size = 110861
 			}
 			create_pop = {
 				culture = bengali
 				religion = hindu
-				size = 92747
+				size = 97046
 			}
 			create_pop = {
 				culture = british # including Irish
-				size = 555
+				size = 580
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = scottish
-				size = 185
+				size = 193
 				pop_type = bureaucrats
 			}
 		
 
 			create_pop = {
 				culture = lushai # Tipperah
-				size = 59656
+				size = 62420
 			}
 		
 
 
 			create_pop = {
 				culture = lushai
-				size = 32526
+				size = 34033
 			}
 		
 
 
 			create_pop = {
 				culture = naga # Khasi
-				size = 82272
+				size = 86085
 			}
 		
 
 
 			create_pop = {
 				culture = manipuri
-				size = 341392
+				size = 357217
 			}
 			create_pop = {
 				culture = manipuri
 				religion = animist
-				size = 101974
+				size = 106700
 			}
 			create_pop = {
 				culture = lushai
-				size = 38612
+				size = 40401
 			}
 			create_pop = {
 				culture = naga
-				size = 51839
+				size = 54241
 			}
 		
 
 
 			create_pop = {
 				culture = naga
-				size = 163906
+				size = 171503
 			}
 		
 
 
 			create_pop = {
 				culture = assamese
-				size = 932764
+				size = 976003
 			}
 			create_pop = {
 				culture = assamese
 				pop_type = slaves
-				size = 60263
+				size = 63055
 			}
 			create_pop = {
 				culture = assamese
 				religion = animist
-				size = 330939
+				size = 346279
 			}
 			create_pop = {
 				culture = assamese
 				religion = sunni
-				size = 80710
+				size = 84451
 			}
 			create_pop = {
 				culture = naga
-				size = 198670
+				size = 207879
 			}
 		
 }
@@ -272,70 +272,287 @@ POPS = {
 		
 		
 		
+	
+		region_state:MNP = {
+			create_pop = {
+				culture = assamese
+				size = 586696
+			}
+			create_pop = {
+				culture = manipuri
+				size = 17197
+			}
+			create_pop = {
+				culture = assamese
+				pop_type = slaves
+				size = 87727
+			}
+			create_pop = {
+				culture = bengali
+				size = 137735
+			}
+			create_pop = {
+				culture = bengali
+				religion = hindu
+				size = 120571
+			}
+			create_pop = {
+				culture = british # including Irish
+				size = 721
+				pop_type = bureaucrats
+			}
+			create_pop = {
+				culture = scottish
+				size = 240
+				pop_type = bureaucrats
+			}
+		
+
+			create_pop = {
+				culture = lushai # Tipperah
+				size = 77552
+			}
+		
+
+
+			create_pop = {
+				culture = lushai
+				size = 42283
+			}
+		
+
+
+			create_pop = {
+				culture = naga # Khasi
+				size = 106953
+			}
+		
+
+
+			create_pop = {
+				culture = manipuri
+				size = 443809
+			}
+			create_pop = {
+				culture = manipuri
+				religion = animist
+				size = 132566
+			}
+			create_pop = {
+				culture = lushai
+				size = 50195
+			}
+			create_pop = {
+				culture = naga
+				size = 67390
+			}
+		
+
+
+			create_pop = {
+				culture = naga
+				size = 213077
+			}
+		
+
+
+			create_pop = {
+				culture = assamese
+				size = 1212593
+			}
+			create_pop = {
+				culture = assamese
+				pop_type = slaves
+				size = 78341
+			}
+			create_pop = {
+				culture = assamese
+				religion = animist
+				size = 430220
+			}
+			create_pop = {
+				culture = assamese
+				religion = sunni
+				size = 104923
+			}
+			create_pop = {
+				culture = naga
+				size = 258271
+			}
+		
+}
+		region_state:MGH = {
+			create_pop = {
+				culture = assamese
+				size = 586696
+			}
+			create_pop = {
+				culture = manipuri
+				size = 17197
+			}
+			create_pop = {
+				culture = assamese
+				pop_type = slaves
+				size = 87727
+			}
+			create_pop = {
+				culture = bengali
+				size = 137735
+			}
+			create_pop = {
+				culture = bengali
+				religion = hindu
+				size = 120571
+			}
+			create_pop = {
+				culture = british # including Irish
+				size = 721
+				pop_type = bureaucrats
+			}
+			create_pop = {
+				culture = scottish
+				size = 240
+				pop_type = bureaucrats
+			}
+		
+
+			create_pop = {
+				culture = lushai # Tipperah
+				size = 77552
+			}
+		
+
+
+			create_pop = {
+				culture = lushai
+				size = 42283
+			}
+		
+
+
+			create_pop = {
+				culture = naga # Khasi
+				size = 106953
+			}
+		
+
+
+			create_pop = {
+				culture = manipuri
+				size = 443809
+			}
+			create_pop = {
+				culture = manipuri
+				religion = animist
+				size = 132566
+			}
+			create_pop = {
+				culture = lushai
+				size = 50195
+			}
+			create_pop = {
+				culture = naga
+				size = 67390
+			}
+		
+
+
+			create_pop = {
+				culture = naga
+				size = 213077
+			}
+		
+
+
+			create_pop = {
+				culture = assamese
+				size = 1212593
+			}
+			create_pop = {
+				culture = assamese
+				pop_type = slaves
+				size = 78341
+			}
+			create_pop = {
+				culture = assamese
+				religion = animist
+				size = 430220
+			}
+			create_pop = {
+				culture = assamese
+				religion = sunni
+				size = 104923
+			}
+			create_pop = {
+				culture = naga
+				size = 258271
+			}
+		
+}
 	}
 	s:STATE_DELHI = {
 		region_state:BIC = {
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 2488211
+				size = 2603555
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 201746
+				size = 211097
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 934470
+				size = 977788
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 75767
+				size = 79279
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 98409
+				size = 102970
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu # jains
-				size = 22173
+				size = 23200
 			}
 		
 
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 470293
+				size = 492093
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 36163
+				size = 37838
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 154101
+				size = 161244
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 11851
+				size = 12400
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sikh
-				size = 290
+				size = 303
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu # jains
-				size = 7663
+				size = 8017
 			}
 		
 
@@ -343,17 +560,174 @@ POPS = {
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 18680
+				size = 19545
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 5453
+				size = 5705
 			}
 		
 }
 		
 		
+	
+		region_state:MUG = {
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 3234674
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 262269
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 1214811
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 98497
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 127931
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu # jains
+				size = 28824
+			}
+		
+
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 611380
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 47011
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 200331
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 15406
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sikh
+				size = 377
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu # jains
+				size = 9961
+			}
+		
+
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 24284
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 7088
+			}
+		
+}
+		region_state:PTA = {
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 3234674
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 262269
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 1214811
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 98497
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 127931
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu # jains
+				size = 28824
+			}
+		
+
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 611380
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 47011
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 200331
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 15406
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sikh
+				size = 377
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu # jains
+				size = 9961
+			}
+		
+
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 24284
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 7088
+			}
+		
+}
 	}
 	s:STATE_AWADH = {
 		
@@ -361,53 +735,53 @@ POPS = {
 			create_pop = {
 				culture = bihari
 				religion = hindu
-				size = 2078284
+				size = 2174625
 			}
 			create_pop = {
 				culture = bihari
 				religion = sunni
-				size = 303034
+				size = 317081
 			}
 			create_pop = {
 				culture = avadhi
 				religion = hindu
-				size = 1228490
+				size = 1285438
 			}
 			create_pop = {
 				culture = avadhi
 				religion = sunni
-				size = 290570
+				size = 304039
 			}
 			create_pop = {
 				culture = hindustani
-				size = 424916
+				size = 444612
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 545463
+				size = 570747
 			}
 		
 
 			create_pop = {
 				culture = avadhi
 				religion = hindu
-				size = 5699271
+				size = 5963468
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 2653
+				size = 2775
 			}
 			create_pop = {
 				culture = avadhi
 				religion = sunni
-				size = 617931
+				size = 646575
 			}
 			create_pop = {
 				culture = avadhi
 				religion = shiite
-				size = 61113
+				size = 63945
 			}
 		
 }
@@ -425,101 +799,101 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 2912997
+				size = 3048032
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 410301
+				size = 429320
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 53042
+				size = 55500
 			}
 			create_pop = {
 				culture = persian
 				religion = animist # parsis
-				size = 6772
+				size = 7085
 			}
 			create_pop = {
 				culture = british
 				pop_type = capitalists
-				size = 1058
+				size = 1106
 			}
 			create_pop = {
 				culture = british
 				pop_type = bureaucrats
-				size = 1322
+				size = 1382
 			}
 			create_pop = {
 				culture = british
 				pop_type = officers
-				size = 264
+				size = 276
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = bureaucrats
-				size = 410
+				size = 429
 			}
 			create_pop = {
 				culture = armenian
-				size = 277
+				size = 289
 			}
 			create_pop = {
 				culture = gujarati
 				religion = protestant
-				size = 16285
+				size = 17039
 			}
 			create_pop = {
 				culture = gujarati
 				religion = catholic
-				size = 7949
+				size = 8316
 			}
 			create_pop = {
 				culture = pashtun  # pathan
 				religion = sunni
-				size = 12062
+				size = 12620
 			}
 		
 
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 1137652
+				size = 1190388
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 159015
+				size = 166385
 			}
 			create_pop = {
 				culture = gujarati
 				religion = protestant
-				size = 1707
+				size = 1786
 			}
 			create_pop = {
 				culture = gujarati
 				religion = catholic
-				size = 1203
+				size = 1258
 			}
 			create_pop = {
 				culture = marathi
-				size = 79627
+				size = 83318
 			}
 			create_pop = {
 				culture = rajput
-				size = 46310
+				size = 48456
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 47630
+				size = 49837
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 6639
+				size = 6946
 			}
 		
 
@@ -527,21 +901,21 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 266893
+				size = 279264
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 23723
+				size = 24821
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 5930
+				size = 6204
 			}
 			create_pop = {
 				culture = marathi
-				size = 10861
+				size = 11364
 			}
 		
 
@@ -549,63 +923,63 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 125021
+				size = 130816
 			}
 			create_pop = {
 				culture = rajput
 				religion = hindu
 				pop_type = officers
-				size = 869
+				size = 908
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 7354
+				size = 7694
 			}
 			create_pop = {
 				culture = gujarati
 				religion = shiite
-				size = 4645
+				size = 4859
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 7289
+				size = 7626
 			}
 		
 
 
 			create_pop = {
 				culture = gujarati
-				size = 315194
+				size = 329805
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 37081
+				size = 38799
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 18519
+				size = 19376
 			}
 			create_pop = {
 				culture = gujarati
 				religion = protestant
-				size = 928
+				size = 970
 			}
 			create_pop = {
 				culture = marathi
-				size = 16033
+				size = 16775
 			}
 			create_pop = {
 				culture = sindi
-				size = 5450
+				size = 5702
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 952
+				size = 995
 			}
 		
 
@@ -613,25 +987,25 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 273202
+				size = 285866
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 25713
+				size = 26904
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 3226
+				size = 3374
 			}
 			create_pop = {
 				culture = marathi
-				size = 4248
+				size = 4444
 			}
 			create_pop = {
 				culture = sindi
-				size = 2822
+				size = 2952
 			}
 		
 
@@ -639,22 +1013,22 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 135920
+				size = 142220
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 40606
+				size = 42487
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 8888
+				size = 9299
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 9708
+				size = 10157
 			}
 		
 
@@ -662,25 +1036,25 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 282023
+				size = 295095
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 39815
+				size = 41660
 			}
 			create_pop = {
 				culture = marathi
-				size = 11920
+				size = 12472
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 2275
+				size = 2380
 			}
 			create_pop = {
 				culture = sindi
-				size = 14576
+				size = 15251
 			}
 		
 
@@ -688,30 +1062,30 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 364607
+				size = 381508
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 51473
+				size = 53858
 			}
 			create_pop = {
 				culture = gujarati
 				religion = hindu # janinism
-				size = 8071
+				size = 8444
 			}
 			create_pop = {
 				culture = marathi
-				size = 8613
+				size = 9011
 			}
 			create_pop = {
 				culture = sindi
-				size = 9421
+				size = 9857
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 10211
+				size = 10684
 			}
 		
 }
@@ -719,24 +1093,319 @@ POPS = {
 			create_pop = {
 				culture = gujarati
 				religion = hindu
-				size = 50891
+				size = 39209
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 10903
+				size = 8398
 			}
 			create_pop = {
 				culture = gujarati
 				religion = catholic
-				size = 5210
+				size = 4013
 			}
 			create_pop = {
 				culture = portuguese
 				religion = catholic
-				size = 375
+				size = 288
 			}
 		}
+	
+		region_state:BER = {
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 3786896
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 533391
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 68954
+			}
+			create_pop = {
+				culture = persian
+				religion = animist # parsis
+				size = 8803
+			}
+			create_pop = {
+				culture = british
+				pop_type = capitalists
+				size = 1375
+			}
+			create_pop = {
+				culture = british
+				pop_type = bureaucrats
+				size = 1718
+			}
+			create_pop = {
+				culture = british
+				pop_type = officers
+				size = 343
+			}
+			create_pop = {
+				culture = scottish
+				pop_type = bureaucrats
+				size = 533
+			}
+			create_pop = {
+				culture = armenian
+				size = 360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = protestant
+				size = 21170
+			}
+			create_pop = {
+				culture = gujarati
+				religion = catholic
+				size = 10333
+			}
+			create_pop = {
+				culture = pashtun  # pathan
+				religion = sunni
+				size = 15680
+			}
+		
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 1478947
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 206719
+			}
+			create_pop = {
+				culture = gujarati
+				religion = protestant
+				size = 2219
+			}
+			create_pop = {
+				culture = gujarati
+				religion = catholic
+				size = 1563
+			}
+			create_pop = {
+				culture = marathi
+				size = 103515
+			}
+			create_pop = {
+				culture = rajput
+				size = 60203
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 61919
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 8630
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 346960
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 30839
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 7709
+			}
+			create_pop = {
+				culture = marathi
+				size = 14119
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 162527
+			}
+			create_pop = {
+				culture = rajput
+				religion = hindu
+				pop_type = officers
+				size = 1129
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 9560
+			}
+			create_pop = {
+				culture = gujarati
+				religion = shiite
+				size = 6038
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 9475
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				size = 409752
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 48205
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 24074
+			}
+			create_pop = {
+				culture = gujarati
+				religion = protestant
+				size = 1206
+			}
+			create_pop = {
+				culture = marathi
+				size = 20842
+			}
+			create_pop = {
+				culture = sindi
+				size = 7085
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 1237
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 355162
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 33426
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 4193
+			}
+			create_pop = {
+				culture = marathi
+				size = 5522
+			}
+			create_pop = {
+				culture = sindi
+				size = 3668
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 176696
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 52787
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 11554
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 12620
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 366629
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 51759
+			}
+			create_pop = {
+				culture = marathi
+				size = 15496
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 2957
+			}
+			create_pop = {
+				culture = sindi
+				size = 18948
+			}
+		
+
+
+			create_pop = {
+				culture = gujarati
+				religion = hindu
+				size = 473989
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 66914
+			}
+			create_pop = {
+				culture = gujarati
+				religion = hindu # janinism
+				size = 10492
+			}
+			create_pop = {
+				culture = marathi
+				size = 11196
+			}
+			create_pop = {
+				culture = sindi
+				size = 12247
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 13274
+			}
+		
+}
 	}
 	s:STATE_MALWA = {
 		
@@ -744,71 +1413,71 @@ POPS = {
 			create_pop = {
 				culture = bundeli
 				religion = hindu
-				size = 618489
+				size = 647159
 			}
 			create_pop = {
 				culture = rajput
 				religion = hindu
-				size = 412590
+				size = 431716
 			}
 			create_pop = {
 				culture = marathi
 				religion = hindu
-				size = 294519
+				size = 308171
 			}
 			create_pop = {
 				culture = bundeli
 				religion = sunni
-				size = 48508
+				size = 50756
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 412590
+				size = 431716
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 34649
+				size = 36254
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 36380
+				size = 38066
 			}
 			create_pop = {
 				culture = bundeli
 				religion = animist
-				size = 24254
+				size = 25378
 			}
 		
 
 			create_pop = {
 				culture = rajput
-				size = 353422
+				size = 369804
 			}
 			create_pop = {
 				culture = bundeli
-				size = 72842
+				size = 76218
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 66266
+				size = 69337
 			}
 			create_pop = {
 				culture = marathi
-				size = 176710
+				size = 184901
 			}
 			create_pop = {
 				culture = marathi
-				size = 33133
+				size = 34668
 				religion = sunni
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 22090
+				size = 23114
 			}
 		
 
@@ -816,102 +1485,321 @@ POPS = {
 			create_pop = {
 				culture = bundeli
 				religion = hindu
-				size = 170643
+				size = 178552
 			}
 			create_pop = {
 				culture = rajput
 				religion = hindu
-				size = 118168
+				size = 123645
 			}
 			create_pop = {
 				culture = pashtun
-				size = 27848
+				size = 29138
 			}
 			create_pop = {
 				culture = bundeli
 				religion = sunni
-				size = 43035
+				size = 45029
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 24270
+				size = 25395
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 15886
+				size = 16621
 			}
 			create_pop = {
 				culture = bundeli
 				religion = animist
-				size = 11244
+				size = 11765
 			}
 		
 }
 		
+	
+		region_state:IND = {
+			create_pop = {
+				culture = bundeli
+				religion = hindu
+				size = 804035
+			}
+			create_pop = {
+				culture = rajput
+				religion = hindu
+				size = 536367
+			}
+			create_pop = {
+				culture = marathi
+				religion = hindu
+				size = 382874
+			}
+			create_pop = {
+				culture = bundeli
+				religion = sunni
+				size = 63060
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 536367
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 45043
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 47294
+			}
+			create_pop = {
+				culture = bundeli
+				religion = animist
+				size = 31530
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 459448
+			}
+			create_pop = {
+				culture = bundeli
+				size = 94694
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 86145
+			}
+			create_pop = {
+				culture = marathi
+				size = 229723
+			}
+			create_pop = {
+				culture = marathi
+				size = 43072
+				religion = sunni
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 28717
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				religion = hindu
+				size = 221835
+			}
+			create_pop = {
+				culture = rajput
+				religion = hindu
+				size = 153618
+			}
+			create_pop = {
+				culture = pashtun
+				size = 36202
+			}
+			create_pop = {
+				culture = bundeli
+				religion = sunni
+				size = 55945
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 31551
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 20651
+			}
+			create_pop = {
+				culture = bundeli
+				religion = animist
+				size = 14617
+			}
+		
+}
+		region_state:BHO = {
+			create_pop = {
+				culture = bundeli
+				religion = hindu
+				size = 804035
+			}
+			create_pop = {
+				culture = rajput
+				religion = hindu
+				size = 536367
+			}
+			create_pop = {
+				culture = marathi
+				religion = hindu
+				size = 382874
+			}
+			create_pop = {
+				culture = bundeli
+				religion = sunni
+				size = 63060
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 536367
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 45043
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 47294
+			}
+			create_pop = {
+				culture = bundeli
+				religion = animist
+				size = 31530
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 459448
+			}
+			create_pop = {
+				culture = bundeli
+				size = 94694
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 86145
+			}
+			create_pop = {
+				culture = marathi
+				size = 229723
+			}
+			create_pop = {
+				culture = marathi
+				size = 43072
+				religion = sunni
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 28717
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				religion = hindu
+				size = 221835
+			}
+			create_pop = {
+				culture = rajput
+				religion = hindu
+				size = 153618
+			}
+			create_pop = {
+				culture = pashtun
+				size = 36202
+			}
+			create_pop = {
+				culture = bundeli
+				religion = sunni
+				size = 55945
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 31551
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 20651
+			}
+			create_pop = {
+				culture = bundeli
+				religion = animist
+				size = 14617
+			}
+		
+}
 	}
 	s:STATE_KASHMIR = {
 		region_state:BIC = {
 			create_pop = {
 				culture = kashmiri
-				size = 1227462
+				size = 1284362
 			}
 			create_pop = {
 				culture = panjabi
-				size = 49901
+				size = 52213
 			}
 			create_pop = {
 				culture = tibetan
-				size = 13492
+				size = 14116
 			}
 			create_pop = {
 				culture = kashmiri
 				religion = hindu
-				size = 329858
+				size = 345148
 			}
 			create_pop = {
 				culture = pashtun
-				size = 49901
+				size = 52213
 			}
 			create_pop = {
 				culture = pahari
-				size = 10330
+				size = 10808
 			}
 		
 
 			create_pop = {
 				culture = tibetan
-				size = 456817
+				size = 477993
 			}
 			create_pop = {
 				culture = kashmiri
-				size = 13503
+				size = 14128
 			}
 			create_pop = {
 				culture = pahari
-				size = 7949
+				size = 8316
 			}
 		
 
 
 			create_pop = {
 				culture = kho # and Shina
-				size = 39958
+				size = 41809
 			}
 			create_pop = {
 				culture = kashmiri
-				size = 13373
+				size = 13992
 			}
 			create_pop = {
 				culture = tibetan
 				religion = mahayana
-				size = 8424
+				size = 8814
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 4136
+				size = 4327
 			}
 		
 }
@@ -923,66 +1811,66 @@ POPS = {
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 4618187
+				size = 4832269
 			}
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 306230
+				size = 320425
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 1588557
+				size = 1662196
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 111106
+				size = 116255
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 566113
+				size = 592355
 			}
 			create_pop = {
 				culture = sindi
-				size = 49098
+				size = 51373
 			}
 			create_pop = {
 				culture = baluchi
-				size = 9404
+				size = 9839
 			}
 		
 
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 214305
+				size = 224238
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 42342
+				size = 44304
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
 				pop_type = slaves
-				size = 15888
+				size = 16624
 			}
 			create_pop = {
 				culture = rajput
-				size = 9417
+				size = 9853
 			}
 			create_pop = {
 				culture = sindi
-				size = 9417
+				size = 9853
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 11905
+				size = 12456
 			}
 		
 }
@@ -994,128 +1882,128 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = bundeli
-				size = 371908
+				size = 389147
 			}
 			create_pop = {
 				culture = bageli
-				size = 279319
+				size = 292266
 			}
 			create_pop = {
 				culture = marathi
-				size = 259869
+				size = 271915
 			}
 			create_pop = {
 				culture = british
 				pop_type = aristocrats
-				size = 126
+				size = 131
 			}
 			create_pop = {
 				culture = gondi
-				size = 50573
+				size = 52916
 			}
 			create_pop = {
 				culture = gondi
-				size = 39991
+				size = 41844
 				religion = animist
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 194901
+				size = 203935
 			}
 		
 
 			create_pop = {
 				culture = gondi
-				size = 238177
+				size = 249217
 			}
 			create_pop = {
 				culture = chhattisgarhi
-				size = 53066
+				size = 55525
 			}
 			create_pop = {
 				culture = gondi
 				religion = sunni
-				size = 21893
+				size = 22907
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 13957
+				size = 14603
 			}
 			create_pop = {
 				culture = gondi
 				religion = animist
-				size = 317844
+				size = 332577
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = gondi
 				religion = animist
-				size = 26546
+				size = 27775
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = gondi
 				religion = sunni
-				size = 2645
+				size = 2767
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = gondi
-				size = 33159
+				size = 34695
 			}
 		
 
 
 			create_pop = {
 				culture = marathi
-				size = 1722809
+				size = 1802671
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 67483
+				size = 70610
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 304433
+				size = 318544
 			}
 			create_pop = {
 				culture = telegu
-				size = 344561
+				size = 360533
 			}
 			create_pop = {
 				culture = telegu
 				religion = sunni
-				size = 31757
+				size = 33229
 			}
 			create_pop = {
 				culture = gondi
 				religion = hindu
-				size = 290992
+				size = 304480
 			}
 			create_pop = {
 				culture = gondi
 				religion = animist
-				size = 123037
+				size = 128740
 			}
 			create_pop = {
 				culture = gondi
 				pop_type = slaves
 				religion = animist
-				size = 9262
+				size = 9690
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = marathi
-				size = 129889
+				size = 135909
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = telegu
-				size = 25397
+				size = 26574
 			}
 		
 
@@ -1123,70 +2011,409 @@ POPS = {
 			create_pop = {
 				culture = marathi
 				religion = hindu
-				size = 994453
+				size = 1040551
 			}
 			create_pop = {
 				culture = oriya
 				religion = hindu
-				size = 265889
+				size = 278214
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 129904
+				size = 135925
 			}
 			create_pop = {
 				culture = chhattisgarhi
 				religion = hindu
-				size = 1400943
+				size = 1465884
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 451304
+				size = 472224
 			}
 			create_pop = {
 				culture = gondi
-				size = 297844
+				size = 311650
 			}
 			create_pop = {
 				culture = gondi
 				religion = animist
-				size = 397046
+				size = 415450
 			}
 			create_pop = {
 				culture = bageli
-				size = 227517
+				size = 238063
 			}
 		
 }
 		
+	
+		region_state:NAG = {
+			create_pop = {
+				culture = bundeli
+				size = 483480
+			}
+			create_pop = {
+				culture = bageli
+				size = 363114
+			}
+			create_pop = {
+				culture = marathi
+				size = 337829
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 163
+			}
+			create_pop = {
+				culture = gondi
+				size = 65744
+			}
+			create_pop = {
+				culture = gondi
+				size = 51988
+				religion = animist
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 253371
+			}
+		
+
+			create_pop = {
+				culture = gondi
+				size = 309630
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 68985
+			}
+			create_pop = {
+				culture = gondi
+				religion = sunni
+				size = 28460
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 18144
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 413197
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				religion = animist
+				size = 34509
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				religion = sunni
+				size = 3438
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				size = 43106
+			}
+		
+
+
+			create_pop = {
+				culture = marathi
+				size = 2239651
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 87727
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 395762
+			}
+			create_pop = {
+				culture = telegu
+				size = 447929
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 41284
+			}
+			create_pop = {
+				culture = gondi
+				religion = hindu
+				size = 378289
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 159948
+			}
+			create_pop = {
+				culture = gondi
+				pop_type = slaves
+				religion = animist
+				size = 12040
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = marathi
+				size = 168855
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = telegu
+				size = 33016
+			}
+		
+
+
+			create_pop = {
+				culture = marathi
+				religion = hindu
+				size = 1292788
+			}
+			create_pop = {
+				culture = oriya
+				religion = hindu
+				size = 345655
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 168875
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = hindu
+				size = 1821225
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 586695
+			}
+			create_pop = {
+				culture = gondi
+				size = 387197
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 516159
+			}
+			create_pop = {
+				culture = bageli
+				size = 295772
+			}
+		
+}
+		region_state:BAS = {
+			create_pop = {
+				culture = bundeli
+				size = 483480
+			}
+			create_pop = {
+				culture = bageli
+				size = 363114
+			}
+			create_pop = {
+				culture = marathi
+				size = 337829
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 163
+			}
+			create_pop = {
+				culture = gondi
+				size = 65744
+			}
+			create_pop = {
+				culture = gondi
+				size = 51988
+				religion = animist
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 253371
+			}
+		
+
+			create_pop = {
+				culture = gondi
+				size = 309630
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 68985
+			}
+			create_pop = {
+				culture = gondi
+				religion = sunni
+				size = 28460
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 18144
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 413197
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				religion = animist
+				size = 34509
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				religion = sunni
+				size = 3438
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = gondi
+				size = 43106
+			}
+		
+
+
+			create_pop = {
+				culture = marathi
+				size = 2239651
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 87727
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 395762
+			}
+			create_pop = {
+				culture = telegu
+				size = 447929
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 41284
+			}
+			create_pop = {
+				culture = gondi
+				religion = hindu
+				size = 378289
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 159948
+			}
+			create_pop = {
+				culture = gondi
+				pop_type = slaves
+				religion = animist
+				size = 12040
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = marathi
+				size = 168855
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = telegu
+				size = 33016
+			}
+		
+
+
+			create_pop = {
+				culture = marathi
+				religion = hindu
+				size = 1292788
+			}
+			create_pop = {
+				culture = oriya
+				religion = hindu
+				size = 345655
+			}
+			create_pop = {
+				culture = marathi
+				religion = sunni
+				size = 168875
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = hindu
+				size = 1821225
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 586695
+			}
+			create_pop = {
+				culture = gondi
+				size = 387197
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 516159
+			}
+			create_pop = {
+				culture = bageli
+				size = 295772
+			}
+		
+}
 	}
 	s:STATE_SINDH = {
 		region_state:BIC = {
 			create_pop = {
 				culture = sindi
-				size = 2175303
+				size = 2276141
 			}
 			create_pop = {
 				culture = sindi
 				religion = shiite
-				size = 32279
+				size = 33774
 			}
 			create_pop = {
 				culture = sindi
 				religion = hindu
-				size = 328028
+				size = 343233
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 41003
+				size = 42903
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sindi
-				size = 15872
+				size = 16607
 			}
 		}
 	}
@@ -1199,241 +2426,241 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = rajput
-				size = 225622
+				size = 236080
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 50372
+				size = 52706
 			}
 			create_pop = {
 				culture = gujarati
-				size = 16431
+				size = 17192
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 6407
+				size = 6703
 			}
 			create_pop = {
 				culture = british
 				pop_type = aristocrats
-				size = 281
+				size = 293
 			}
 		
 
 			create_pop = {
 				culture = rajput
-				size = 34403
+				size = 35997
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 2339
-			}
-		
-
-
-			create_pop = {
-				culture = rajput
-				size = 38385
-			}
-			create_pop = {
-				culture = rajput
-				religion = sunni
-				size = 2661
+				size = 2446
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 1388424
-			}
-			create_pop = {
-				culture = rajput
-				size = 91510
+				size = 40163
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 113976
+				size = 2784
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1452786
+			}
+			create_pop = {
+				culture = rajput
+				size = 95752
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 119258
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 13492
+				size = 14116
 			}
 			create_pop = {
 				culture = gujarati
-				size = 45775
+				size = 47896
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 3983
+				size = 4166
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 631767
+				size = 661053
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 118445
+				size = 123935
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 39470
+				size = 41299
 			}
 			create_pop = {
 				culture = gujarati
-				size = 70116
+				size = 73365
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 13155
+				size = 13764
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 356728
+				size = 373264
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 35847
+				size = 37508
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 8071
+				size = 8444
 			}
 			create_pop = {
 				culture = gujarati
-				size = 17754
+				size = 18576
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 2249
+				size = 2352
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 1867022
+				size = 1953569
 			}
 			create_pop = {
 				culture = hindustani
-				size = 147665
+				size = 154509
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 246633
+				size = 258065
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 6758
+				size = 7070
 			}
 			create_pop = {
 				culture = gujarati
-				size = 126215
+				size = 132065
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 14343
+				size = 15007
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 548456
+				size = 573879
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 90370
+				size = 94559
 			}
 			create_pop = {
 				culture = hindustani
-				size = 35978
+				size = 37645
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 5306
+				size = 5551
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 23834
+				size = 24938
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 4018
+				size = 4203
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 287
+				size = 300
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 436093
+				size = 456307
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 45553
+				size = 47663
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 9112
+				size = 9533
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 8885
+				size = 9296
 			}
 		
 
 
 			create_pop = {
 				culture = rajput
-				size = 47721
+				size = 49932
 			}
 			create_pop = {
 				culture = rajput
 				religion = sunni
-				size = 5613
+				size = 5872
 			}
 			create_pop = {
 				culture = rajput
 				religion = animist
-				size = 2806
+				size = 2935
 			}
 			create_pop = {
 				culture = sindi
 				religion = hindu
-				size = 8422
+				size = 8811
 			}
 		
 }
@@ -1441,101 +2668,2271 @@ POPS = {
 		
 		
 		
+	
+		region_state:BIK = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:JAS = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:MEW = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:JOD = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:JAI = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:ALW = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:KOT = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:GWA = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
+		region_state:IND = {
+			create_pop = {
+				culture = rajput
+				size = 293308
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 65483
+			}
+			create_pop = {
+				culture = gujarati
+				size = 21360
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 8329
+			}
+			create_pop = {
+				culture = british
+				pop_type = aristocrats
+				size = 365
+			}
+		
+
+			create_pop = {
+				culture = rajput
+				size = 44723
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3040
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 49900
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 3459
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 1804951
+			}
+			create_pop = {
+				culture = rajput
+				size = 118963
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 148168
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 17539
+			}
+			create_pop = {
+				culture = gujarati
+				size = 59507
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 5177
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 821297
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 153978
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 51311
+			}
+			create_pop = {
+				culture = gujarati
+				size = 91150
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 17101
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 463746
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 46601
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 10492
+			}
+			create_pop = {
+				culture = gujarati
+				size = 23080
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 2923
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 2427128
+			}
+			create_pop = {
+				culture = hindustani
+				size = 191964
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 320622
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 8785
+			}
+			create_pop = {
+				culture = gujarati
+				size = 164079
+			}
+			create_pop = {
+				culture = gujarati
+				religion = sunni
+				size = 18645
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 712992
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 117481
+			}
+			create_pop = {
+				culture = hindustani
+				size = 46771
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6897
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 30984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 5223
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 373
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 566920
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 59218
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 11845
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 11550
+			}
+		
+
+
+			create_pop = {
+				culture = rajput
+				size = 62037
+			}
+			create_pop = {
+				culture = rajput
+				religion = sunni
+				size = 7296
+			}
+			create_pop = {
+				culture = rajput
+				religion = animist
+				size = 3647
+			}
+			create_pop = {
+				culture = sindi
+				religion = hindu
+				size = 10948
+			}
+		
+}
 	}
 	s:STATE_CEYLON = {
 		region_state:BCE = {
 			create_pop = {
 				culture = sinhala
-				size = 849208
+				size = 1103970
 			}
 			create_pop = {
 				culture = lacustrine_bantu
-				size =700
+				size = 910
 			}
 			create_pop = {
 				culture = tamil
-				size = 194000
+				size = 252200
 			}
 			create_pop = {
 				culture = mashriqi
 				religion = sunni
-				size = 32000
+				size = 41600
 			}
 			create_pop = {
 				culture = sinhala
 				religion = sunni
-				size = 24000
+				size = 31200
 			}
 			create_pop = {
 				culture = malay
-				size = 16400
+				size = 21320
 			}
 			create_pop = {
 				culture = british
-				size = 7992
+				size = 10389
 			}
 			create_pop = {
 				culture = sinhala
-				size =36200
+				size = 47060
 			}
 			create_pop = {
 				culture = sinhala
 				religion = protestant
-				size = 12000
+				size = 15600
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tamil
-				size = 21000
+				size = 27300
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = sinhala
-				size = 6400
+				size = 8320
 			}
 		}
 		region_state:MLD = {
 			create_pop = {
 				culture = sinhala
 				religion = sunni
-				size = 53020
+				size = 68926
 			}
 			create_pop = {
 				culture = bedouin
 				religion = sunni
-				size = 671
+				size = 872
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = lacustrine_bantu
-				size = 2301
+				size = 2991
 			}
 		}
 		region_state:GBR = {
 			create_pop = {
 				pop_type = aristocrats
 				culture = french
-				size = 31
+				size = 28
 			}
 			create_pop = {
 				pop_type = aristocrats
 				culture = british
-				size = 10
+				size = 9
 			}
 			create_pop = {
 				culture = tamil
 				pop_type = laborers
-				size = 42
+				size = 39
 			}
 			create_pop = {
 				culture = swahili
 				pop_type = laborers
-				size = 40
+				size = 37
 			}
 			create_pop = {
 				culture = afro_antillean
 				religion = catholic
-				size = 2440
+				size = 2292
 			}
 		}
 	}
@@ -1543,38 +4940,38 @@ POPS = {
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 27636
+				size = 19620
 			}
 			create_pop = {
 				culture = afro_antillean
-				size = 62660
+				size = 44486
 			}
 			create_pop = {
 				culture = swahili
-				size = 1842
+				size = 1307
 			}
 			create_pop = {
 				culture = afro_antillean
 				religion = animist
-				size = 5528
+				size = 3924
 			}
 		}
 		region_state:GBR = {
 			create_pop = {
 				culture = french
-				size = 1819
+				size = 1708
 			}
 			create_pop = {
 				culture = afro_antillean
-				size = 82447
+				size = 77463
 			}
 			create_pop = {
 				culture = british
-				size = 697
+				size = 654
 			}
 			create_pop = {
 				culture = afro_caribbean
-				size = 5141
+				size = 4830
 			}
 		}
 	}
@@ -1583,224 +4980,581 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = oriya
-				size = 1149543
+				size = 1202830
 			}
 		
 
 			create_pop = {
 				culture = oriya
-				size = 208324
+				size = 217980
 			}
 			create_pop = {
 				culture = oriya
-				size = 26520
+				size = 27749
 				religion = animist
 			}
 			create_pop = {
 				culture = chhattisgarhi
-				size = 89281
+				size = 93419
 			}
 			create_pop = {
 				culture = chhattisgarhi
 				religion = sunni
-				size = 992
-			}
-		
-
-
-			create_pop = {
-				culture = oriya
-				size = 47120
-			}
-			create_pop = {
-				culture = oriya
-				size = 1985
-				religion = animist
-			}
-			create_pop = {
-				culture = chhattisgarhi
-				size = 15706
-			}
-			create_pop = {
-				culture = chhattisgarhi
-				religion = sunni
-				size = 462
+				size = 1037
 			}
 		
 
 
 			create_pop = {
 				culture = oriya
-				size = 150791
+				size = 49304
 			}
 			create_pop = {
 				culture = oriya
-				size = 5952
+				size = 2076
 				religion = animist
 			}
 			create_pop = {
 				culture = chhattisgarhi
-				size = 37696
+				size = 16433
 			}
 			create_pop = {
 				culture = chhattisgarhi
 				religion = sunni
-				size = 1350
+				size = 482
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 157780
+			}
+			create_pop = {
+				culture = oriya
+				size = 6227
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 39442
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1412
 			}
 		
 }
 		
 		
+	
+		region_state:MYB = {
+			create_pop = {
+				culture = oriya
+				size = 1494405
+			}
+		
+
+			create_pop = {
+				culture = oriya
+				size = 270821
+			}
+			create_pop = {
+				culture = oriya
+				size = 34476
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 116065
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1289
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 61256
+			}
+			create_pop = {
+				culture = oriya
+				size = 2580
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 20417
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 600
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 196028
+			}
+			create_pop = {
+				culture = oriya
+				size = 7737
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 49004
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1755
+			}
+		
+}
+		region_state:PTN = {
+			create_pop = {
+				culture = oriya
+				size = 1494405
+			}
+		
+
+			create_pop = {
+				culture = oriya
+				size = 270821
+			}
+			create_pop = {
+				culture = oriya
+				size = 34476
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 116065
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1289
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 61256
+			}
+			create_pop = {
+				culture = oriya
+				size = 2580
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 20417
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 600
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 196028
+			}
+			create_pop = {
+				culture = oriya
+				size = 7737
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 49004
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1755
+			}
+		
+}
+		region_state:NAR = {
+			create_pop = {
+				culture = oriya
+				size = 1494405
+			}
+		
+
+			create_pop = {
+				culture = oriya
+				size = 270821
+			}
+			create_pop = {
+				culture = oriya
+				size = 34476
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 116065
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1289
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 61256
+			}
+			create_pop = {
+				culture = oriya
+				size = 2580
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 20417
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 600
+			}
+		
+
+
+			create_pop = {
+				culture = oriya
+				size = 196028
+			}
+			create_pop = {
+				culture = oriya
+				size = 7737
+				religion = animist
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 49004
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				religion = sunni
+				size = 1755
+			}
+		
+}
 	}
 	s:STATE_CIRCARS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = telegu
-				size = 3035609
+				size = 3176328
 			}
 			create_pop = {
 				culture = tamil
-				size = 357393
+				size = 373959
 			}
 			create_pop = {
 				culture = oriya
-				size = 138909
+				size = 145347
 			}
 			create_pop = {
 				culture = gondi
-				size = 40078
+				size = 41935
 				religion = animist
 			}
 			create_pop = {
 				culture = telegu
 				religion = sunni
-				size = 269834
+				size = 282342
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 31771
+				size = 33243
 			}
 			create_pop = {
 				culture = chhattisgarhi
-				size = 172003
+				size = 179975
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 15874
+				size = 16609
 			}
 			create_pop = {
 				culture = tamil
-				size = 41032
+				size = 42933
 				religion = protestant
 			}
 			create_pop = {
 				culture = british
-				size = 687
+				size = 718
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = scottish
-				size = 138
+				size = 144
 				pop_type = bureaucrats
 			}
 		
 
 			create_pop = {
 				culture = oriya
-				size = 196750
+				size = 205870
 			}
 			create_pop = {
 				culture = telegu
-				size = 56214
+				size = 58819
 			}
 			create_pop = {
 				culture = chhattisgarhi
-				size = 28107
+				size = 29409
 			}
 			create_pop = {
 				culture = oriya
 				religion = sunni
-				size = 9272
+				size = 9701
 			}
 			create_pop = {
 				culture = gondi
-				size = 33080
+				size = 34613
 				religion = animist
 			}
 		
 }
 		
+	
+		region_state:JEY = {
+			create_pop = {
+				culture = telegu
+				size = 3946291
+			}
+			create_pop = {
+				culture = tamil
+				size = 464610
+			}
+			create_pop = {
+				culture = oriya
+				size = 180581
+			}
+			create_pop = {
+				culture = gondi
+				size = 52101
+				religion = animist
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 350784
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 41302
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 223603
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 20636
+			}
+			create_pop = {
+				culture = tamil
+				size = 53341
+				religion = protestant
+			}
+			create_pop = {
+				culture = british
+				size = 893
+				pop_type = bureaucrats
+			}
+			create_pop = {
+				culture = scottish
+				size = 179
+				pop_type = bureaucrats
+			}
+		
+
+			create_pop = {
+				culture = oriya
+				size = 255775
+			}
+			create_pop = {
+				culture = telegu
+				size = 73078
+			}
+			create_pop = {
+				culture = chhattisgarhi
+				size = 36539
+			}
+			create_pop = {
+				culture = oriya
+				religion = sunni
+				size = 12053
+			}
+			create_pop = {
+				culture = gondi
+				size = 43004
+				religion = animist
+			}
+		
+}
 	}
 	s:STATE_MYSORE = {
 		
 		region_state:BIC = {
 			create_pop = {
 				culture = kannada # tulu
-				size = 244100
+				size = 255415
 			}
 			create_pop = {
 				culture = kannada # tulu
 				religion = sunni
-				size = 26588
+				size = 27820
 			}
 			create_pop = {
 				culture = kannada
-				size = 90042
+				size = 94215
 			}
 			create_pop = {
 				culture = kannada
 				religion = protestant
-				size = 27871
+				size = 29162
 			}
 			create_pop = {
 				culture = malayalam
-				size = 163798
+				size = 171390
 			}
 			create_pop = {
 				culture = malayalam
 				religion = sunni
-				size = 43811
+				size = 45841
 			}
 			create_pop = {
 				culture = marathi
-				size = 111968
+				size = 117158
 			}
 		
 
 			create_pop = {
 				culture = kannada
-				size = 4427507
+				size = 4632749
 			}
 			create_pop = {
 				culture = kannada
 				religion = hindu # jainism
-				size = 25170
+				size = 26336
 			}
 			create_pop = {
 				culture = kannada
 				religion = protestant
-				size = 15102
+				size = 15801
 			}
 			create_pop = {
 				culture = kannada
 				religion = sunni
-				size = 80155
+				size = 83870
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 410249
+				size = 429266
 			}
 			create_pop = {
 				culture = telegu
 				religion = sunni
-				size = 13228
+				size = 13840
 			}
 			create_pop = {
 				culture = tamil
-				size = 52938
+				size = 55391
+			}
+		
+}
+	
+		region_state:MYS = {
+			create_pop = {
+				culture = kannada # tulu
+				size = 317330
+			}
+			create_pop = {
+				culture = kannada # tulu
+				religion = sunni
+				size = 34564
+			}
+			create_pop = {
+				culture = kannada
+				size = 117054
+			}
+			create_pop = {
+				culture = kannada
+				religion = protestant
+				size = 36232
+			}
+			create_pop = {
+				culture = malayalam
+				size = 212937
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 56954
+			}
+			create_pop = {
+				culture = marathi
+				size = 145558
+			}
+		
+
+			create_pop = {
+				culture = kannada
+				size = 5755759
+			}
+			create_pop = {
+				culture = kannada
+				religion = hindu # jainism
+				size = 32721
+			}
+			create_pop = {
+				culture = kannada
+				religion = protestant
+				size = 19632
+			}
+			create_pop = {
+				culture = kannada
+				religion = sunni
+				size = 104201
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 533323
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 17196
+			}
+			create_pop = {
+				culture = tamil
+				size = 68819
 			}
 		
 }
@@ -1810,228 +5564,406 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = malayalam
-				size = 887820
+				size = 928976
 			}
 			create_pop = {
 				culture = malayalam
 				religion = sunni
-				size = 504074
+				size = 527440
 			}
 			create_pop = {
 				culture = malayalam
 				religion = protestant
-				size = 20675
+				size = 21633
 			}
 			create_pop = {
 				culture = tamil
-				size = 29127
+				size = 30477
 			}
 		
 
 			create_pop = {
 				culture = malayalam
-				size = 1120302
+				size = 1172234
 			}
 			create_pop = {
 				culture = malayalam
 				religion = protestant
-				size = 167052
+				size = 174795
 			}
 			create_pop = {
 				culture = malayalam
 				religion = sunni
-				size = 49430
+				size = 51721
 			}
 			create_pop = {
 				culture = tamil
-				size = 45156
+				size = 47248
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 13544
+				size = 14171
 			}
 		
 
 
 			create_pop = {
 				culture = malayalam
-				size = 555666
+				size = 581424
 			}
 			create_pop = {
 				culture = malayalam
 				religion = sunni
-				size = 100653
+				size = 105318
 			}
 			create_pop = {
 				culture = malayalam
 				religion = protestant
-				size = 18823
+				size = 19694
 			}
 			create_pop = {
 				culture = tamil
-				size = 26481
+				size = 27708
 			}
 		
 }
 		
+	
+		region_state:TRA = {
+			create_pop = {
+				culture = malayalam
+				size = 1154166
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 655296
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 26877
+			}
+			create_pop = {
+				culture = tamil
+				size = 37865
+			}
+		
+
+			create_pop = {
+				culture = malayalam
+				size = 1456392
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 217167
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 64259
+			}
+			create_pop = {
+				culture = tamil
+				size = 58702
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 17607
+			}
+		
+
+
+			create_pop = {
+				culture = malayalam
+				size = 722365
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 130848
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 24469
+			}
+			create_pop = {
+				culture = tamil
+				size = 34425
+			}
+		
+}
+		region_state:COC = {
+			create_pop = {
+				culture = malayalam
+				size = 1154166
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 655296
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 26877
+			}
+			create_pop = {
+				culture = tamil
+				size = 37865
+			}
+		
+
+			create_pop = {
+				culture = malayalam
+				size = 1456392
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 217167
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 64259
+			}
+			create_pop = {
+				culture = tamil
+				size = 58702
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 17607
+			}
+		
+
+
+			create_pop = {
+				culture = malayalam
+				size = 722365
+			}
+			create_pop = {
+				culture = malayalam
+				religion = sunni
+				size = 130848
+			}
+			create_pop = {
+				culture = malayalam
+				religion = protestant
+				size = 24469
+			}
+			create_pop = {
+				culture = tamil
+				size = 34425
+			}
+		
+}
 	}
 	s:STATE_MADRAS = {
 		region_state:FRA = {
 			create_pop = {
 				culture = tamil
-				size = 167970
+				size = 119252
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 18523
+				size = 13150
 			}
 			create_pop = {
 				culture = french
-				size = 414
+				size = 293
 			}
 			create_pop = {
 				culture = tamil
 				religion = catholic
-				size = 25592
+				size = 18169
 			}
 		}
 		
 		region_state:BIC = {
 			create_pop = {
 				culture = tamil
-				size = 9481562
+				size = 9921092
 			}
 			create_pop = {
 				culture = tamil
 				religion = protestant
-				size = 80876
+				size = 84624
 			}
 			create_pop = {
 				culture = british
-				size = 3306
+				size = 3458
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = british
-				size = 21017
+				size = 21991
 			}
 			create_pop = {
 				culture = scottish
-				size = 8098
+				size = 8473
 				pop_type = bureaucrats
 			}
 			create_pop = {
 				culture = kannada
-				size = 359747
+				size = 376423
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 659287
+				size = 689849
 			}
 			create_pop = {
 				culture = tamil
 				religion = catholic
-				size = 78533
+				size = 82172
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = tamil
-				size = 278190
+				size = 291085
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = kannada
-				size = 44974
+				size = 47058
 			}
 		
 
 			create_pop = {
 				culture = tamil
-				size = 267819
+				size = 280233
 			}
 			create_pop = {
 				culture = telegu
-				size = 6306
+				size = 6597
 			}
 			create_pop = {
 				culture = kannada
-				size = 4534
+				size = 4744
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 31533
+				size = 32994
 			}
 			create_pop = {
 				culture = tamil
 				religion = protestant
-				size = 9459
+				size = 9896
 			}
 		
 
 
 			create_pop = {
 				culture = tamil
-				size = 39815
+				size = 41660
 			}
 			create_pop = {
 				culture = tamil
 				religion = sunni
-				size = 5304
+				size = 5549
 			}
 			create_pop = {
 				culture = danish
-				size = 265
+				size = 276
 			}
 		
 }
 		
+	
+		region_state:DEN = {
+			create_pop = {
+				culture = tamil
+				size = 89971
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 9921
+			}
+			create_pop = {
+				culture = french
+				size = 221
+			}
+			create_pop = {
+				culture = tamil
+				religion = catholic
+				size = 13707
+			}
+		}
+		region_state:PUD = {
+			create_pop = {
+				culture = tamil
+				size = 218361
+			}
+			create_pop = {
+				culture = tamil
+				religion = sunni
+				size = 24079
+			}
+			create_pop = {
+				culture = french
+				size = 538
+			}
+			create_pop = {
+				culture = tamil
+				religion = catholic
+				size = 33269
+			}
+		}
 	}
 	s:STATE_HYDERABAD = {
-		region_state:BIC = {
+		
+	
+		region_state:HYD = {
 			create_pop = {
 				culture = telegu
-				size = 4019594
+				size = 5225472
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = telegu
-				size = 167482
+				size = 217726
 			}
 			create_pop = {
 				culture = marathi
-				size = 2813716
+				size = 3657830
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = marathi
-				size = 117237
+				size = 152408
 			}
 			create_pop = {
 				culture = kannada
-				size = 1205877
+				size = 1567640
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = kannada
-				size = 50243
+				size = 65315
 			}
 			create_pop = {
 				culture = deccani
-				size = 2270247
+				size = 2951321
 			}
 			create_pop = {
 				culture = deccani
 				religion = shiite
-				size = 546181
+				size = 710035
 			}
 			create_pop = {
 				pop_type = slaves
 				culture = deccani
-				size = 118240
+				size = 153712
 			}
 		}
 	}
@@ -2040,227 +5972,294 @@ POPS = {
 			create_pop = {
 				culture = marathi
 				religion = catholic
-				size = 441970
+				size = 340518
 			}
 			create_pop = {
 				culture = marathi
-				size = 91883
+				size = 70790
 			}
 			create_pop = {
 				culture = portuguese
-				size = 6881
+				size = 5300
 			}
 		}
 		region_state:BIC = {
 			create_pop = {
 				culture = marathi
-				size = 9452000
+				size = 9890160
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 1386208
+				size = 1450467
 			}
 			create_pop = {
 				culture = marathi
 				religion = shiite
-				size = 245984
+				size = 257386
 			}
 			create_pop = {
 				culture = kannada
 				religion = protestant
-				size = 464505
+				size = 486037
 			}
 			create_pop = {
 				culture = kannada
 				religion = hindu
-				size = 1877495
+				size = 1964528
 			}
 			create_pop = {
 				culture = kannada
 				religion = sunni
-				size = 274779
+				size = 287516
 			}
 			create_pop = {
 				culture = kannada
 				religion = shiite
-				size = 47904
+				size = 50124
 			}
 			create_pop = {
 				culture = deccani
 				religion = hindu
-				size = 539794
+				size = 564816
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 83090
+				size = 86941
 			}
 			create_pop = {
 				culture = deccani
 				religion = shiite
-				size = 14535
+				size = 15208
 			}
 			create_pop = {
 				culture = kannada
 				religion = protestant
-				size = 91903
+				size = 96162
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = bureaucrats
-				size = 4248
+				size = 4444
 			}
 			create_pop = {
 				culture = british
 				pop_type = capitalists
-				size = 925
+				size = 967
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = capitalists
-				size = 132
+				size = 137
 			}
 			create_pop = {
 				culture = british
 				pop_type = bureaucrats
-				size = 28055
+				size = 29355
 			}
 			create_pop = {
 				culture = british
 				pop_type = officers
-				size = 2661
+				size = 2784
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = officers
-				size = 939
+				size = 981
 			}
 			create_pop = {
 				culture = sindi
-				size = 268522
+				size = 280969
 			}
 			create_pop = {
 				culture = gujarati
-				size = 542271
+				size = 567408
 			}
 			create_pop = {
 				culture = sephardic
-				size = 7952
+				size = 8320
 			}
 			create_pop = {
 				culture = gujarati
 				religion = sunni
-				size = 134930
+				size = 141184
 			}
 			create_pop = {
 				culture = marathi
 				religion = catholic
-				size = 130428
+				size = 136473
 			}
 			create_pop = {
 				culture = persian
 				religion = animist # parsis
-				size = 11785
+				size = 12330
 			}
 		
 
 			create_pop = {
 				culture = marathi
-				size = 537904
+				size = 562839
 			}
 			create_pop = {
 				culture = kannada
-				size = 66294
+				size = 69366
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 39278
+				size = 41098
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 41269
+				size = 43181
 			}
 		
 
 
 			create_pop = {
 				culture = marathi
-				size = 800517
+				size = 837625
 			}
 			create_pop = {
 				culture = kannada
-				size = 92747
+				size = 97046
 			}
 			create_pop = {
 				culture = marathi
 				religion = sunni
-				size = 48527
+				size = 50776
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 40590
+				size = 42471
 			}
 		
 }
 		
 		
+	
+		region_state:KHP = {
+			create_pop = {
+				culture = marathi
+				religion = catholic
+				size = 574561
+			}
+			create_pop = {
+				culture = marathi
+				size = 119447
+			}
+			create_pop = {
+				culture = portuguese
+				size = 8945
+			}
+		}
 	}
 	s:STATE_KURNOOL = {
 		region_state:BIC = {
 			create_pop = {
 				culture = telegu
-				size = 1269885
+				size = 1328751
 			}
 			create_pop = {
 				culture = telegu
 				religion = sunni
-				size = 26930
+				size = 28178
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 92800
+				size = 97101
 			}
 			create_pop = {
 				culture = telegu
 				religion = protestant
-				size = 29879
+				size = 31263
 			}
 			create_pop = {
 				culture = kannada
-				size = 398395
+				size = 416862
 			}
 		
 
 			create_pop = {
 				culture = telegu
-				size = 370268
+				size = 387431
 			}
 			create_pop = {
 				culture = telegu
 				religion = sunni
-				size = 20947
+				size = 21917
 			}
 			create_pop = {
 				culture = deccani
 				religion = sunni
-				size = 59735
+				size = 62503
 			}
 			create_pop = {
 				culture = pathan
-				size = 6614
+				size = 6920
 			}
 			create_pop = {
 				culture = kannada
-				size = 28041
+				size = 29340
 			}
 		
 }
 		
+	
+		region_state:KNO = {
+			create_pop = {
+				culture = telegu
+				size = 1650850
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 35009
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 120640
+			}
+			create_pop = {
+				culture = telegu
+				religion = protestant
+				size = 38842
+			}
+			create_pop = {
+				culture = kannada
+				size = 517913
+			}
+		
+
+			create_pop = {
+				culture = telegu
+				size = 481348
+			}
+			create_pop = {
+				culture = telegu
+				religion = sunni
+				size = 27231
+			}
+			create_pop = {
+				culture = deccani
+				religion = sunni
+				size = 77655
+			}
+			create_pop = {
+				culture = pathan
+				size = 8598
+			}
+			create_pop = {
+				culture = kannada
+				size = 36453
+			}
+		
+}
 	}
 	s:STATE_BUNDELKHAND = {
 		
@@ -2269,64 +6268,193 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = chhattisgarhi
-				size = 389804
+				size = 407873
 			}
 			create_pop = {
 				culture = avadhi
-				size = 119348
+				size = 124880
 			}
 			create_pop = {
 				culture = avadhi
 				religion = sunni
-				size = 10622
+				size = 11113
 			}
 			create_pop = {
 				culture = gondi
-				size = 59814
+				size = 62586
 			}
 			create_pop = {
 				culture = gondi
 				religion = animist
-				size = 58490
+				size = 61201
 			}
 		
 
 			create_pop = {
 				culture = bageli
-				size = 909544
+				size = 951706
 			}
 			create_pop = {
 				culture = avadhi
-				size = 180508
+				size = 188875
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 90953
+				size = 95168
 			}
 		
 
 
 			create_pop = {
 				culture = bundeli
-				size = 906479
+				size = 948499
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 113295
+				size = 118546
 			}
 		
 
 
 			create_pop = {
 				culture = bundeli
-				size = 415791
+				size = 435065
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 51973
+				size = 54381
+			}
+		
+}
+	
+		region_state:SUR = {
+			create_pop = {
+				culture = chhattisgarhi
+				size = 506745
+			}
+			create_pop = {
+				culture = avadhi
+				size = 155152
+			}
+			create_pop = {
+				culture = avadhi
+				religion = sunni
+				size = 13808
+			}
+			create_pop = {
+				culture = gondi
+				size = 77758
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 76037
+			}
+		
+
+			create_pop = {
+				culture = bageli
+				size = 1182407
+			}
+			create_pop = {
+				culture = avadhi
+				size = 234660
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 118238
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				size = 1178422
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 147283
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				size = 540528
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 67564
+			}
+		
+}
+		region_state:JHN = {
+			create_pop = {
+				culture = chhattisgarhi
+				size = 506745
+			}
+			create_pop = {
+				culture = avadhi
+				size = 155152
+			}
+			create_pop = {
+				culture = avadhi
+				religion = sunni
+				size = 13808
+			}
+			create_pop = {
+				culture = gondi
+				size = 77758
+			}
+			create_pop = {
+				culture = gondi
+				religion = animist
+				size = 76037
+			}
+		
+
+			create_pop = {
+				culture = bageli
+				size = 1182407
+			}
+			create_pop = {
+				culture = avadhi
+				size = 234660
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 118238
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				size = 1178422
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 147283
+			}
+		
+
+
+			create_pop = {
+				culture = bundeli
+				size = 540528
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 67564
 			}
 		
 }
@@ -2335,75 +6463,147 @@ POPS = {
 		region_state:BIC = {
 			create_pop = {
 				culture = hindustani
-				size = 23758334
+				size = 24859683
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 3139284
+				size = 3284809
 			}
 			create_pop = {
 				culture = hindustani
 				religion = shiite
-				size = 210120
+				size = 219860
 			}
 			create_pop = {
 				culture = pathan
 				religion = sunni
-				size = 562160
+				size = 588219
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 2132
+				size = 2230
 			}
 			create_pop = {
 				culture = british
 				pop_type = capitalists
-				size = 264
+				size = 276
 			}
 			create_pop = {
 				culture = british
 				pop_type = bureaucrats
-				size = 11920
+				size = 12472
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = bureaucrats
-				size = 2396
+				size = 2506
 			}
 			create_pop = {
 				culture = british
 				pop_type = officers
-				size = 1059
+				size = 1107
 			}
 			create_pop = {
 				culture = scottish
 				pop_type = officers
-				size = 264
+				size = 276
 			}
 			create_pop = {
 				culture = armenian
-				size = 596
+				size = 622
 			}
 		
 
 			create_pop = {
 				culture = pahari
-				size = 229618
+				size = 240261
 			}
 			create_pop = {
 				culture = hindustani
-				size = 13361
+				size = 13980
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 12064
+				size = 12623
 			}
 		
 }
 		
+	
+		region_state:GAR = {
+			create_pop = {
+				culture = hindustani
+				size = 30885834
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 4081069
+			}
+			create_pop = {
+				culture = hindustani
+				religion = shiite
+				size = 273156
+			}
+			create_pop = {
+				culture = pathan
+				religion = sunni
+				size = 730808
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 2771
+			}
+			create_pop = {
+				culture = british
+				pop_type = capitalists
+				size = 343
+			}
+			create_pop = {
+				culture = british
+				pop_type = bureaucrats
+				size = 15496
+			}
+			create_pop = {
+				culture = scottish
+				pop_type = bureaucrats
+				size = 3114
+			}
+			create_pop = {
+				culture = british
+				pop_type = officers
+				size = 1376
+			}
+			create_pop = {
+				culture = scottish
+				pop_type = officers
+				size = 343
+			}
+			create_pop = {
+				culture = armenian
+				size = 774
+			}
+		
+
+			create_pop = {
+				culture = pahari
+				size = 298503
+			}
+			create_pop = {
+				culture = hindustani
+				size = 17369
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 15683
+			}
+		
+}
 	}
 	s:STATE_HILL_PUNJAB = {
 		
@@ -2411,59 +6611,59 @@ POPS = {
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 16283
+				size = 17037
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 8071
+				size = 8444
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 5452
+				size = 5704
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 5174
+				size = 5413
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 4102
+				size = 4291
 			}
 		
 
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 514268
+				size = 538107
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 44134
+				size = 46179
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 163262
+				size = 170829
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 17680
+				size = 18499
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 174599
+				size = 182692
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu # jains
-				size = 6503
+				size = 6803
 			}
 		
 
@@ -2471,36 +6671,36 @@ POPS = {
 			create_pop = {
 				culture = panjabi
 				religion = hindu
-				size = 486108
+				size = 508641
 			}
 			create_pop = {
 				culture = pahari
 				religion = hindu
-				size = 265479
+				size = 277785
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sunni
-				size = 711720
+				size = 744712
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 31312
+				size = 32763
 			}
 			create_pop = {
 				culture = hindustani
-				size = 57404
+				size = 60064
 			}
 			create_pop = {
 				culture = panjabi
 				religion = sikh
-				size = 324669
+				size = 339718
 			}
 			create_pop = {
 				culture = panjabi
 				religion = hindu # jains
-				size = 7127
+				size = 7457
 			}
 		
 
@@ -2508,36 +6708,297 @@ POPS = {
 			create_pop = {
 				culture = pahari
 				religion = hindu
-				size = 374505
+				size = 391865
 			}
 			create_pop = {
 				culture = hindustani
 				religion = hindu
-				size = 26588
+				size = 27820
 			}
 			create_pop = {
 				culture = pahari
 				religion = sunni
-				size = 14095
+				size = 14747
 			}
 			create_pop = {
 				culture = hindustani
 				religion = sunni
-				size = 4777
+				size = 4998
 			}
 			create_pop = {
 				culture = pahari
 				religion = sikh
-				size = 1846
+				size = 1930
 			}
 			create_pop = {
 				culture = pahari
 				religion = hindu # jains
-				size = 302
+				size = 315
 			}
 		
 }
 		
 		
+	
+		region_state:GAR = {
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 21167
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 10492
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 7087
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6726
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 5332
+			}
+		
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 668548
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 57374
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 212240
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 22984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 226978
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu # jains
+				size = 8453
+			}
+		
+
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 631940
+			}
+			create_pop = {
+				culture = pahari
+				religion = hindu
+				size = 345122
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 925236
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 40705
+			}
+			create_pop = {
+				culture = hindustani
+				size = 74625
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 422069
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu # jains
+				size = 9265
+			}
+		
+
+
+			create_pop = {
+				culture = pahari
+				religion = hindu
+				size = 486856
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 34564
+			}
+			create_pop = {
+				culture = pahari
+				religion = sunni
+				size = 18323
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6210
+			}
+			create_pop = {
+				culture = pahari
+				religion = sikh
+				size = 2399
+			}
+			create_pop = {
+				culture = pahari
+				religion = hindu # jains
+				size = 392
+			}
+		
+}
+		region_state:PTA = {
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 21167
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 10492
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 7087
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6726
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 5332
+			}
+		
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 668548
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 57374
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 212240
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 22984
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 226978
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu # jains
+				size = 8453
+			}
+		
+
+
+			create_pop = {
+				culture = panjabi
+				religion = hindu
+				size = 631940
+			}
+			create_pop = {
+				culture = pahari
+				religion = hindu
+				size = 345122
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sunni
+				size = 925236
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 40705
+			}
+			create_pop = {
+				culture = hindustani
+				size = 74625
+			}
+			create_pop = {
+				culture = panjabi
+				religion = sikh
+				size = 422069
+			}
+			create_pop = {
+				culture = panjabi
+				religion = hindu # jains
+				size = 9265
+			}
+		
+
+
+			create_pop = {
+				culture = pahari
+				religion = hindu
+				size = 486856
+			}
+			create_pop = {
+				culture = hindustani
+				religion = hindu
+				size = 34564
+			}
+			create_pop = {
+				culture = pahari
+				religion = sunni
+				size = 18323
+			}
+			create_pop = {
+				culture = hindustani
+				religion = sunni
+				size = 6210
+			}
+			create_pop = {
+				culture = pahari
+				religion = sikh
+				size = 2399
+			}
+			create_pop = {
+				culture = pahari
+				religion = hindu # jains
+				size = 392
+			}
+		
+}
 	}
 }

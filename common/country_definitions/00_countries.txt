@@ -2058,6 +2058,8 @@ CAN = {
 
 	cultures = { anglo_canadian franco_canadian }
 	capital = STATE_ONTARIO
+
+	religion = protestant
 }
 
 CHE = {
@@ -3244,7 +3246,7 @@ PUE = { # Pueblo
 }
 
 NNV = { # Nunavut
-	color = { 205 214 216 }
+	color = { 250 249 245 }
 
 	country_type = decentralized #unrecognized
 
@@ -3268,7 +3270,7 @@ NVL = { # Navajoland
 }
 
 ATB = { # Athabaska
-	color = { 88 105 137 }
+	color = { 250 249 245 }
 
 	country_type = decentralized
 

@@ -1,5 +1,5 @@
-﻿COUNTRIES = {
-	c:DAI ?= { 
+COUNTRIES = {
+	c:Y32 ?= {
         effect_starting_technology_tier_4_tech = yes
 		add_technology_researched = malaria_prevention
 		add_technology_researched = civilizing_mission

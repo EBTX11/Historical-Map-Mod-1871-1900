@@ -2700,7 +2700,7 @@
 		}
 	}
 	s:STATE_ANTOFAGASTA={
-		region_state:CHL={
+		region_state:BOL={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={

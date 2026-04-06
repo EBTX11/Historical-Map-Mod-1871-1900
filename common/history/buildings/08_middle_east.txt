@@ -1090,41 +1090,7 @@
 				activate_production_methods={ "pm_no_naval_theory" }
 			}
 		}
-		region_state:RUS={
-			create_building={
-				building="building_logging_camp"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_saw_mills" "pm_road_carts" "pm_steam_donkey_building_logging_camp" "pm_increased_hardwood" }
-			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
-		}
+		
 	}
 	s:STATE_PALESTINE={
 		region_state:TUR={
@@ -1296,66 +1262,7 @@
 				activate_production_methods={ "pm_no_organization" }
 			}
 		}
-		region_state:RUS={
-			create_building={
-				building="building_millet_farm"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_fig_orchards" "pm_fertilization" "pm_steam_threshers" }
-			}
-			create_building={
-				building="building_government_administration"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_hereditary_bureaucrats" "pm_religious_bureaucrats" }
-			}
-			create_building={
-				building="building_power_plant"
-				add_ownership={
-					building={
-						type="building_power_plant"
-						country="c:RUS"
-						levels=1
-						region="STATE_SYRIA"
-					}
-				}
-				subsidized=yes
-				reserves=1
-				activate_production_methods={ "pm_early_power_plant" }
-			}
-			create_building={
-				building="building_construction_sector"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_steel_frame_buildings" }
-			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
-		}
+		
 	}
 	s:STATE_ALEPPO={
 		region_state:TUR={
@@ -2158,8 +2065,7 @@
 				activate_production_methods={ "default_building_dye_plantation" "slave_exploitation_dye" "pm_steam_rail_transport" }
 			}
 		}
-		region_state:OMA={
-		}
+		
 	}
 	s:STATE_KERMAN={
 		region_state:PER={

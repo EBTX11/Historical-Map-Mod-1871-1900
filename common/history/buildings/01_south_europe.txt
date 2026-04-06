@@ -12328,7 +12328,7 @@
 		}
 	}
 	s:STATE_BULGARIA={
-		region_state:TUR={
+		region_state:BUL={
 			create_building={
 				building="building_furniture_manufactory"
 				add_ownership={
