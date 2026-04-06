@@ -16,7 +16,7 @@ TRN = {
 }
 
 
-MAD = { 
+INJECT:MAD = {
 	dynamic_country_name = {
 		name = dyn_c_MAD_01
 		adjective = MAD_ADJ
@@ -29,8 +29,25 @@ MAD = {
 			has_game_rule = historical_map_mod_enabled
 		}
 	}
-}
-  
+	dynamic_country_name = {
+		name = dyn_c_Madagascar
+		adjective = MAD_ADJ
+
+		is_main_tag_only = yes
+		priority = 5
+		
+		trigger = {
+			exists = c:FRA
+			c:FRA = {
+				has_diplomatic_pact = {
+					who = c:MAD
+					type = colony
+					is_initiator = yes
+				}
+			}
+		}
+	}
+}  
  
 INJECT:ORA = { 
 	dynamic_country_name = {
@@ -77,10 +94,17 @@ CAN = {
 		trigger = {
 			exists = c:GBR
 			c:GBR = {
-				has_diplomatic_pact = {
-					who = c:CAN
-					type = dominion
-					is_initiator = yes
+				or  = {
+					has_diplomatic_pact = {
+						who = c:CAN
+						type = dominion
+						is_initiator = yes
+					}
+					has_diplomatic_pact = {
+						who = c:CAN
+						type = colony
+						is_initiator = yes
+					}
 				}
 			}
 		}
@@ -1904,26 +1928,6 @@ INJECT:POL = {
 		}
 	}
 }
-INJECT:MAD = {
-	dynamic_country_name = {
-		name = dyn_c_Madagascar
-		adjective = MAD_ADJ
-
-		is_main_tag_only = yes
-		priority = 5
-		
-		trigger = {
-			exists = c:FRA
-			c:FRA = {
-				has_diplomatic_pact = {
-					who = c:MAD
-					type = colony
-					is_initiator = yes
-				}
-			}
-		}
-	}
-} 
 INJECT:KOR = { # Korea 
 	dynamic_country_name = {
 		name = dyn_c_empire_of_korea
