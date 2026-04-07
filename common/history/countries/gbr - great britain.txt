@@ -93,5 +93,8 @@
 			}
 		}
 		trigger_event = { id = raj.1 } 
+		set_variable = {
+			name = british_raj_var
+		}
 	}
 }

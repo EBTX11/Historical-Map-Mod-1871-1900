@@ -51,13 +51,15 @@
 		ig:ig_intelligentsia ?= {
 			add_ruling_interest_group = yes
 		}
-		add_journal_entry = {
-			type = je_matter_of_hungary
-		}
-		start_national_awakening = {
-			culture = cu:czech
-			months = 168
-			state_region = s:STATE_BOHEMIA
-		}
+		# start_national_awakening = {
+		# 	culture = cu:czech
+		# 	months = 168
+		# 	state_region = s:STATE_BOHEMIA
+		# }
+ 
+		# add_journal_entry = {
+		# 	type = je_matter_of_hungary
+		# }
+		set_variable = established_austria_hungary_var
 	}
 }
