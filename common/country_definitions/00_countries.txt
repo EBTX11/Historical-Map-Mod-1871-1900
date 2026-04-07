@@ -2197,9 +2197,9 @@ ATL = {
 }
 
 MEX = {
-	color = { 95 169 102 } 
+	color = { 56 143 53 }
 
-	country_type = colonial #recognized
+	country_type = recognized
  
 	tier = kingdom
 
