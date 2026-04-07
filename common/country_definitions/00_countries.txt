@@ -2197,7 +2197,7 @@ ATL = {
 }
 
 MEX = {
-	color = { 23 43 25 } 
+	color = { 95 169 102 } 
 
 	country_type = colonial #recognized
  
@@ -2209,6 +2209,7 @@ MEX = {
 
 	religion = catholic
 }
+
 
 MTC = {
 	color = { 207 158 126 }

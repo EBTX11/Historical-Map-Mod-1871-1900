@@ -43,7 +43,7 @@
 	} 
 	c:MEX ?= {
         create_character = {
-            template = aus_maximilian_I_habsburg_template
+            template = mex_juarez_character_template
 			ruler = yes
 		}
 	} 
