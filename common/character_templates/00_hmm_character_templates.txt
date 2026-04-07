@@ -232,3 +232,48 @@ bourbon_parma_character_template = {
     female = no
     birth_date = 1773.08.05
 }
+
+hohenzollern_character_template = {
+    first_name = wilhelm
+    last_name = hohenzollern
+    historical = yes
+    culture = primary_culture #cu:
+    female = no
+    birth_date = 1797.03.22
+}
+
+savoy_character_template = {
+    first_name = amadeo
+    last_name = savoy
+    historical = yes
+    culture = primary_culture #cu:
+    female = no
+    birth_date = 1845.05.30
+}
+
+gioro_character_template = {
+    first_name = zaichun
+    last_name = aisin_gioro
+    historical = yes
+    culture = primary_culture #cu:
+    female = no
+    birth_date = 1856.04.27
+}
+
+glucksburg_character_template = {
+    first_name = christian
+    last_name = glucksburg
+    historical = yes
+    culture = primary_culture #cu:
+    female = no
+    birth_date = 1818.04.08
+}
+
+glucksburg_georgios_character_template = {
+    first_name = georgios
+    last_name = glucksburg
+    historical = yes
+    culture = primary_culture #cu:
+    female = no
+    birth_date = 1845.12.24
+}

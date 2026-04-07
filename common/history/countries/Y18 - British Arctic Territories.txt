@@ -1,5 +1,8 @@
 ﻿
 COUNTRIES = {
-	c:Y18= {  
+	c:Y18= {
+
+		activate_law = law_type:law_colonial_administration
+  
 	}
 }

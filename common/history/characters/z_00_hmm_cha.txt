@@ -1,7 +1,7 @@
 ﻿CHARACTERS = {  
 	c:FRA ?= { 
         create_character = {
-            template =  fra_napoleon_iii_character_template
+            template = FRA_adolphe_thiers
 			ruler = yes
 		} 
 	}
@@ -23,24 +23,18 @@
 			ruler = yes
 		}
 	} 
-	c:NGF ?= {
+	c:GER ?= {
         create_character = {
-            template =  pru_wilhelm_IV_hohenzollern_template
+            template =  hohenzollern_character_template
 			ruler = yes
 		}
 	}  
 	c:USA ?= {
         create_character = {
-            template =  usa_lincoln_character_template
+            template =  usa_general_grant
 			ruler = yes
 		}
-	} 
-	c:CSA ?= {
-        create_character = {
-            template = csa_jefferson_davis_template
-			ruler = yes
-		}
-	} 
+	}  
 	c:MEX ?= {
         create_character = {
             template = mex_juarez_character_template
@@ -49,13 +43,13 @@
 	} 
 	c:JAP ?= {
         create_character = {
-            template = JAP_komei_yamato
+            template = JAP_meiji_yamato
 			ruler = yes
 		}
 	} 
 	c:TUR ?= {
         create_character = {
-            template = tur_abdulmecid_osmanoglu_template
+            template = tur_abdulaziz_osmanoglu_template
 			ruler = yes
 		}
 	} 
@@ -65,6 +59,65 @@
 			ruler = yes
 		}
 	} 
+	c:SPA ?= {
+        create_character = {
+            template = savoy_character_template
+			ruler = yes
+		}
+	} 
+	c:CHI ?= {
+        create_character = {
+            template = gioro_character_template
+			ruler = yes
+		}
+	} 
+	c:BRZ ?= {
+        create_character = {
+            template = brz_pedro_braganca_template
+			ruler = yes
+		}
+	} 
+	c:NET ?= {
+        create_character = {
+            template = NET_willem_ii_van_oranje_nassau
+			ruler = yes
+		}
+	} 
+	c:BEL ?= {
+        create_character = {
+            template = BEL_leopold_II_saxe_coburg_gotha_template
+			ruler = yes
+		}
+	} 
+	c:SWZ ?= {
+        create_character = {
+            template = swe_charles_bernadotte_template
+			ruler = yes
+		}
+	} 
+	c:DEN ?= {
+        create_character = {
+            template = glucksburg_character_template
+			ruler = yes
+		}
+	} 
+	c:POR ?= {
+        create_character = {
+            template = POR_luis_i_de_braganca_template
+			ruler = yes
+		}
+	} 
+	c:GRE ?= {
+        create_character = {
+            template = glucksburg_georgios_character_template
+			ruler = yes
+		}
+	} 
+
+
+
+
+
 
 
 

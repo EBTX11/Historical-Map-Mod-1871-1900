@@ -1,27 +1,27 @@
-# INJECT:JAP = {	
-# 	flag_definition = {
-# 		coa = JAP
-# 		subject_canton = JAP
-# 		priority = 1500
-# 		trigger = {
-# 			scope:actor = {
-# 				has_law = law_type:law_monarchy
-# 				has_law = law_type:law_oligarchy
-# 			}
-# 		}
-# 	}
-# 	flag_definition = {
-# 		coa = JAP_rising_sun
-# 		subject_canton = JAP_rising_sun	
-# 		priority = 1500
-# 		trigger = {
-# 			scope:actor = {
-# 				has_law = law_type:law_monarchy
-# 				has_law = law_type:law_autocracy
-# 			}
-# 		}
-# 	}
-# }
+INJECT:JAP = {	
+	flag_definition = {
+		coa = JAP
+		subject_canton = JAP
+		priority = 1500
+		trigger = {
+			scope:actor = {
+				has_law = law_type:law_monarchy
+				has_law = law_type:law_oligarchy
+			}
+		}
+	}
+	flag_definition = {
+		coa = JAP_rising_sun
+		subject_canton = JAP_rising_sun	
+		priority = 1500
+		trigger = {
+			scope:actor = {
+				has_law = law_type:law_monarchy
+				has_law = law_type:law_autocracy
+			}
+		}
+	}
+}
 # INJECT:HUN = { 
 # 	flag_definition = {
 # 		coa = AUS_austria_hungary
