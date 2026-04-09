@@ -45,7 +45,7 @@ RUS = {
 	tier = empire
 
 	cultures = { russian }
-	capital = STATE_MOSCOW
+	capital = STATE_INGRIA
  
 
 	religion = orthodox
