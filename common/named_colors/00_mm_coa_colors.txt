@@ -1,6 +1,6 @@
 colors = {
 	todo_purple = rgb { 1 0.4 0.6 }
-	highlight = 	hsv360 	{	195	25	100	}
+	highlight = hsv360 	{	195	25	100	}
 
 	brun = {222 193 158}
 	white = {250 250 250}
