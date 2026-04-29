@@ -77,14 +77,16 @@ STATES = {
 		add_homeland = cu:british
 	}
 	s:STATE_PROVENCE = {
-		create_state = {
-			country = c:FRA
-			owned_provinces = {
-				x3040E0 x31C0DF x6D5E3F xB040E0 xB0C060 xB0C0E0 xC03918 xCB9C34 x5080E0
-			}
-		}
-		add_homeland = cu:french
-		add_homeland = cu:occitan
+	    create_state = {
+	        country = c:FRA
+	        owned_provinces = { x3040E0 x31C0DF x5080E0 x6D5E3F xB040E0 xB0C0E0 xC03918 xCB9C34 }
+	    }
+	    create_state = {
+	        country = c:MOO
+	        owned_provinces = { xB0C060 }
+	    }
+	    add_homeland = cu:french
+	    add_homeland = cu:occitan
 	}
 	s:STATE_NORMANDY = {
 		create_state = {
@@ -1291,14 +1293,16 @@ STATES = {
 		add_homeland = cu:basque
 	}
 	s:STATE_CATALONIA = {
-		create_state = {
-			country = c:SPA
-			owned_provinces = {
-				x2914C3 x0C64AC x945748 x08B4D6 x936FF3 xE0C020 xD616D2 x11E041 x906040 xC2FFD9 x890622
-			}
-		}
-		add_homeland = cu:spanish
-		add_homeland = cu:catalan
+	    create_state = {
+	        country = c:ADR
+	        owned_provinces = { x2914C3 }
+	    }
+	    create_state = {
+	        country = c:SPA
+	        owned_provinces = { x08B4D6 x0C64AC x11E041 x890622 x906040 x936FF3 x945748 xC2FFD9 xD616D2 xE0C020 }
+	    }
+	    add_homeland = cu:spanish
+	    add_homeland = cu:catalan
 	}
 	s:STATE_BALEARIC_ISLANDS = {
 		create_state = {
@@ -6940,21 +6944,15 @@ STATES = {
 		add_homeland = cu:pashtun
 	}
 	s:STATE_BALKH = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { xE1BF87 }
-		}
-		create_state = {
-			country = c:AFG
-			owned_provinces = { x4E989A
-				x5E6C67 x4D6A94 x5A2C89 xBFE803 x11B523 xA77FF1 xEBD91F xD7BD36 x8C7935 x8BB3DE x7520FB xB7ED78 x0E5E2E x7D64E2 xE63AF6 xF902AB x854685 xF36208 xCA3319 xB1300D x9B29C7 x0487A7 x216DD8 xF9780E xB6BC96 x3672D9 x54A683 x596A90 xEABDEE xE78EEE x69FEB3 x16620F x4D7E7C x357612 xA030A0 xB4E735 x3C909A
-			}
-		}
-		add_homeland = cu:pashtun
-		add_homeland = cu:uzbek
-		add_homeland = cu:tajik
-		add_homeland = cu:hazara
-		add_homeland = cu:turkmen
+	    create_state = {
+	        country = c:AFG
+	        owned_provinces = { x0487A7 x0E5E2E x11B523 x16620F x216DD8 x357612 x3672D9 x3C909A x4D6A94 x4D7E7C x4E989A x54A683 x596A90 x5A2C89 x5E6C67 x69FEB3 x7520FB x7D64E2 x854685 x8BB3DE x8C7935 x9B29C7 xA030A0 xA77FF1 xB1300D xB4E735 xB6BC96 xB7ED78 xBFE803 xCA3319 xD7BD36 xE1BF87 xE63AF6 xE78EEE xEABDEE xEBD91F xF36208 xF902AB xF9780E }
+	    }
+	    add_homeland = cu:pashtun
+	    add_homeland = cu:uzbek
+	    add_homeland = cu:tajik
+	    add_homeland = cu:hazara
+	    add_homeland = cu:turkmen
 	}
 	s:STATE_QUETTA = {
 		create_state = {
@@ -7152,21 +7150,13 @@ STATES = {
 		add_claim = c:RUS
 	}
 	s:STATE_HOKKAIDO = {
-		create_state = {
-			country = c:AIN
-			owned_provinces = {
-				x6275D4 x65D8B2 x5F2A24 x103C2B xEEB7F4 x413F60 x03E00D x86757A x420E86 xC85C0C x1E9A93 x70C55B x17C8CA x210B6E x85C158 x2090C0 x3EA37A x493B76 x9E56C2 xA011C0 x3974DA
-			}
-		}
-		create_state = {
-			country = c:JAP
-			owned_provinces = {
-				xA090C0 x40BDB8 xF17C01
-			}
-		}
-		add_homeland = cu:japanese
-		add_homeland = cu:ainu
-		add_claim = c:JAP
+	    create_state = {
+	        country = c:JAP
+	        owned_provinces = { x03E00D x103C2B x17C8CA x1E9A93 x2090C0 x210B6E x3974DA x3EA37A x40BDB8 x413F60 x420E86 x493B76 x5F2A24 x6275D4 x65D8B2 x70C55B x85C158 x86757A x9E56C2 xA011C0 xA090C0 xC85C0C xEEB7F4 xF17C01 }
+	    }
+	    add_homeland = cu:japanese
+	    add_homeland = cu:ainu
+	    add_claim = c:JAP
 	}
 	s:STATE_TOHOKU = {
 		create_state = {

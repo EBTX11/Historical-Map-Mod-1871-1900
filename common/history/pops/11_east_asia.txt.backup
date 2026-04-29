@@ -2324,12 +2324,7 @@
  		region_state:JAP = {
  			create_pop = {
  				culture = japanese
- 				size = 5915131
- 			}
- 			create_pop = {
- 				culture = japanese
- 				religion = shinto
- 				size = 1197691
+ 				size = 7112822
  			}
  		}
  	}

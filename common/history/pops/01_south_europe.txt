@@ -298,18 +298,26 @@
 		
 	}
 	s:STATE_CATALONIA = {
-		region_state:SPA = {
+		region_state:ADR = {
 			create_pop = {
 				culture = catalan
-				size = 1451200
+				size = 131927
 			}
 			create_pop = {
 				culture = spanish
-				size = 78364
+				size = 7124
 			}
 		}
-		# Carlist controlled territories + 50k moved here for gameplay reasons
-		
+		region_state:SPA = {
+			create_pop = {
+				culture = catalan
+				size = 1319273
+			}
+			create_pop = {
+				culture = spanish
+				size = 71240
+			}
+		}
 	}
 	s:STATE_BALEARIC_ISLANDS = {
 		region_state:SPA = {

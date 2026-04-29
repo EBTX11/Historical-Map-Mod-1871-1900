@@ -1,24 +1,13 @@
-POPS = {
- 	s:STATE_LOMBARDY = { 
- 		region_state:ITA = { 
+﻿POPS = {
+ 	s:STATE_LOMBARDY = {
+ 		region_state:ITA = {
  			create_pop = {
  				culture = north_italian
- 				size = 3374161
+ 				size = 3377768
  			}
- 			create_pop = {
- 				culture = north_italian
- 				religion = jewish
- 				size = 520
- 			}
- 		}
- 		region_state:LIE = { 
  			create_pop = {
  				culture = south_german
  				size = 3088
- 			}
- 			create_pop = {
- 				culture = north_italian
- 				size = 3087
  			}
  		}
  	}
@@ -309,18 +298,26 @@ POPS = {
 		
 	}
 	s:STATE_CATALONIA = {
-		region_state:SPA = {
+		region_state:ARD = {
 			create_pop = {
 				culture = catalan
-				size = 1451200
+				size = 131927
 			}
 			create_pop = {
 				culture = spanish
-				size = 78364
+				size = 7124
 			}
 		}
-		# Carlist controlled territories + 50k moved here for gameplay reasons
-		
+		region_state:SPA = {
+			create_pop = {
+				culture = catalan
+				size = 1319273
+			}
+			create_pop = {
+				culture = spanish
+				size = 71240
+			}
+		}
 	}
 	s:STATE_BALEARIC_ISLANDS = {
 		region_state:SPA = {

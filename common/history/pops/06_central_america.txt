@@ -54,34 +54,16 @@
 				size = 5200
 			}
 		}
-		# region_state:MKT = {
-		# 	create_pop = {
-		# 		culture = miskito # Tawira Miskito
-		# 		size = 39000
-		# 	}
-		# 	create_pop = {
-		# 		culture = miskito
-		# 		religion = protestant
-		# 		size = 13000
-		# 	}
-		# 	create_pop = {
-		# 		culture = afro_caribbean # Miskito Sambu
-		# 		size = 26000
-		# 	}
-		# 	create_pop = {
-		# 		culture = afro_caribeno
-		# 		size = 650
-		# 	}
-		# 	create_pop = {
-		# 		culture = british
-		# 		size = 650
-		# 	}
-		# 	create_pop = {
-		# 		pop_type = slaves
-		# 		culture = afro_caribeno
-		# 		size = 1300
-		# 	}
-		# }
+		region_state:MKT = {
+			create_pop = {
+				culture = central_american
+				size = 36920
+			}
+			create_pop = {
+				culture = miskito # Miskito pop. across the 'borders'
+				size = 5200
+			}
+		} 
 	}
 	s:STATE_COSTA_RICA = {
 		region_state:COS = {

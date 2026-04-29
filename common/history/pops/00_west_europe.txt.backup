@@ -646,35 +646,27 @@
  			}
  		}
 	}
- 	s:STATE_PROVENCE = {
- 		region_state:FRA = {
+ 	s:STATE_PROVENCE = { 
+ 		region_state:FRA = { 
  			create_pop = {
  				culture = occitan
- 				size = 610679
+ 				size = 679131
+ 			}
+ 			create_pop = {
+ 				culture = occitan
+ 				religion = protestant
+ 				size = 7883
  			}
  			create_pop = {
  				culture = french
- 				size = 21800
+ 				size = 24525
  			}
  			create_pop = {
  				culture = sephardic
- 				size = 1418
+ 				size = 1595
  			}
  		}
- 		region_state:MOO = {
- 			create_pop = {
- 				culture = occitan
- 				size = 76335
- 			}
- 			create_pop = {
- 				culture = french
- 				size = 2725
- 			}
- 			create_pop = {
- 				culture = sephardic
- 				size = 177
- 			}
- 		}
+ 		
  	}
  	s:STATE_NORMANDY = { 
  		region_state:FRA = { 

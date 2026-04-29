@@ -2835,6 +2835,28 @@
  		}
 	}
  	s:STATE_EQUATORIA = { 
+		region_state:TRK = { 
+ 			create_pop = {
+ 				culture = maasai
+ 				size = 67610
+ 			}
+ 			create_pop = {
+ 				culture = luo
+ 				size = 140929
+ 			}
+ 			create_pop = {
+ 				culture = nilotic
+ 				size = 219442
+ 			}
+ 			create_pop = {
+ 				culture = kikuyu
+ 				size = 42103
+ 			}
+ 			create_pop = {
+ 				culture = lacustrine_bantu
+ 				size = 13
+ 			}
+ 		}
  		region_state:SUD = { 
  			create_pop = {
  				culture = sudanese
@@ -3230,6 +3252,38 @@
  			}
  		}
 		region_state:Y30 = { 
+ 			create_pop = {
+ 				culture = equatorial_bantu
+ 				size = 1000333
+ 			}
+ 			create_pop = {
+ 				culture = fang
+ 				size = 41
+ 			}
+ 			create_pop = {
+ 				culture = bedouin
+ 				religion = animist
+ 				size = 52
+ 			}
+ 			create_pop = {
+ 				culture = kanuri
+ 				size = 20771
+ 			}
+ 			create_pop = {
+ 				culture = fulbe
+ 				size = 145418
+ 			}
+ 			create_pop = {
+ 				culture = bedouin
+ 				size = 25959
+ 			}
+ 			create_pop = {
+ 				culture = fulbe
+ 				religion = animist
+ 				size = 291
+ 			}
+ 		}
+		region_state:CMU = { 
  			create_pop = {
  				culture = equatorial_bantu
  				size = 1000333

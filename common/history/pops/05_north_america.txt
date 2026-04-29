@@ -458,8 +458,16 @@
  		}
  	}
  	s:STATE_WYOMING = { 
- 		
- 	
+		region_state:Y14 = {  
+ 			create_pop = {
+ 				culture = cree
+ 				size = 31200
+ 			}
+ 			create_pop = {
+ 				culture = siouan
+ 				size = 15860
+ 			}
+ 		} 
 		region_state:Y22 = { 
  			create_pop = {
  				culture = paiute
@@ -2060,8 +2068,17 @@
  				culture = siouan
  				size = 15860
  			}
+ 		} 
+		region_state:Y14 = {  
+ 			create_pop = {
+ 				culture = cree
+ 				size = 31200
+ 			}
+ 			create_pop = {
+ 				culture = siouan
+ 				size = 15860
+ 			}
  		}
- 	
 		region_state:NWT = { 
  			create_pop = {
  				culture = metis

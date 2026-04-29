@@ -111,10 +111,7 @@ POPS = {
  		}
  		
  	}
- 	s:STATE_ERITREA = { 
- 		
- 		
- 	
+ 	s:STATE_ERITREA = {  
 		region_state:ERI = { 
  			create_pop = {
  				culture = tigray
@@ -191,7 +188,7 @@ POPS = {
  				size = 83
  			}
  		}
-		region_state:EGY = { 
+		region_state:ETH = { 
  			create_pop = {
  				culture = tigray
  				size = 98692
@@ -305,6 +302,20 @@ POPS = {
  			}
  		}
 		region_state:GBR = { 
+ 			create_pop = {
+ 				culture = bedouin
+ 				size = 852930
+ 			}
+ 			create_pop = {
+ 				culture = sudanese
+ 				size = 124891
+ 			}
+ 			create_pop = {
+ 				culture = beja
+ 				size = 166509
+ 			}
+ 		}
+		region_state:ERI = { 
  			create_pop = {
  				culture = bedouin
  				size = 852930
