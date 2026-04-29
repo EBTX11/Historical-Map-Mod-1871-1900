@@ -707,19 +707,75 @@
 		region_state:GER = {
 			create_pop = {
 				culture = north_german
-				size = 368922
+				religion = catholic
+				size = 117949
+			}
+			create_pop = {
+				culture = north_german
+				size = 96505
 			}
 			create_pop = {
 				culture = ashkenazi
-				size = 14996
+				size = 9839
 			}
 			create_pop = {
 				culture = polish
-				size = 412957
+				size = 301731
+			}
+			create_pop = {
+				culture = polish
+				religion = protestant
+				size = 15879
 			}
 			create_pop = {
 				culture = czech
-				size = 68498
+				religion = catholic
+				size = 6023
+			}
+			create_pop = {
+				culture = czech
+				religion = protestant
+				size = 2581
+			} 
+		    create_pop = {
+		        culture = north_german
+		        religion = catholic
+		        size = 98586
+		    }
+		    create_pop = {
+		        culture = north_german
+		        size = 41744
+		    }
+		    create_pop = {
+		        culture = polish
+		        size = 94019
+		    }
+		    create_pop = {
+		        culture = polish
+		        religion = protestant
+		        size = 1328
+		    }
+		    create_pop = {
+		        culture = czech
+		        religion = catholic
+		        size = 56108
+		    }
+		    create_pop = {
+		        culture = czech
+		        religion = protestant
+		        size = 3786
+		    }
+		    create_pop = {
+		        culture = ashkenazi
+		        religion = jewish
+		        size = 5157
+		    }
+		}
+		region_state:AUS = {
+			create_pop = {
+				culture = north_german
+				religion = catholic
+				size = 14138
 			}
 		}
 	}

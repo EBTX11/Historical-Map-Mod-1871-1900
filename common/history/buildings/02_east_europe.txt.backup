@@ -344,6 +344,55 @@
 				activate_production_methods={ "pm_simple_organization" "pm_professional_bureaucrats" "pm_religious_bureaucrats" }
 			}
 		}
+		region_state:AUS={
+			create_building={
+				building="building_barrack"
+				add_ownership={
+					country={
+						country="c:AUS"
+						levels=16
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_advanced_tactics_training" }
+			}
+			create_building={
+				building="building_power_plant"
+				add_ownership={
+					building={
+						type="building_power_plant"
+						country="c:AUS"
+						levels=1
+						region="STATE_UPPER_SILESIA"
+					}
+				}
+				subsidized=yes
+				reserves=1
+				activate_production_methods={ "pm_early_power_plant" }
+			}
+			create_building={
+				building="building_construction_sector"
+				add_ownership={
+					country={
+						country="c:AUS"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_steel_frame_buildings" }
+			}
+			create_building={
+				building="building_government_administration"
+				add_ownership={
+					country={
+						country="c:AUS"
+						levels=2
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_religious_bureaucrats" "pm_simple_organization" "pm_hereditary_bureaucrats" }
+			}
+		}
 	}
 	s:STATE_GREATER_POLAND={
 		region_state:POL={
