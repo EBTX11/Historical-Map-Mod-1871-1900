@@ -25,9 +25,13 @@
 	} 
 	c:GER ?= {
         create_character = {
-            template =  hohenzollern_character_template
+            template = hohenzollern_2_character_template
 			ruler = yes
-		}
+		} 
+		create_character = {
+			template = hohenzollern_3_character_template
+			heir = yes
+		} 
 	}  
 	c:USA ?= {
         create_character = {
@@ -58,11 +62,17 @@
             template = sar_victor_emmanuel_template
 			ruler = yes
 		}
-	} 
-	c:SPA ?= {
+	}  
+	c:SPA ?= { #marche pas
         create_character = {
             template = savoy_character_template
 			ruler = yes
+		}
+		random_scope_character = {
+			limit = {
+				has_template = spa_isabel_de_borbon_template
+			}
+			kill_character = yes
 		}
 	} 
 	c:CHI ?= {
@@ -112,16 +122,6 @@
             template = glucksburg_georgios_character_template
 			ruler = yes
 		}
-	} 
-
-
-
-
-
-
-
-
-
-
+	}  
 }
 
