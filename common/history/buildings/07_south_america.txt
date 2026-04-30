@@ -498,6 +498,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_trains" "pm_no_passenger_trains" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:NET"
+					levels=17
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 		region_state:FRA={
 			create_building={
@@ -6827,6 +6839,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_steel_passenger_carriages" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=14
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_PARA={

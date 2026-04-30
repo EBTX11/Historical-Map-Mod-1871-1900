@@ -733,14 +733,13 @@ INJECT:AUS = { # Austria
 		overlord_canton_scale = { 0.337 0.337 }			
 		priority = 100
 		trigger = {
-			has_game_rule = historical_map_mod_enabled
-			exists = c:AUS
-			c:AUS = {
-				has_diplomatic_pact = {
-					who = c:HUN
-					type = personal_union #puppet
-					is_initiator = yes
-				}
+			scope:actor ?= {
+				has_variable = established_austria_hungary_var
+				# AND = {
+				# 	country_has_primary_culture = cu:hungarian
+				# 	country_has_primary_culture = cu:south_german
+				# 	has_variable = established_austria_hungary_var
+				# }
 			}
 		}
 	}

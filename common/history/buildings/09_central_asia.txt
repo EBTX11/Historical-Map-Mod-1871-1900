@@ -58,17 +58,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_no_passenger_trains" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=6
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -92,6 +82,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_tanker_cars" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_KUBAN={
@@ -259,17 +261,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_rail_transport" "worker_exploitation_tea" "default_building_tea_plantation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -297,21 +289,23 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_tanker_cars" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ARMENIA={
 		region_state:RUS={
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=6
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -324,21 +318,23 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_AZERBAIJAN={
 		region_state:RUS={
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_tobacco_plantation"
 				add_ownership={
@@ -386,21 +382,23 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_tanker_cars" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_GREATER_CAUCASUS={
 		region_state:RUS={
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -413,6 +411,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_SAMARA={
@@ -607,6 +617,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_TARTARIA={
@@ -905,17 +927,19 @@
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_hereditary_bureaucrats" "pm_religious_bureaucrats" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=4
-					}
+			
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ASTRAKHAN={
@@ -942,17 +966,7 @@
 				reserves=1
 				activate_production_methods={ "pm_road_carts" "pm_simple_forestry" "pm_steam_donkey_building_logging_camp" "pm_no_hardwood" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=8
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -1002,6 +1016,18 @@
 				reserves=1
 				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_steam_threshers_building_rice_farm" "pm_fig_orchards_building_rice_farm" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_UZBEKIA={
@@ -1219,17 +1245,7 @@
 				reserves=1
 				activate_production_methods={ "pm_fertilization" "pm_citrus_orchards" "pm_steam_threshers" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 		}
 		region_state:KHI={
 			create_building={
@@ -1440,17 +1456,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -1489,17 +1495,19 @@
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_hereditary_bureaucrats" "pm_religious_bureaucrats" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
+			
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:RUS"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_TURKMENIA={
@@ -1663,17 +1671,7 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:RUS"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 		}
 	}
 	s:STATE_PASHTUNISTAN={

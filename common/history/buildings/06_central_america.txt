@@ -2066,17 +2066,18 @@
 				reserves=1
 				activate_production_methods={ "pm_industrial_port" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=1
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
 				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WEST_INDIES={
@@ -2213,6 +2214,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 		region_state:DEN={
 			create_building={
@@ -2348,17 +2361,7 @@
 				reserves=1
 				activate_production_methods={ "default_building_cotton_plantation" "pm_steam_rail_transport" "default_labour" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -2412,17 +2415,7 @@
 	}
 	s:STATE_JAMAICA={
 		region_state:GBR={
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=3
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -2459,17 +2452,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=1
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WESTERN_CUBA={

@@ -1525,7 +1525,7 @@ INJECT:AUS = {
 
 		is_main_tag_only = yes
 		priority = 5
-	
+
 		trigger = {
 			scope:actor = {
 				OR = {
@@ -1535,23 +1535,32 @@ INJECT:AUS = {
 		}
 	}
 	dynamic_country_name = {
-		name = dyn_c_austria-hungary
+		name = dyn_c_austria_hungary
 		adjective = AUS_ADJ
 
 		is_main_tag_only = yes
-		priority = 20
+		priority = 6
 		trigger = {
-			exists = c:AUS
-			c:AUS = {
-				has_diplomatic_pact = {
-					who = c:HUN
-					type = puppet
-					is_initiator = yes
+			or = {
+				c:AUS = {
+					has_diplomatic_pact = {
+						who = c:HUN
+						type = puppet
+						is_initiator = yes
+					}
+				}
+				scope:actor ?= {
+					has_variable = established_austria_hungary_var
+					# AND = {
+					# 	country_has_primary_culture = cu:hungarian
+					# 	country_has_primary_culture = cu:south_german
+					# 	has_variable = established_austria_hungary_var
+					# }
 				}
 			}
 		}
 	}
-}   
+}
 INJECT:JAP = {
 	dynamic_country_name = {
 		name = dyn_c_Japan

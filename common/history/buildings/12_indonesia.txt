@@ -7890,6 +7890,20 @@
 				activate_production_methods={ "pm_basic_shipbuilding" }
 			}
 		}
+
+		region_state:JAP = {
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:JAP"
+					levels=11
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
+		}
 	}
 	s:STATE_EAST_MICRONESIA={
 		region_state:MCR={

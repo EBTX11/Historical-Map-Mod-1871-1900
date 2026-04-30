@@ -24,10 +24,15 @@ austria_hungary = {
 
 japanese_empire = {
 	color = "white"
+
 	possible = {
-		exists = c:JAP
+		exists = c:JAP 
 		c:JAP ?= THIS
 		country_has_monarchy_law = yes
+		OR = {
+			has_variable = japan_emperor_restored
+			has_variable = japan_restoration_complete  
+		}
 		NOT = {
 			OR = {
 				has_law = law_type:law_bakufu

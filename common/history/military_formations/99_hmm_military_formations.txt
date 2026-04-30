@@ -1,0 +1,1108 @@
+MILITARY_FORMATIONS = {
+	c:JAP ?= { 
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_northeast_asia
+			name = JAP_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 40
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 10
+			}
+			save_scope_as = JAP_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_JAP_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_northeast_asia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_JAP_MILITARY_FORMATION_02
+		}
+
+		scope:character_JAP_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:JAP_MILITARY_FORMATION_02
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_northeast_asia
+			name = JAP_MILITARY_FORMATION_03
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 40
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 10
+			}
+			save_scope_as = JAP_MILITARY_FORMATION_03
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_JAP_MILITARY_FORMATION_03
+			historical = yes
+			hq = region_northeast_asia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_JAP_MILITARY_FORMATION_03
+		}
+
+		scope:character_JAP_MILITARY_FORMATION_03 = {
+			transfer_to_formation = scope:JAP_MILITARY_FORMATION_03
+		} 
+	}
+
+	c:GBR ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_01
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_02
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_02
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_03
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_03
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_03
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_03
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_03 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_03
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_04
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_04
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_04
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_04
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_04 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_04
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_05
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_05
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_05
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_05
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_05 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_05
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_06
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_06
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_06
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_06
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_06 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_06
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_07
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_07
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_07
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_07
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_07 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_07
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = GBR_MILITARY_FORMATION_08
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GBR_MILITARY_FORMATION_08
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GBR_MILITARY_FORMATION_08
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GBR_MILITARY_FORMATION_08
+		}
+
+		scope:character_GBR_MILITARY_FORMATION_08 = {
+			transfer_to_formation = scope:GBR_MILITARY_FORMATION_08
+		}
+	}
+
+	c:FRA ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = FRA_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = FRA_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_FRA_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_FRA_MILITARY_FORMATION_01
+		}
+
+		scope:character_FRA_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:FRA_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = FRA_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = FRA_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_FRA_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_FRA_MILITARY_FORMATION_02
+		}
+
+		scope:character_FRA_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:FRA_MILITARY_FORMATION_02
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = FRA_MILITARY_FORMATION_03
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = FRA_MILITARY_FORMATION_03
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_FRA_MILITARY_FORMATION_03
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_FRA_MILITARY_FORMATION_03
+		}
+
+		scope:character_FRA_MILITARY_FORMATION_03 = {
+			transfer_to_formation = scope:FRA_MILITARY_FORMATION_03
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = FRA_MILITARY_FORMATION_04
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = FRA_MILITARY_FORMATION_04
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_FRA_MILITARY_FORMATION_04
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_FRA_MILITARY_FORMATION_04
+		}
+
+		scope:character_FRA_MILITARY_FORMATION_04 = {
+			transfer_to_formation = scope:FRA_MILITARY_FORMATION_04
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = FRA_MILITARY_FORMATION_05
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = FRA_MILITARY_FORMATION_05
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_FRA_MILITARY_FORMATION_05
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_FRA_MILITARY_FORMATION_05
+		}
+
+		scope:character_FRA_MILITARY_FORMATION_05 = {
+			transfer_to_formation = scope:FRA_MILITARY_FORMATION_05
+		}
+	}
+
+	c:RUS ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_russia
+			name = RUS_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = RUS_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_RUS_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_russia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_RUS_MILITARY_FORMATION_01
+		}
+
+		scope:character_RUS_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:RUS_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_russia
+			name = RUS_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = RUS_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_RUS_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_russia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_RUS_MILITARY_FORMATION_02
+		}
+
+		scope:character_RUS_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:RUS_MILITARY_FORMATION_02
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_russia
+			name = RUS_MILITARY_FORMATION_03
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = RUS_MILITARY_FORMATION_03
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_RUS_MILITARY_FORMATION_03
+			historical = yes
+			hq = region_russia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_RUS_MILITARY_FORMATION_03
+		}
+
+		scope:character_RUS_MILITARY_FORMATION_03 = {
+			transfer_to_formation = scope:RUS_MILITARY_FORMATION_03
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_russia
+			name = RUS_MILITARY_FORMATION_04
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = RUS_MILITARY_FORMATION_04
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_RUS_MILITARY_FORMATION_04
+			historical = yes
+			hq = region_russia
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_RUS_MILITARY_FORMATION_04
+		}
+
+		scope:character_RUS_MILITARY_FORMATION_04 = {
+			transfer_to_formation = scope:RUS_MILITARY_FORMATION_04
+		}
+	}
+
+	c:USA ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_atlantic_coast
+			name = USA_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = USA_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_USA_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_atlantic_coast
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_USA_MILITARY_FORMATION_01
+		}
+
+		scope:character_USA_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:USA_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_atlantic_coast
+			name = USA_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = USA_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_USA_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_atlantic_coast
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_USA_MILITARY_FORMATION_02
+		}
+
+		scope:character_USA_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:USA_MILITARY_FORMATION_02
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_atlantic_coast
+			name = USA_MILITARY_FORMATION_03
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = USA_MILITARY_FORMATION_03
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_USA_MILITARY_FORMATION_03
+			historical = yes
+			hq = region_atlantic_coast
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_USA_MILITARY_FORMATION_03
+		}
+
+		scope:character_USA_MILITARY_FORMATION_03 = {
+			transfer_to_formation = scope:USA_MILITARY_FORMATION_03
+		}
+	}
+
+	c:ITA ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_southern_europe
+			name = ITA_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = ITA_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_ITA_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_southern_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_ITA_MILITARY_FORMATION_01
+		}
+
+		scope:character_ITA_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:ITA_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_southern_europe
+			name = ITA_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = ITA_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_ITA_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_southern_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_ITA_MILITARY_FORMATION_02
+		}
+
+		scope:character_ITA_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:ITA_MILITARY_FORMATION_02
+		}
+	}
+
+	c:AUS ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_balkans
+			name = AUS_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = AUS_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_AUS_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_balkans
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_AUS_MILITARY_FORMATION_01
+		}
+
+		scope:character_AUS_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:AUS_MILITARY_FORMATION_01
+		}
+	}
+
+	c:SPA ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_southern_europe
+			name = SPA_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = SPA_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_SPA_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_southern_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_SPA_MILITARY_FORMATION_01
+		}
+
+		scope:character_SPA_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:SPA_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_southern_europe
+			name = SPA_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = SPA_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_SPA_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_southern_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_SPA_MILITARY_FORMATION_02
+		}
+
+		scope:character_SPA_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:SPA_MILITARY_FORMATION_02
+		}
+	} 
+
+	c:GER ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_central_europe
+			name = GER_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = GER_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_GER_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_central_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_GER_MILITARY_FORMATION_01
+		}
+
+		scope:character_GER_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:GER_MILITARY_FORMATION_01
+		}
+	}
+
+	c:BEL ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = BEL_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = BEL_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_BEL_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_BEL_MILITARY_FORMATION_01
+		}
+
+		scope:character_BEL_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:BEL_MILITARY_FORMATION_01
+		}
+	}
+
+	c:NET ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = NET_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = NET_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_NET_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_NET_MILITARY_FORMATION_01
+		}
+
+		scope:character_NET_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:NET_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_western_europe
+			name = NET_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_pre_dreadnought
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_armored_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = NET_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_NET_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_western_europe
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_NET_MILITARY_FORMATION_02
+		}
+
+		scope:character_NET_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:NET_MILITARY_FORMATION_02
+		}
+	}
+} 

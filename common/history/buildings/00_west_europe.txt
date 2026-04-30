@@ -1668,17 +1668,7 @@
 				reserves=1
 				activate_production_methods={ "pm_metal_shipbuilding" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=55
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -2075,17 +2065,18 @@
 				reserves=1
 				activate_production_methods={ "pm_military_shipbuilding_steam" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=39
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_LANCASHIRE={
@@ -2222,17 +2213,7 @@
 				reserves=1
 				activate_production_methods={ "pm_slaughterhouses" "pm_sheep_farms" "pm_unrefrigerated" "pm_standard_fences" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=50
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_railway"
 				add_ownership={
@@ -2640,17 +2621,18 @@
 				reserves=1
 				activate_production_methods={ "pm_rotary_valve_engine_building_arms_industry" "pm_breech_loaders" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=46
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WALES={
@@ -2969,17 +2951,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_professional_bureaucrats" "pm_religious_bureaucrats" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_military_shipyard"
 				add_ownership={
@@ -3014,17 +2986,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=23
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=14
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_YORKSHIRE={
@@ -3075,17 +3048,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_engines" "pm_rotary_valve_engine_building_motor_industry" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=40
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_coal_mine"
 				add_ownership={
@@ -3370,17 +3333,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=28
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=14
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_HIGHLANDS={
@@ -3721,17 +3685,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_steel_passenger_carriages" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=28
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_military_shipyard"
 				add_ownership={
@@ -3807,17 +3761,18 @@
 				reserves=1
 				activate_production_methods={ "pm_rotary_valve_engine_building_arms_industry" "pm_repeaters" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=63
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_MIDLANDS={
@@ -4190,28 +4145,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=15
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=8
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -4226,6 +4160,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_EAST_ANGLIA={
@@ -4265,17 +4211,7 @@
 				reserves=1
 				activate_production_methods={ "pm_metal_shipbuilding" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=42
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -4491,17 +4427,7 @@
 				reserves=1
 				activate_production_methods={ "pm_rubber_grips" "pm_rotary_valve_engine_building_tooling_workshop" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=20
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -4527,6 +4453,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_road_carts" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WEST_COUNTRY={
@@ -4553,17 +4491,7 @@
 				reserves=1
 				activate_production_methods={ "pm_metal_shipbuilding" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=50
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -4891,17 +4819,7 @@
 				reserves=1
 				activate_production_methods={ "pm_rubber_grips" "pm_rotary_valve_engine_building_tooling_workshop" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=28
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -4948,6 +4866,18 @@
 				reserves=1
 				activate_production_methods={ "pm_breech_loaders" "pm_rotary_valve_engine_building_arms_industry" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=14
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_LOWLANDS={
@@ -5031,17 +4961,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trawlers" "pm_unrefrigerated" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=9
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_railway"
 				add_ownership={
@@ -5251,17 +5171,7 @@
 				reserves=1
 				activate_production_methods={ "pm_rotary_valve_engine_building_arms_industry" "pm_breech_loaders" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=29
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -5274,6 +5184,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ULSTER={
@@ -5445,17 +5367,7 @@
 				reserves=1
 				activate_production_methods={ "pm_metal_shipbuilding" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=34
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_chemical_plant"
 				add_ownership={
@@ -5469,17 +5381,7 @@
 				reserves=1
 				activate_production_methods={ "pm_improved_fertilizer" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=63
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -5604,6 +5506,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=14
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_MUNSTER={
@@ -5693,17 +5607,7 @@
 				reserves=1
 				activate_production_methods={ "pm_rail_transport_building_logging_camp" "pm_simple_forestry" "pm_steam_donkey_building_logging_camp" "pm_no_hardwood" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=5
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -5715,17 +5619,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trawlers" "pm_unrefrigerated" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=8
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -5770,6 +5664,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_steel_passenger_carriages" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_LEINSTER={
@@ -5847,17 +5753,7 @@
 				reserves=1
 				activate_production_methods={ "pm_fertilization" "pm_steam_threshers" "pm_potatoes" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -6131,17 +6027,7 @@
 				reserves=1
 				activate_production_methods={ "pm_slaughterhouses" "pm_sheep_farms" "pm_unrefrigerated" "pm_standard_fences" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=26
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_railway"
 				add_ownership={
@@ -6184,6 +6070,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_CONNAUGHT={
@@ -6290,17 +6188,7 @@
 				reserves=1
 				activate_production_methods={ "pm_condensing_engine_pump_building_sulfur_mine" "pm_dynamite_building_sulfur_mine" "pm_steam_donkey_mine" "pm_road_carts" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GBR"
-						levels=9
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -6326,6 +6214,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GBR"
+					levels=15
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ILE_DE_FRANCE={
@@ -6597,17 +6497,7 @@
 				reserves=1
 				activate_production_methods={ "pm_default_building_eiffel_tower" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=34
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_vineyard"
 				add_ownership={
@@ -6718,6 +6608,18 @@
 				reserves=1
 				activate_production_methods={ "pm_mechanized_looms" "pm_no_luxury_clothes" "pm_sewing_machines" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 		region_state:PRC={
 			create_building={
@@ -7071,17 +6973,7 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_silk_plantation" "pm_steam_rail_transport" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=40
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -7270,17 +7162,7 @@
 				reserves=1
 				activate_production_methods={ "pm_military_shipbuilding_steam" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=10
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_munition_plant"
 				add_ownership={
@@ -7292,6 +7174,18 @@
 				reserves=1
 				activate_production_methods={ "pm_explosive_shells" "pm_rotary_valve_engine_building_munition_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 		region_state:MOO={
 			create_building={
@@ -7727,17 +7621,7 @@
 				reserves=1
 				activate_production_methods={ "pm_slaughterhouses" "pm_sheep_farms" "pm_unrefrigerated" "pm_electric_fencing" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=16
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -8100,17 +7984,7 @@
 				reserves=1
 				activate_production_methods={ "pm_improved_fertilizer" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=28
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_vineyard"
 				add_ownership={
@@ -8141,6 +8015,18 @@
 				reserves=1
 				activate_production_methods={ "pm_breech_loaders" "pm_rotary_valve_engine_building_arms_industry" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_LANGUEDOC={
@@ -8466,28 +8352,7 @@
 				reserves=1
 				activate_production_methods={ "pm_mechanized_workshops" "pm_no_luxuries" "pm_rotary_valve_engine_building_furniture_manufactory" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=38
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=14
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -8532,6 +8397,18 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_vineyard" "pm_steam_rail_transport" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_RHONE={
@@ -8843,17 +8720,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel" "pm_rotary_valve_engine_building_tooling_workshop" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=30
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_FRENCH_LOW_COUNTRIES={
@@ -9099,28 +8977,7 @@
 				reserves=1
 				activate_production_methods={ "pm_bleached_paper" "pm_rotary_valve_engine_building_paper_mill" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=40
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=36
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -9132,6 +8989,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_PICARDY={
@@ -9575,17 +9444,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=10
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_artillery_foundry"
 				add_ownership={
@@ -9597,6 +9456,18 @@
 				reserves=1
 				activate_production_methods={ "pm_breech_loaders" "pm_rotary_valve_engine_building_arms_industry" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ALSACE_LORRAINE={
@@ -9778,17 +9649,18 @@
 				reserves=1
 				activate_production_methods={ "pm_explosive_shells" "pm_rotary_valve_engine_building_munition_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=1
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_POITOU={
@@ -10137,17 +10009,7 @@
 				reserves=1
 				activate_production_methods={ "pm_mechanized_workshops" "pm_no_luxuries" "pm_automation_disabled" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=15
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -10208,17 +10070,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=10
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_vineyard"
 				add_ownership={
@@ -10256,6 +10108,18 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_vineyard" "pm_steam_rail_transport" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_GUYENNE={
@@ -10534,17 +10398,7 @@
 				reserves=1
 				activate_production_methods={ "pm_improved_fertilizer" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=41
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_vineyard"
 				add_ownership={
@@ -10570,6 +10424,18 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_vineyard" "pm_steam_rail_transport" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_AUVERGNE_LIMOUSIN={
@@ -10840,17 +10706,7 @@
 				reserves=1
 				activate_production_methods={ "pm_repeaters" "pm_rotary_valve_engine_building_arms_industry" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=63
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -10862,6 +10718,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BRITTANY={
@@ -10953,17 +10821,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trawlers" "pm_unrefrigerated" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=40
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -11272,17 +11130,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=17
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BURGUNDY={
@@ -11610,6 +11469,18 @@
 				reserves=1
 				activate_production_methods={ "pm_sewing_machines" "pm_no_luxury_clothes" "pm_mechanized_looms" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_CHAMPAGNE={
@@ -11846,17 +11717,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=25
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -11879,6 +11740,18 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_vineyard" "pm_steam_rail_transport" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_FRANCHE_COMTE={
@@ -12117,17 +11990,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=4
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_LORRAINE={
@@ -12369,17 +12243,18 @@
 				reserves=1
 				activate_production_methods={ "pm_rotary_valve_engine_building_arms_industry" "pm_muskets" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=31
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_AQUITAINE={
@@ -12438,17 +12313,7 @@
 				reserves=1
 				activate_production_methods={ "pm_fertilization" "pm_citrus_orchards" "pm_steam_threshers" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=25
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -12719,17 +12584,7 @@
 				reserves=1
 				activate_production_methods={ "automatic_irrigation_building_vineyard" "pm_steam_rail_transport" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=9
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_skyscraper"
 				add_ownership={
@@ -12741,6 +12596,18 @@
 				reserves=1
 				activate_production_methods={ "pm_skyscraper_bureaucratic_nexus" "pm_no_airships" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ORLEANS={
@@ -12989,17 +12856,18 @@
 				reserves=1
 				activate_production_methods={ "pm_bleached_paper" "pm_rotary_valve_engine_building_paper_mill" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:FRA"
-						levels=21
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=6
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_HOLLAND={
@@ -13255,17 +13123,7 @@
 				reserves=1
 				activate_production_methods={ "pm_leblanc_process" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=18
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -13294,17 +13152,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_normal" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=31
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_military_shipyard"
 				add_ownership={
@@ -13316,6 +13164,18 @@
 				reserves=1
 				activate_production_methods={ "pm_military_shipbuilding_wooden" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:NET"
+					levels=17
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_FRIESLAND={
@@ -13625,28 +13485,7 @@
 				reserves=1
 				activate_production_methods={ "pm_cannons" "pm_automation_disabled" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=10
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=13
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+
 			create_building={
 				building="building_art_academy"
 				add_ownership={
@@ -13705,6 +13544,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:NET"
+					levels=18
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_GELRE={
@@ -13896,17 +13747,19 @@
 				reserves=1
 				activate_production_methods={ "pm_early_trains" "pm_wooden_passenger_carriages" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:NET"
-						levels=5
-					}
+			
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:NET"
+					levels=18
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WALLONIA={
@@ -14264,17 +14117,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_donkey_mine" "pm_no_explosives" "pm_condensing_engine_pump_building_sulfur_mine" "pm_rail_transport_mine" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:BEL"
-						levels=18
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:BEL"
+					levels=17
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 		region_state:LUX={
 			create_building={
@@ -14805,28 +14659,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:BEL"
-						levels=16
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:BEL"
+					levels=18
 				}
-				reserves=1
-				activate_production_methods={ "pm_general_training" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:BEL"
-						levels=5
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_AUSTRIA={
@@ -15241,17 +15085,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=26
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -15295,6 +15129,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BOHEMIA={
@@ -15766,17 +15612,7 @@
 				reserves=1
 				activate_production_methods={ "pm_dye_production" "pm_no_artificial_fibers" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=37
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_gold_mine"
 				add_ownership={
@@ -15860,6 +15696,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_normal" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_MORAVIA={
@@ -16198,17 +16046,7 @@
 				reserves=1
 				activate_production_methods={ "pm_leblanc_process" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=41
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_power_plant"
 				add_ownership={
@@ -16279,6 +16117,18 @@
 				reserves=1
 				activate_production_methods={ "pm_traditional_art" "pm_traditional_patronage" "pm_freedom_of_movement_no_effect" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_STYRIA={
@@ -16700,17 +16550,7 @@
 				reserves=1
 				activate_production_methods={ "pm_breech_loaders" "pm_rotary_valve_engine_building_arms_industry" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -16722,6 +16562,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_hereditary_bureaucrats" "pm_secular_bureaucrats" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_TYROL={
@@ -16947,17 +16799,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_steel_passenger_carriages" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=4
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_SOUTH_TYROL={
@@ -17070,17 +16923,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:AUS"
-						levels=2
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:AUS"
+					levels=3
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_POMERANIA={
@@ -17147,17 +17001,7 @@
 				reserves=1
 				activate_production_methods={ "pm_simple_forestry" "pm_no_hardwood" "pm_steam_donkey_building_logging_camp" "pm_rail_transport_building_logging_camp" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -17428,17 +17272,7 @@
 				reserves=1
 				activate_production_methods={ "pm_leblanc_process" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=13
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
-			}
+			
 			create_building={
 				building="building_military_shipyard"
 				add_ownership={
@@ -17450,6 +17284,18 @@
 				reserves=1
 				activate_production_methods={ "pm_military_shipbuilding_steam" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ELBE={
@@ -17874,28 +17720,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_normal" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=13
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+
 			create_building={
 				building="building_oil_rig"
 				add_ownership={
@@ -17907,6 +17732,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_road_carts" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_EAST_SWITZERLAND={
@@ -19031,17 +18868,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=3
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_ANHALT={
@@ -19520,17 +19358,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=7
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_RHINELAND={
@@ -20112,17 +19951,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=9
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_no_organization" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_NORTH_RHINE={
@@ -20558,17 +20398,18 @@
 				reserves=1
 				activate_production_methods={ "pm_automation_disabled" "pm_breech_loaders" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=8
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BRANDENBURG={
@@ -21006,17 +20847,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=8
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_SCHLESWIG_HOLSTEIN={
@@ -21425,17 +21267,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_trains" "pm_no_passenger_trains" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=4
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_food_industry"
 				add_ownership={
@@ -21495,17 +21327,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -21531,6 +21353,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_WURTTEMBERG={
@@ -21863,17 +21697,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=13
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BADEN={
@@ -22338,17 +22173,7 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=14
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_art_academy"
 				add_ownership={
@@ -22380,6 +22205,18 @@
 				reserves=1
 				activate_production_methods={ "pm_traditional_art" "pm_traditional_patronage" "pm_freedom_of_movement_no_effect" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_HANNOVER={
@@ -22632,17 +22469,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=3
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_steel_mill"
 				add_ownership={
@@ -22815,17 +22642,7 @@
 				reserves=1
 				activate_production_methods={ "pm_mechanized_workshops" "pm_no_luxuries" "pm_rotary_valve_engine_building_furniture_manufactory" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=13
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_oil_rig"
 				add_ownership={
@@ -22837,6 +22654,18 @@
 				reserves=1
 				activate_production_methods={ "pm_steam_derricks" "pm_road_carts" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BRUNSWICK={
@@ -23146,17 +22975,18 @@
 				reserves=1
 				activate_production_methods={ "pm_rotary_valve_engine_building_arms_industry" "pm_repeaters" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=20
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_BAVARIA={
@@ -23608,17 +23438,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=6
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_FRANCONIA={
@@ -23849,17 +23680,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=11
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_SAXONY={
@@ -24283,17 +24115,18 @@
 				reserves=1
 				activate_production_methods={ "pm_bleached_paper" "pm_rotary_valve_engine_building_paper_mill" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=3
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_HESSE={
@@ -24593,17 +24426,18 @@
 				reserves=1
 				activate_production_methods={ "pm_early_power_plant" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=1
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=2
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_MECKLENBURG={
@@ -24719,17 +24553,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_jeune_ecole" }
-			}
+			
 			create_building={
 				building="building_tooling_workshop"
 				add_ownership={
@@ -24837,17 +24661,18 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=2
-					}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
 				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
 			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_RUHR={
@@ -25213,17 +25038,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_very_high" }
 			}
-			create_building={
-				building="building_barrack"
-				add_ownership={
-					country={
-						country="c:GER"
-						levels=12
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_advanced_tactics_training" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -25246,6 +25061,18 @@
 				reserves=1
 				activate_production_methods={ "pm_breech_loaders" "pm_rotary_valve_engine_building_arms_industry" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:GER"
+					levels=1
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 	s:STATE_MAINE_ANJOU={
@@ -25455,6 +25282,18 @@
 				reserves=1
 				activate_production_methods={ "pm_vacuum_evaporation" }
 			}
+
+		create_building={
+			building="building_naval_administration"
+			add_ownership={
+				country={
+					country="c:FRA"
+					levels=7
+				}
+			}
+			reserves=1
+			activate_production_methods={ "pm_simple_sailor_recruitment" }
+		}
 		}
 	}
 }
