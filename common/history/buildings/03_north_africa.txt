@@ -159,17 +159,7 @@
 				reserves=1
 				activate_production_methods={ "pm_unrefrigerated" "pm_fishing_trawlers" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=4
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -679,17 +669,7 @@
 				reserves=1
 				activate_production_methods={ "pm_philosophy_department" "pm_religious_academia" "pm_freedom_of_movement_no_effect" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=5
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_trade_center"
 				add_ownership={
@@ -962,17 +942,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_high" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=4
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_university"
 				add_ownership={
@@ -1169,17 +1139,7 @@
 				reserves=1
 				activate_production_methods={ "pm_vertical_filing_cabinets" "pm_religious_bureaucrats" "pm_professional_bureaucrats" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -1273,17 +1233,7 @@
 				reserves=1
 				activate_production_methods={ "pm_iron_frame_buildings" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_barrack"
 				add_ownership={
@@ -1595,17 +1545,7 @@
 				reserves=1
 				activate_production_methods={ "pm_steel" "pm_rotary_valve_engine_building_tooling_workshop" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:EGY"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_shipyard"
 				add_ownership={
@@ -1985,17 +1925,7 @@
 				reserves=1
 				activate_production_methods={ "pm_freedom_of_movement_no_effect" "pm_religious_academia" "pm_philosophy_department" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:MOR"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_power_of_the_purse" }
-			}
+			
 			create_building={
 				building="building_banana_plantation"
 				add_ownership={
@@ -2585,17 +2515,18 @@
 				activate_production_methods={ "pm_mechanized_workshops" "pm_no_luxuries" "pm_rotary_valve_engine_building_furniture_manufactory" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:FRA"
-					levels=7
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:FRA"
+						levels=7
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 	}
 	s:STATE_CONSTANTINE={
@@ -2937,17 +2868,18 @@
 				activate_production_methods={ "pm_industrial_port" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:FRA"
-					levels=7
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:FRA"
+						levels=7
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 	}
 	s:STATE_ORAN={
@@ -3120,17 +3052,18 @@
 				activate_production_methods={ "pm_early_power_plant" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:FRA"
-					levels=7
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:FRA"
+						levels=7
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 	}
 	s:STATE_TUNISIA={

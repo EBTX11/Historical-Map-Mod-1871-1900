@@ -475,17 +475,7 @@
 				reserves=1
 				activate_production_methods={ "default_building_tobacco_plantation" "hand_rolled" "default_labour_tobacco" "pm_road_carts" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:HON"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_logging_camp"
 				add_ownership={
@@ -1199,17 +1189,7 @@
 				reserves=1
 				activate_production_methods={ "pm_no_organization" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:MKT"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_textile_mill"
 				add_ownership={
@@ -1736,17 +1716,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_normal" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:HAI"
-						levels=2
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -2027,17 +1997,7 @@
 				reserves=1
 				activate_production_methods={ "pm_simple_farming_building_rice_farm" "pm_tools_building_rice_farm" "pm_fig_orchards_building_rice_farm" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:PCO"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={
@@ -2067,17 +2027,18 @@
 				activate_production_methods={ "pm_industrial_port" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:GBR"
-					levels=15
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:GBR"
+						levels=15
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 	}
 	s:STATE_WEST_INDIES={
@@ -2215,17 +2176,18 @@
 				activate_production_methods={ "pm_early_power_plant" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:FRA"
-					levels=6
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:FRA"
+						levels=6
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 		region_state:DEN={
 			create_building={
@@ -2252,17 +2214,7 @@
 				reserves=1
 				activate_production_methods={ "pm_anchorage" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:DEN"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_barrack"
 				add_ownership={
@@ -2453,17 +2405,18 @@
 				activate_production_methods={ "pm_steel_frame_buildings" }
 			}
 
-		create_building={
-			building="building_naval_administration"
-			add_ownership={
-				country={
-					country="c:GBR"
-					levels=15
+
+			create_building={
+				building="building_naval_administration"
+				add_ownership={
+					country={
+						country="c:GBR"
+						levels=15
+					}
 				}
+				reserves=1
+				activate_production_methods={ "pm_simple_sailor_recruitment" }
 			}
-			reserves=1
-			activate_production_methods={ "pm_simple_sailor_recruitment" }
-		}
 		}
 	}
 	s:STATE_WESTERN_CUBA={
@@ -2695,17 +2648,7 @@
 				reserves=1
 				activate_production_methods={ "pm_trade_center" "pm_trade_center_trade_quantity_normal" }
 			}
-			create_building={
-				building="building_naval_base"
-				add_ownership={
-					country={
-						country="c:CUB"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_no_naval_theory" }
-			}
+			
 			create_building={
 				building="building_construction_sector"
 				add_ownership={

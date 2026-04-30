@@ -1105,4 +1105,222 @@ MILITARY_FORMATIONS = {
 			transfer_to_formation = scope:NET_MILITARY_FORMATION_02
 		}
 	}
+
+	c:BRZ ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_brazil
+			name = BRZ_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = BRZ_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_BRZ_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_brazil
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_BRZ_MILITARY_FORMATION_01
+		}
+
+		scope:character_BRZ_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:BRZ_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_brazil
+			name = BRZ_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 20
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 5
+			}
+			save_scope_as = BRZ_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_BRZ_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_brazil
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_BRZ_MILITARY_FORMATION_02
+		}
+
+		scope:character_BRZ_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:BRZ_MILITARY_FORMATION_02
+		}
+	}
+
+	c:URU ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_brazil
+			name = URU_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 5
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 2
+			}
+			save_scope_as = URU_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_URU_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_brazil
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_URU_MILITARY_FORMATION_01
+		}
+
+		scope:character_URU_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:URU_MILITARY_FORMATION_01
+		}
+	}
+
+	c:ARG ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_la_plata
+			name = ARG_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 5
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 2
+			}
+			save_scope_as = ARG_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_ARG_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_la_plata
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_ARG_MILITARY_FORMATION_01
+		}
+
+		scope:character_ARG_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:ARG_MILITARY_FORMATION_01
+		}
+	}
+
+	c:CHL ?= {
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_la_plata
+			name = CHL_MILITARY_FORMATION_01
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 5
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 2
+			}
+			save_scope_as = CHL_MILITARY_FORMATION_01
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_CHL_MILITARY_FORMATION_01
+			historical = yes
+			hq = region_la_plata
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_CHL_MILITARY_FORMATION_01
+		}
+
+		scope:character_CHL_MILITARY_FORMATION_01 = {
+			transfer_to_formation = scope:CHL_MILITARY_FORMATION_01
+		}
+
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_la_plata
+			name = CHL_MILITARY_FORMATION_02
+
+			ship = {
+				type = ship_type:ship_type_modern_ironclad
+				count = 5
+			}
+			ship = {
+				type = ship_type:ship_type_protected_cruiser
+				count = 10
+			}
+			ship = {
+				type = ship_type:ship_type_torpedo_boat
+				count = 2
+			}
+			save_scope_as = CHL_MILITARY_FORMATION_02
+		}
+
+		create_character = {
+			is_general = no
+			is_admiral = yes
+			first_name = character_CHL_MILITARY_FORMATION_02
+			historical = yes
+			hq = region_la_plata
+			commander_rank = commander_rank_5
+			age = 40
+			save_scope_as = character_CHL_MILITARY_FORMATION_02
+		}
+
+		scope:character_CHL_MILITARY_FORMATION_02 = {
+			transfer_to_formation = scope:CHL_MILITARY_FORMATION_02
+		}
+	}
 } 
